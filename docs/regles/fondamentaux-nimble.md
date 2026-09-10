@@ -46,7 +46,11 @@ Plafond d'une compétence : **+12**.
 ## DC des jets de sauvegarde imposés
 
 - **Par une capacité de héros** (sort, trait, capacité de classe) : **10 + stat clé du lanceur**.
-- **Par un monstre** : suit une table liée à son niveau (voir le Bestiaire — chaque créature convertie précise son propre DC).
+- **Par un monstre** : suit une table liée à son niveau (chaque créature convertie du Bestiaire précise déjà son propre DC) :
+
+| Niveau monstre | 1/4-1/3 | 1/2-1 | 2-3 | 4-5 | 6-7 | 8-9 | 10-11 | 12-13 | 14-15 | 16-17 | 18-20 |
+|---|---|---|---|---|---|---|---|---|---|---|---|
+| DC | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19-20 |
 
 ## Avantage / Désavantage
 
@@ -55,8 +59,8 @@ Pas « 2d20, garder un résultat » : on **ajoute un dé du même type** au jet 
 ## Repères de calibrage (pour toute création homebrew)
 
 - Un bonus fixe permanent sur une Ascendance ne dépasse normalement pas **+1** ; au-delà, préférez une capacité à charges (1×/repos sûr, 1×/rencontre).
-- Aucune arme ni aucun sort ne voit son dé de dégâts grossir avec le niveau — la progression vient de la stat clé (petits bonus) et de l'accès à des rangs de sorts plus élevés, jamais d'un bonus fixe qui grandit.
-- Un effet offensif de rang 1 coûte typiquement **2 actions** pour environ **3 dés** de dégâts.
+- Le **dé de base d'une arme ou d'un sort ne grossit jamais** avec le niveau. En revanche, plusieurs classes ont un **dé de ressource dédié** qui grossit explicitement par palier de niveau — ce n'est pas une exception à la règle précédente, c'est un mécanisme de classe séparé. Exemples : Dés de Fureur du Berserker (1d4 → d6 → d8 → d10 → d12), Dés de Combat du Commandant (d8 → d10 → d12 → d20), Attaque Sournoise du Tricheur (1d6 → 1d8 → 2d8 → 2d10 → 2d12 → 2d20 → 3d20), Dés de Jugement du Chevalier du Serment (d8 → d10 → d12 → d20).
+- Coût en actions d'un sort : cantrip/réaction/effet simple non-dommageable = **1 action** ; sort de rang normal = **2 actions** ; grand sort de zone à distance = **3 actions**. Un sort de rang 1 typique fait environ **3 dés** de dégâts pour 2 actions (ex. *Magic Missile* : 2 actions, 1d4+1 ×3, ne rate jamais).
 - Les effets qui **ignorent l'armure** sont un marqueur de puissance fort — à réserver aux sorts qui n'ont rien d'autre en plus.
 
 ## Correspondances rapides depuis un système à d20 ascendant (5e-like)
@@ -65,11 +69,15 @@ Pas « 2d20, garder un résultat » : on **ajoute un dé du même type** au jet 
 |---|---|
 | JdS Constitution | JdS FOR |
 | JdS Sagesse / Charisme | JdS VOL |
-| Compétence Discrétion/Acrobaties | Finesse ou Discrétion (DEX) |
-| Compétence Investigation/Médecine | Investigation (INT) |
-| Compétence Survie/Dressage/Nature | Survie (VOL) |
-| Compétence Persuasion/Tromperie/Représentation | Influence (VOL) |
+| Compétence Athlétisme | Force *(Might)* |
+| Compétence Escamotage/Acrobaties | Finesse |
+| Compétence Dressage/Nature/Survie | Survie *(Naturecraft)* |
+| Compétence Tromperie/Persuasion/Représentation | Influence |
+| Compétence Histoire/Religion | Savoir *(Lore)* |
+| Compétence Investigation/Médecine | Investigation *(Examination)* |
 | États Paralysé/Étourdi/Inconscient | Incapacité |
 | CA 14-17 (monstre) | Armure Moyenne |
 | CA <14 (monstre) | Sans armure |
 | CA >17 (monstre) | Armure Lourde |
+
+*Note : Discrétion (Stealth) et Perception existent déjà telles quelles comme compétences Nimble — pas de conversion nécessaire pour elles.*
