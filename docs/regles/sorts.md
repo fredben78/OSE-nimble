@@ -17,7 +17,7 @@
 | **Crystal Resonance** | Rituel | Un cristal porté vibre en présence de magie active dans 12 cases (non directionnel). |
 | **Decipher** | Rituel | Lisez tout texte, même codé ou en langue inconnue, en 1 tour de concentration. |
 | **Fairy Servant** | Rituel | Invoque un serviteur invisible (comme *Unseen Servant*) pour 1h : porte, nettoie, ouvre des portes simples. |
-| **Firelight** | = *Kindle* (Utility Feu) | Allume ou illumine un petit objet/zone, reflavoré. |
+| **Firelight** | = *Kindle* (Utility Feu) | Conjure une illusion visuelle mineure, OU enflamme un petit objet non tenu à Portée 6. |
 | **Floating Disc** | = *Ice Disk* (Utility Glace) | Disque flottant porteur, reflavoré comme artefact arcanique. |
 | **Glyph of Sealing** | Rituel | Scelle une porte/coffre ; forcer l'ouverture sans le mot-clé inflige 1d6 dégâts (ignore armure). |
 | **Ignite/Extinguish** | = *Kindle* (variante) | Allume/éteint une flamme à distance (Reach 2). |
@@ -55,8 +55,8 @@
 | **Fireball** 🛠 | 2 actions, Reach 8, zone 3×3 | 4d6 dégâts feu, JdS DEX pour moitié. Enflamme les surfaces inflammables. |
 | **Fly** *(emprunt Vent)* | = *Fly* (Vent, Rang3) | Vitesse de vol 12, Concentration 10 min — repris tel quel. |
 | **Haste** 🛠 | 1 action, Touch, Concentration 1 min | La cible gagne +1 action/tour ; à la fin du sort, elle est Lente (Slowed) 1 tour. |
-| **Lightning Bolt** | = *Stormlash* (Foudre, Rang3) | 3d8+4 dégâts (ignore armure métallique), ligne, JdS FOR. |
-| **Missile Ward** | = *Barrier of Wind* (Vent, Rang2) | Réaction : Défend gratuit, +3 Armure contre attaques à distance ce tour. |
+| **Lightning Bolt** | = *Stormlash* (Foudre, Rang3) | 3d8+4 dégâts (ignore armure métallique), ligne. JdS FOR ou Sonné (Dazed) ; échec de 5+ = Incapacité 1 tour à la place. Cibles très métalliques : désavantage au JdS. |
+| **Missile Ward** | = *Barrier of Wind* (Vent, Rang2) | Réaction : Défend gratuit ; les attaques à distance contre vous ont désavantage ce tour (y compris l'attaque déclenchante). *(+3 Armure est un bonus d'Upcast, pas l'effet de base.)* |
 | **Paralysation** 🛠 | 2 actions, Reach 4 | JdS FOR ou Incapacitée jusqu'à dégâts subis ou 1 min. |
 | **Serpent Glyph** | Rituel, 1 charge | Glyphe caché : serpent illusoire effrayant si déclenché (Frightened 1 tour). |
 | **Water Breathing** | Rituel, 1h, 6 cibles | Respirez sous l'eau. |
@@ -75,7 +75,7 @@
 | **Plant Growth** | Rituel | Fait pousser ou dépérir la végétation d'une zone. |
 | **Polymorph** 🛠 | 2 actions, Reach 8 | JdS VOL (ou volontaire) : transforme la cible en créature de niveau ≤ moitié du vôtre, 1 min (permanent si volontaire). |
 | **Wall of Fire** 🛠 | 2 actions, Reach 8, Concentration 1 min | Mur de 5 cases contiguës, 1 case d'épaisseur ; 2d8 dégâts feu à la traversée. |
-| **Wall of Ice** | = *Rimeblades* (Glace, Rang4) | Pics de glace sur 5 cases contiguës, 2d6/case traversée. |
+| **Wall of Ice** | = *Rimeblades* (Glace, Rang4) | Pics de glace sur 5 cases contiguës (terrain difficile permanent), 2d6/case traversée. |
 | **Woodland Veil** | Rituel, 1h | Avantage sur les tests de Discrétion en milieu boisé pour vous et vos alliés. |
 
 ### Rang 5 — Tier Nimble 5-7
@@ -110,7 +110,7 @@
 | **Petrification** 🛠 | 2 actions, Reach 4 | JdS FOR ou cible Pétrifiée (Incapacitée, immunisée aux dégâts, apparence de statue) jusqu'à dissipation. |
 | **Project Image** 🛠 | Concentration 1h | Projette une image de vous-même, capable de parler/agir, n'importe où déjà visité (illusoire, ne peut interagir physiquement). |
 | **Wave of Force** | ≈ *Eye of the Storm* amplifié (Vent, Rang4) | 6d4+15 dégâts contondants, zone, JdS STR ou repoussé. |
-| **Word of Doom** | = *Unspeakable Word* (Nécrotique, Rang6) | d66 dégâts (pas de miss/crit), JdS INT ou dégâts pleins + Bloodied/Frightened — match quasi-parfait, repris tel quel. |
+| **Word of Doom** | = *Unspeakable Word* (Nécrotique, Rang6) | d66 dégâts (avantage, ignore armure, ne rate/critique jamais), Reach 8. JdS INT : réussite = lanceur ET cible subissent moitié dégâts chacun ; échec = cible seule subit les dégâts pleins. Désavantage au JdS si la cible est déjà Ensanglantée/Effrayée (pas des effets infligés par le sort). |
 
 ---
 
