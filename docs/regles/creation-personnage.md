@@ -8,67 +8,79 @@
 
 ## 1. Les étapes de création
 
-1. **Choisissez votre Classe** (section 4) — c'est le choix qui structure le plus votre personnage.
+1. **Choisissez votre Classe** (section 2) — c'est le choix qui structure le plus votre personnage.
 2. **Choisissez votre Kindred** (section 3) et un passé/background, et pensez à ce qui pousse votre personnage à l'aventure.
 3. **Remplissez votre fiche**, dans l'ordre :
-   1. Détails de base + stats (section 2)
-   2. Points de compétence (section 2)
+   1. Détails de base + stats (section 4)
+   2. Points de compétence (section 4)
    3. Stats secondaires : PV, Vitesse, Initiative, Taille, Blessures max, emplacements d'inventaire
    4. Équipement et argent
-   5. Langues (section 6)
+   5. Langues (section 7)
    6. Autres capacités (traits de Kindred, capacités de classe de niveau 1)
    7. Emplacements d'inventaire
 
 ---
 
-## 2. Les 4 stats et les compétences
+## 2. Les classes
 
-### Stats : FOR, DEX, INT, VOL
+Chaque classe Dolmenwood est une classe Nimble existante, reflavorée. Utilisez le livre *Heroes* Nimble pour les détails mécaniques complets (PV, sous-classes, capacités niveau par niveau) ; ce qui suit résume l'identité et les ajouts Dolmenwood.
 
-Chaque classe a 2 **stats clés** (Key Stats) qui pilotent ses capacités, et 2 stats secondaires. Choisissez l'un de ces 3 tableaux et répartissez les 4 valeurs comme vous le souhaitez entre FOR/DEX/INT/VOL (il est recommandé, mais pas obligatoire, de mettre vos meilleures valeurs sur vos stats clés) :
+| Dolmenwood | Classe Nimble | PV départ / Dé | Stats clés |
+|---|---|---|---|
+| Fighter | **Commandant** *(Commander)* | 17 / 1d10 | FOR / INT |
+| Thief | **Le Tricheur** *(Cheat)* | 10 / 1d6 | DEX / INT |
+| Hunter | **Chasseur** *(Hunter — même classe, aucun changement)* | 13 / 1d8 | DEX / VOL |
+| Knight | **Chevalier du Serment** *(Oathsworn)* | 17 / 1d10 | FOR / VOL |
+| Bard | **Tissechant** *(Songweaver)* | 13 / 1d8 | VOL / INT |
+| Cleric | **Berger** *(Shepherd)* | 17 / 1d10 | VOL / FOR |
+| Friar | **Berger**, variante soin/soutien (mêmes règles, RP différent) | 17 / 1d10 | VOL / FOR |
+| Magician | **Mage** | 10 / 1d6 | INT / VOL |
+| Enchanter | **Nouvelle classe** (section 2i) | 10 / 1d6 | INT / VOL |
 
-| Tableau | Valeurs |
-|---|---|
-| **Standard** | +2, +2, +0, -1 |
-| **Équilibré** | +2, +1, +1, +0 |
-| **Extrême** | +3, +1, -1, -1 |
+### 2a. Fighter → Commandant
+Aucun ajout — utilisez le Commandant Nimble tel quel.
 
-### Les 10 compétences
+### 2b. Thief → Le Tricheur
+Aucun ajout — utilisez le Tricheur Nimble tel quel.
 
-Chaque compétence est liée à une stat. Au Niveau 1, chaque compétence reçoit automatiquement le bonus (ou malus) de sa stat, **puis** vous répartissez **4 points supplémentaires** où vous voulez (y compris plusieurs dans la même compétence). Le plafond d'une compétence est **+12**.
+### 2c. Hunter → Chasseur
+Aucun ajout — c'est la même classe.
 
-| Compétence | Stat | Usage typique |
-|---|---|---|
-| Force *(Might)* | FOR | Forcer, porter, briser, escalader |
-| Finesse | DEX | Crochetage, précision manuelle, acrobaties |
-| Discrétion *(Stealth)* | DEX | Se cacher, filer quelqu'un, agir sans bruit |
-| Arcanes *(Arcana)* | INT | Connaissance des sorts, objets magiques |
-| Investigation *(Examination)* | INT | Fouiller, examiner un indice, une serrure |
-| Savoir *(Lore)* | INT | Histoire, religion, connaissances générales |
-| Influence | VOL | Persuader, mentir, jouer la comédie |
-| Intuition *(Insight)* | VOL | Sentir un mensonge, jauger une intention |
-| Survie *(Naturecraft)* | VOL | Pistage, orientation, soin animalier |
-| Perception | VOL | Repérer, écouter, remarquer |
+### 2d. Knight → Chevalier du Serment
+Ajoutez la capacité **Force de Volonté** : +2 fixe aux JdS contre la magie féerique et la peur, dès le niveau 1.
 
-*(Nimble utilise FOR/DEX/INT/VOL comme seules 4 stats — pas de Constitution ni de Charisme séparés. Toute mention d'un bonus « social » se rapporte à la compétence Influence, et VOL fait office de stat sociale/mentale.)*
+### 2e. Bard → Tissechant
+Ajoutez **Contre-Chant** : tant que vous jouez de la musique (1 action pour démarrer, réaction gratuite pour maintenir), les alliés dans 6 cases sont immunisés aux effets magiques sonores et ont +2 aux JdS contre la magie féerique.
 
-À chaque niveau : +1 point de compétence à répartir librement (capacité **Plus Habile**), en plus des capacités de classe.
+### 2f. Cleric → Berger
+Le Berger devient un serviteur de l'**Église Pluritine** (institution mortelle, hiérarchique). Son Esprit Compagnon devient une manifestation de la Foi ou une relique sacrée plutôt qu'un esprit chamaniste.
 
-### Seuils de Difficulté (SD) — pour situer vos jets
+**Holy Orders** *(choisi au Niveau 2)* :
+- **Ordre de St Faxis** *(Seekers)* : +2 à tous les JdS contre la magie arcanique ; les lanceurs de sorts arcaniques ont -2 contre vos sorts.
+- **Ordre de St Sedge** *(Defenders)* : 1×/repos sûr, imposition des mains : soigne jusqu'à 1 PV/niveau, réparti librement.
+- **Ordre de St Signis** *(Lichwards)* : +1 aux jets d'attaque contre les morts-vivants ; vos attaques comptent comme magiques/en argent contre leurs immunités.
 
-| Difficulté | SD | Exemple |
-|---|---|---|
-| Facile | 8 | Repérer un ogre mal caché |
-| Moyen | 12 | Trouver une porte secrète |
-| Difficile | 15 | Calmer une bête blessée et prise au piège |
-| Très difficile | 18 | Percer les intentions d'un espion aguerri |
-| Extrême | 20+ | Désamorcer un piège ancien et légendaire |
+### 2g. Friar → Berger (variante)
+Même classe mécanique que le Cleric, mais sans Holy Order, sans armure lourde, vœu de pauvreté (restriction de rôle-play). Le Friar est un clerc itinérant, hors de la hiérarchie de l'Église.
 
-Un jet impose par une **capacité de personnage** (sort, trait de Kindred, capacité de classe) a un SD de **10 + votre stat clé pertinente**. Un jet imposé par un monstre suit une table liée à son niveau (voir le MJ).
+### 2h. Magician → Mage
+Le Mage conserve l'accès normal à ses sorts (Feu/Glace/Foudre) ; son Mana représente la charge mentale de maintenir des sorts mémorisés depuis un grimoire.
 
-### Avantage / Désavantage
+### 2i. Enchanter — classe neuve *(🛠 homebrew, à tester à table)*
 
-Ce n'est pas « 2d20, garder un résultat » : on **ajoute un dé du même type** au jet et on retire le plus bas (avantage) ou le plus haut (désavantage). Sur un jet d20 simple, le résultat revient au même que la 5e ; le même principe s'applique aussi aux dés de dégâts.
+- **Stats clés** : INT / VOL. **PV** : 1d6, 10 PV de départ (comme le Mage). **Armure** : légère uniquement, pas de bouclier. **Armes** : petites et moyennes.
+- **Mana** : `INT+NIV` (débloqué Niveau 2 comme les autres casters).
+- **Écoles de sorts** : Feu, Glace, Foudre (mêmes sorts de base que le Mage).
+- **Glamours** *(aléatoires, pas choisis)* :
+
+| Niveau | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| Glamours connus | 1 | 2 | 3 | 3 | 4 | 5 | 6 | 6 | 7 | 7 |
+
+  Tirez aléatoirement chaque nouveau Glamour (table section 5d). Les Glamours d'Ascendance (Elfe/Grimalkin) s'ajoutent à ceux de la classe.
+- **Runes de Féerie** : dès le Niveau 1, connaît automatiquement 1 Rune Mineure aléatoire (table section 5d). Ensuite, chance de nouvelle Rune à chaque niveau — à l'appréciation du MJ.
+- **Résistance à la Magie Divine** : 2 chances sur 6 qu'un sort sacré bénéfique n'ait aucun effet sur vous.
+- **En combat** : à chaque tour, choisissez entre lancer un sort (Mana) OU utiliser un Glamour (1 action, gratuit) — jamais les deux à la fois.
 
 ---
 
@@ -170,66 +182,54 @@ Ce n'est pas « 2d20, garder un résultat » : on **ajoute un dé du même type*
 
 ---
 
-## 4. Les classes
+## 4. Les 4 stats et les compétences
 
-Chaque classe Dolmenwood est une classe Nimble existante, reflavorée. Utilisez le livre *Heroes* Nimble pour les détails mécaniques complets (PV, sous-classes, capacités niveau par niveau) ; ce qui suit résume l'identité et les ajouts Dolmenwood.
+### Stats : FOR, DEX, INT, VOL
 
-| Dolmenwood | Classe Nimble | PV départ / Dé | Stats clés |
-|---|---|---|---|
-| Fighter | **Commandant** *(Commander)* | 17 / 1d10 | FOR / INT |
-| Thief | **Le Tricheur** *(Cheat)* | 10 / 1d6 | DEX / INT |
-| Hunter | **Chasseur** *(Hunter — même classe, aucun changement)* | 13 / 1d8 | DEX / VOL |
-| Knight | **Chevalier du Serment** *(Oathsworn)* | 17 / 1d10 | FOR / VOL |
-| Bard | **Tissechant** *(Songweaver)* | 13 / 1d8 | VOL / INT |
-| Cleric | **Berger** *(Shepherd)* | 17 / 1d10 | VOL / FOR |
-| Friar | **Berger**, variante soin/soutien (mêmes règles, RP différent) | 17 / 1d10 | VOL / FOR |
-| Magician | **Mage** | 10 / 1d6 | INT / VOL |
-| Enchanter | **Nouvelle classe** (section 4i) | 10 / 1d6 | INT / VOL |
+Chaque classe a 2 **stats clés** (Key Stats) qui pilotent ses capacités, et 2 stats secondaires. Choisissez l'un de ces 3 tableaux et répartissez les 4 valeurs comme vous le souhaitez entre FOR/DEX/INT/VOL (il est recommandé, mais pas obligatoire, de mettre vos meilleures valeurs sur vos stats clés) :
 
-### 4a. Fighter → Commandant
-Aucun ajout — utilisez le Commandant Nimble tel quel.
+| Tableau | Valeurs |
+|---|---|
+| **Standard** | +2, +2, +0, -1 |
+| **Équilibré** | +2, +1, +1, +0 |
+| **Extrême** | +3, +1, -1, -1 |
 
-### 4b. Thief → Le Tricheur
-Aucun ajout — utilisez le Tricheur Nimble tel quel.
+### Les 10 compétences
 
-### 4c. Hunter → Chasseur
-Aucun ajout — c'est la même classe.
+Chaque compétence est liée à une stat. Au Niveau 1, chaque compétence reçoit automatiquement le bonus (ou malus) de sa stat, **puis** vous répartissez **4 points supplémentaires** où vous voulez (y compris plusieurs dans la même compétence). Le plafond d'une compétence est **+12**.
 
-### 4d. Knight → Chevalier du Serment
-Ajoutez la capacité **Force de Volonté** : +2 fixe aux JdS contre la magie féerique et la peur, dès le niveau 1.
+| Compétence | Stat | Usage typique |
+|---|---|---|
+| Force *(Might)* | FOR | Forcer, porter, briser, escalader |
+| Finesse | DEX | Crochetage, précision manuelle, acrobaties |
+| Discrétion *(Stealth)* | DEX | Se cacher, filer quelqu'un, agir sans bruit |
+| Arcanes *(Arcana)* | INT | Connaissance des sorts, objets magiques |
+| Investigation *(Examination)* | INT | Fouiller, examiner un indice, une serrure |
+| Savoir *(Lore)* | INT | Histoire, religion, connaissances générales |
+| Influence | VOL | Persuader, mentir, jouer la comédie |
+| Intuition *(Insight)* | VOL | Sentir un mensonge, jauger une intention |
+| Survie *(Naturecraft)* | VOL | Pistage, orientation, soin animalier |
+| Perception | VOL | Repérer, écouter, remarquer |
 
-### 4e. Bard → Tissechant
-Ajoutez **Contre-Chant** : tant que vous jouez de la musique (1 action pour démarrer, réaction gratuite pour maintenir), les alliés dans 6 cases sont immunisés aux effets magiques sonores et ont +2 aux JdS contre la magie féerique.
+*(Nimble utilise FOR/DEX/INT/VOL comme seules 4 stats — pas de Constitution ni de Charisme séparés. Toute mention d'un bonus « social » se rapporte à la compétence Influence, et VOL fait office de stat sociale/mentale.)*
 
-### 4f. Cleric → Berger
-Le Berger devient un serviteur de l'**Église Pluritine** (institution mortelle, hiérarchique). Son Esprit Compagnon devient une manifestation de la Foi ou une relique sacrée plutôt qu'un esprit chamaniste.
+À chaque niveau : +1 point de compétence à répartir librement (capacité **Plus Habile**), en plus des capacités de classe.
 
-**Holy Orders** *(choisi au Niveau 2)* :
-- **Ordre de St Faxis** *(Seekers)* : +2 à tous les JdS contre la magie arcanique ; les lanceurs de sorts arcaniques ont -2 contre vos sorts.
-- **Ordre de St Sedge** *(Defenders)* : 1×/repos sûr, imposition des mains : soigne jusqu'à 1 PV/niveau, réparti librement.
-- **Ordre de St Signis** *(Lichwards)* : +1 aux jets d'attaque contre les morts-vivants ; vos attaques comptent comme magiques/en argent contre leurs immunités.
+### Seuils de Difficulté (SD) — pour situer vos jets
 
-### 4g. Friar → Berger (variante)
-Même classe mécanique que le Cleric, mais sans Holy Order, sans armure lourde, vœu de pauvreté (restriction de rôle-play). Le Friar est un clerc itinérant, hors de la hiérarchie de l'Église.
+| Difficulté | SD | Exemple |
+|---|---|---|
+| Facile | 8 | Repérer un ogre mal caché |
+| Moyen | 12 | Trouver une porte secrète |
+| Difficile | 15 | Calmer une bête blessée et prise au piège |
+| Très difficile | 18 | Percer les intentions d'un espion aguerri |
+| Extrême | 20+ | Désamorcer un piège ancien et légendaire |
 
-### 4h. Magician → Mage
-Le Mage conserve l'accès normal à ses sorts (Feu/Glace/Foudre) ; son Mana représente la charge mentale de maintenir des sorts mémorisés depuis un grimoire.
+Un jet impose par une **capacité de personnage** (sort, trait de Kindred, capacité de classe) a un SD de **10 + votre stat clé pertinente**. Un jet imposé par un monstre suit une table liée à son niveau (voir le MJ).
 
-### 4i. Enchanter — classe neuve *(🛠 homebrew, à tester à table)*
+### Avantage / Désavantage
 
-- **Stats clés** : INT / VOL. **PV** : 1d6, 10 PV de départ (comme le Mage). **Armure** : légère uniquement, pas de bouclier. **Armes** : petites et moyennes.
-- **Mana** : `INT+NIV` (débloqué Niveau 2 comme les autres casters).
-- **Écoles de sorts** : Feu, Glace, Foudre (mêmes sorts de base que le Mage).
-- **Glamours** *(aléatoires, pas choisis)* :
-
-| Niveau | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-|---|---|---|---|---|---|---|---|---|---|---|
-| Glamours connus | 1 | 2 | 3 | 3 | 4 | 5 | 6 | 6 | 7 | 7 |
-
-  Tirez aléatoirement chaque nouveau Glamour (table section 5d). Les Glamours d'Ascendance (Elfe/Grimalkin) s'ajoutent à ceux de la classe.
-- **Runes de Féerie** : dès le Niveau 1, connaît automatiquement 1 Rune Mineure aléatoire (table section 5d). Ensuite, chance de nouvelle Rune à chaque niveau — à l'appréciation du MJ.
-- **Résistance à la Magie Divine** : 2 chances sur 6 qu'un sort sacré bénéfique n'ait aucun effet sur vous.
-- **En combat** : à chaque tour, choisissez entre lancer un sort (Mana) OU utiliser un Glamour (1 action, gratuit) — jamais les deux à la fois.
+Ce n'est pas « 2d20, garder un résultat » : on **ajoute un dé du même type** au jet et on retire le plus bas (avantage) ou le plus haut (désavantage). Sur un jet d20 simple, le résultat revient au même que la 5e ; le même principe s'applique aussi aux dés de dégâts.
 
 ---
 
@@ -330,4 +330,4 @@ Un Knack choisi à la création ; capacités aux Niveaux 1/3/5/7 :
 
 ---
 
-*La classe Enchanteur (4i) et la table de progression des Runes de l'Enchanteur restent à affiner par playtest.*
+*La classe Enchanteur (2i) et la table de progression des Runes de l'Enchanteur restent à affiner par playtest.*
