@@ -1,0 +1,46 @@
+site_name: Dolmenwood sous Nimble
+site_description: Conversion communautaire non-officielle de Dolmenwood (Necrotic Gnome) vers le système Nimble (Nimble Co.)
+site_author: Fred Ben
+repo_name: dolmenwood-nimble
+repo_url: https://github.com/fredben78/dolmenwood-nimble
+
+theme:
+  name: material
+  language: fr
+  palette:
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-night
+        name: Basculer en mode clair
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/weather-sunny
+        name: Basculer en mode sombre
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji
+
+plugins:
+  - search:
+      lang: fr
+  - awesome-pages
