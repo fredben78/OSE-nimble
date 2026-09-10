@@ -80,8 +80,6 @@ Ce n'est pas « 2d20, garder un résultat » : on **ajoute un dé du même type*
 
 **Tenace** : +1 fixe à toutes vos compétences et à votre Initiative.
 
-*(Trait natif de l'Ascendance Humaine de Nimble, repris tel quel — l'esprit « touche-à-tout adaptable » colle parfaitement à l'humain de Dolmenwood, pas besoin d'en inventer un autre.)*
-
 ---
 
 ### Breggle *(Mortel — Taille Moyenne)*
@@ -112,7 +110,7 @@ Ce n'est pas « 2d20, garder un résultat » : on **ajoute un dé du même type*
 
 *Venus d'un royaume où rien ne meurt vraiment, les Elfes portent une beauté qui met les mortels mal à l'aise et manient l'enchantement sans y penser, comme on respire.*
 
-**Agilité féerique** : +1 Vitesse, avantage à l'Initiative. *(Trait natif Nimble de l'Elfe, conservé comme socle physique.)*
+**Agilité féerique** : +1 Vitesse, avantage à l'Initiative.
 
 **Sang de Féerie** : vous connaissez 1 Glamour tiré aléatoirement (section 5d).
 
@@ -126,7 +124,7 @@ Ce n'est pas « 2d20, garder un résultat » : on **ajoute un dé du même type*
 
 **Répulsion à l'argent** : voir section 6.
 
-*(Note d'équilibrage : les +2 fixes ci-dessus dépassent le budget standard des Ascendances Nimble, qui plafonnent à +1 permanent. C'est un choix assumé de fidélité à Dolmenwood — l'Elfe y est un Kindred iconique et « chargé ». Si votre table préfère coller strictement à la norme Nimble, réduisez les deux à +1.)*
+*(Optionnel : réduisez ces deux bonus à +1 si votre table préfère un calibrage plus conservateur.)*
 
 ---
 
@@ -144,7 +142,7 @@ Ce n'est pas « 2d20, garder un résultat » : on **ajoute un dé du même type*
 
 **Sang de Féerie** : 1 Glamour aléatoire (section 5d).
 
-**Résistance à la magie** : +2 fixe à tous vos JdS magiques (même note d'équilibrage que l'Elfe).
+**Résistance à la magie** : +2 fixe à tous vos JdS magiques (optionnel : réduire à +1, voir note sous la fiche Elfe).
 
 **Vulnérable au fer froid** : +1 dégât fixe.
 
@@ -189,22 +187,22 @@ Chaque classe Dolmenwood est une classe Nimble existante, reflavorée. Utilisez 
 | Enchanter | **Nouvelle classe** (section 4i) | 10 / 1d6 | INT / VOL |
 
 ### 4a. Fighter → Commandant
-Match direct. Guerrier polyvalent, toutes armes martiales, mailles + boucliers. Le Commandant Nimble ajoute une couche tactique (ordres, frappe coordonnée) qui convient bien à un vétéran ou un capitaine de garde du Dolmenwood.
+Aucun ajout — utilisez le Commandant Nimble tel quel.
 
 ### 4b. Thief → Le Tricheur
-Match direct. Voleur/assassin urbain, attaque sournoise, triche sur les dés. Convient parfaitement au Thief Dolmenwood.
+Aucun ajout — utilisez le Tricheur Nimble tel quel.
 
 ### 4c. Hunter → Chasseur
-**C'est littéralement la même classe** — traqueur/archer DEX-VOL, marque sa proie, bonus à distance et en embuscade. Aucune adaptation nécessaire.
+Aucun ajout — c'est la même classe.
 
 ### 4d. Knight → Chevalier du Serment
-Match direct. Paladin FOR/VOL, magie Radieuse, soin. Ajoutez la capacité **Force de Volonté** : +2 fixe aux JdS contre la magie féerique et la peur, dès le niveau 1 (déjà native à l'Oathsworn/Chevalier dans Dolmenwood — vérifiez qu'elle figure bien dans votre version de la classe).
+Ajoutez la capacité **Force de Volonté** : +2 fixe aux JdS contre la magie féerique et la peur, dès le niveau 1.
 
 ### 4e. Bard → Tissechant
-Match direct. Barde charismatique, contrôle social du champ de bataille. Ajoutez **Contre-Chant** : tant que vous jouez de la musique (1 action pour démarrer, réaction gratuite pour maintenir), les alliés dans 6 cases sont immunisés aux effets magiques sonores et ont +2 aux JdS contre la magie féerique.
+Ajoutez **Contre-Chant** : tant que vous jouez de la musique (1 action pour démarrer, réaction gratuite pour maintenir), les alliés dans 6 cases sont immunisés aux effets magiques sonores et ont +2 aux JdS contre la magie féerique.
 
 ### 4f. Cleric → Berger
-Adaptation de flaveur : le Berger devient un serviteur de l'**Église Pluritine** (institution mortelle, hiérarchique). Son Esprit Compagnon devient une manifestation de la Foi ou une relique sacrée plutôt qu'un esprit chamaniste.
+Le Berger devient un serviteur de l'**Église Pluritine** (institution mortelle, hiérarchique). Son Esprit Compagnon devient une manifestation de la Foi ou une relique sacrée plutôt qu'un esprit chamaniste.
 
 **Holy Orders** *(choisi au Niveau 2)* :
 - **Ordre de St Faxis** *(Seekers)* : +2 à tous les JdS contre la magie arcanique ; les lanceurs de sorts arcaniques ont -2 contre vos sorts.
@@ -212,18 +210,16 @@ Adaptation de flaveur : le Berger devient un serviteur de l'**Église Pluritine*
 - **Ordre de St Signis** *(Lichwards)* : +1 aux jets d'attaque contre les morts-vivants ; vos attaques comptent comme magiques/en argent contre leurs immunités.
 
 ### 4g. Friar → Berger (variante)
-Même classe mécanique que le Cleric, mais sans Holy Order, sans armure lourde, vœu de pauvreté (restriction de rôle-play, pas de règle mécanique dédiée). Le Friar est un clerc itinérant, hors de la hiérarchie de l'Église.
+Même classe mécanique que le Cleric, mais sans Holy Order, sans armure lourde, vœu de pauvreté (restriction de rôle-play). Le Friar est un clerc itinérant, hors de la hiérarchie de l'Église.
 
 ### 4h. Magician → Mage
-Adaptation de flaveur : le Mage conserve l'accès normal à ses sorts (Feu/Glace/Foudre), mais son Mana représente la charge mentale de maintenir des sorts mémorisés depuis un grimoire. Flaveur suggérée : le personnage « étudie » lors des repos longs pour choisir ses sorts du jour — cosmétique, sans impact mécanique.
+Le Mage conserve l'accès normal à ses sorts (Feu/Glace/Foudre) ; son Mana représente la charge mentale de maintenir des sorts mémorisés depuis un grimoire.
 
 ### 4i. Enchanter — classe neuve *(🛠 homebrew, à tester à table)*
 
-Aucun équivalent Nimble n'existe pour cette classe iconique de Dolmenwood — seule classe qui cumule magie arcanique et magie féerique.
-
 - **Stats clés** : INT / VOL. **PV** : 1d6, 10 PV de départ (comme le Mage). **Armure** : légère uniquement, pas de bouclier. **Armes** : petites et moyennes.
-- **Mana** : `INT+NIV` (débloqué Niveau 2 comme les autres casters). *Volontairement réduit par rapport au Mage (INT×3+NIV) pour compenser l'accès gratuit aux Glamours — même logique que le Chevalier du Serment (WIL+NIV), qui est lui aussi un caster hybride avec une seconde source de pouvoir.*
-- **Écoles de sorts** : Feu, Glace, Foudre (mêmes sorts de base que le Mage) — l'Enchanteur étudie les arcanes de la même façon.
+- **Mana** : `INT+NIV` (débloqué Niveau 2 comme les autres casters).
+- **Écoles de sorts** : Feu, Glace, Foudre (mêmes sorts de base que le Mage).
 - **Glamours** *(aléatoires, pas choisis)* :
 
 | Niveau | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
@@ -231,7 +227,7 @@ Aucun équivalent Nimble n'existe pour cette classe iconique de Dolmenwood — s
 | Glamours connus | 1 | 2 | 3 | 3 | 4 | 5 | 6 | 6 | 7 | 7 |
 
   Tirez aléatoirement chaque nouveau Glamour (table section 5d). Les Glamours d'Ascendance (Elfe/Grimalkin) s'ajoutent à ceux de la classe.
-- **Runes de Féerie** : dès le Niveau 1, connaît automatiquement 1 Rune Mineure aléatoire (table section 5d). Ensuite, chance de nouvelle Rune à chaque niveau — à l'appréciation du MJ (le détail exact de cette table n'a pas pu être confirmé dans les sources).
+- **Runes de Féerie** : dès le Niveau 1, connaît automatiquement 1 Rune Mineure aléatoire (table section 5d). Ensuite, chance de nouvelle Rune à chaque niveau — à l'appréciation du MJ.
 - **Résistance à la Magie Divine** : 2 chances sur 6 qu'un sort sacré bénéfique n'ait aucun effet sur vous.
 - **En combat** : à chaque tour, choisissez entre lancer un sort (Mana) OU utiliser un Glamour (1 action, gratuit) — jamais les deux à la fois.
 
@@ -334,4 +330,4 @@ Un Knack choisi à la création ; capacités aux Niveaux 1/3/5/7 :
 
 ---
 
-*Document compilé à partir des notes de conversion internes et des [Fondamentaux Nimble](fondamentaux-nimble.md). La classe Enchanteur (4i) et la table de progression des Runes de l'Enchanteur restent à affiner par playtest.*
+*La classe Enchanteur (4i) et la table de progression des Runes de l'Enchanteur restent à affiner par playtest.*

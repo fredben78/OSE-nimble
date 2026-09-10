@@ -3,12 +3,7 @@
 ## Description
 Chauves-souris au pelage noir et aux yeux rouges, à l'envergure de 1,5 m, avec des crocs crochus et un appétit insatiable pour le sang. Élevées par le Nag-Lord ; nichent dans les bois torturés autour de son domaine.
 
-## Statistiques Dolmenwood (source)
-Small Animal — Semi-Intelligent — Chaotic. Level 2, AC 13, HD 2d8 (9 PV), Att Morsure (+1, 1d4 + inconscience), Speed 10, Vol 60, Morale 8, XP 50, Enc 1d10.
-
 ## Conversion Nimble
-
-*(3 capacités notables → on descend d'1 cran dans la table : valeurs du niveau 1 au lieu du niveau 2.)*
 
 > **CHAUVE-SOURIS VAMPIRE** LVL 2, Petit — ♥26
 > *Écholocation. Navigue au son plutôt qu'à la vue — insensible aux effets qui gênent ou dépendent de la vision. Aveuglée par un silence magique.*

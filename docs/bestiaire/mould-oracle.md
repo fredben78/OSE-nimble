@@ -9,21 +9,6 @@ Mosslings dévoués à la communion avec les divinités Mogba des racines, de la
 - **Possessions** : 3d6pa.
 - **Trésor** : R1 + M5.
 
-## Statistiques Dolmenwood (source, pour référence)
-**PETIT MORTEL — SENTIENT — NEUTRE**
-
-**Level** 4 **AC** 12 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** Gourdin noueux (+3, 1d6) ou souffle de spores (poison psychédélique) ou sort (voir ci-dessous)
-**Speed** 30 **Morale** 8 **XP** 230
-
-**Encounters** 1d3 (65% dans le repaire)
-
-**Résilience** : Bonus de +4 aux Jets de Sauvegarde contre les spores fongiques ou poisons. Bonus de +2 à tous les autres Jets de Sauvegarde.
-**Souffle de spores (trois fois par jour)** : Un oracle de moisissure peut souffler un nuage de spores psychoactives dans un cône de 3 m (10'). Toutes les créatures dans la zone doivent réussir un Jet de Sauvegarde contre les Explosions ou s'effondrer, se tordant d'extase psychédélique, incapables de se déplacer ou d'agir pendant 1 Tour.
-**Sorts** : L'oracle de moisissure typique a mémorisé les sorts arcaniques suivants : Rang 1 *Vapeurs de Rêve*, Rang 2 *Lumière Onirique* (*Dweomerlight*), Rang 3 *Vision dans le Noir*, Rang 4 *Métamorphose* (*Polymorph*).
-**Divination** : Un oracle de moisissure peut effectuer un rituel divinatoire durant 1 heure. Le rituel prédit l'issue probable d'une action prévue par des personnages dans un futur proche, fournissant une réponse « propice ou funeste » ou parfois un indice cryptique. Les personnages doivent accomplir une quête pour l'oracle de moisissure en retour, ou fournir une compensation d'herbes ou de champignons d'une valeur d'au moins 200po.
-**Symbiose plante/champignon** : Comme tous les mosslings, la chair de chaque oracle de moisissure héberge un certain nombre de plantes, moisissures ou champignons, en relation symbiotique. Voir *Chair Fertile*, p60.
-
 ## Conversion Nimble
 
 > **ORACLE DE MOISISSURE (MOULD ORACLE)** LVL 4, Petit — ♥41

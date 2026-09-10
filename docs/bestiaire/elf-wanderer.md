@@ -9,35 +9,12 @@ Habitants de Fairy ayant traversé dans le monde mortel, en exil ou par goût de
 - **Possessions** : 2d4 po.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM FAIRY—SENTIENT—ANY ALIGNMENT**
-
-**Level** 1 **AC** 12 **HP** 1d8 (4) **Saves** D12 R13 H14 B15 S16
-**Attacks** Weapon (+0)
-**Speed** 40 **Morale** 7 **XP** 15
-
-**Encounters** 1d6 (no lairs in the mortal world)
-**Behaviour** Perceptive, impartial, awestruck
-**Speech** Languid, lyrical. High Elfish, Sylvan, Woldish (1-in-3 chance)
-**Possessions** 2d4gp **Hoard** None
-
-**Cold iron :** As fairies, elf wanderers suffer 1 extra point of damage when hit with cold iron weapons.
-**Weapons :** Elf wanderers favour shortbows (1d6), shortswords (1d6), and staves (1d4).
-**Beguilement (once a day per target) :** The elf's words have great power over mortal minds. A single mortal within 30' whom the elf addresses must Save Versus Spell or believe the elf's words for 1d4 Rounds. After the duration ends, it is immediately obvious that a magical deception has occurred.
-
-**Frost Elf Wanderers**
-**Alignment :** 3-in-6 chance of being Chaotic.
-**Frost touch :** May attack in melee by touch, instead of by weapon, inflicting 1d3 frost damage.
-**Snow-clad ground :** Pass without leaving a trace.
-
 ## Conversion Nimble
 
 > **ELFE VAGABOND** LVL 1 — ♥26 (Sans armure)
 > *Fer froid : subit 1 point de dégâts supplémentaire des armes en fer froid.*
 > *Duperie envoûtante (une fois par jour et par cible) : une créature mortelle à moins de 30 pieds à qui l'elfe s'adresse doit réussir un Sauvegarde DD10 (Vs Sort) ou croire sincèrement ses paroles pendant 1d4 Rounds. Une fois l'effet dissipé, la nature magique de la tromperie devient immédiatement évidente.*
 > **Arme (arc court, épée courte ou bâton).** 2d6+4 (Contact ou Portée courte selon l'arme).
-
-**Note de conversion** : une seule capacité non triviale (Duperie envoûtante), donc aucune rétrogradation de palier. Niveau 1 conservé, ligne 1 de la table (♥26, dégâts/round 11, DD10). Dé de dégâts d6 car créature féerique (Type Fairy), conformément au précédent établi pour le Cheval Fée (p40).
 
 **Moral (note narrative)** : L'elfe vagabond est impartial et émerveillé (Moral 7) — il évite la violence quand cela est possible, préférant observer et comprendre le monde mortel. Face à un danger, il utilise la Duperie envoûtante pour créer une diversion ou gagner du temps, puis se retire plutôt que de se battre jusqu'au bout.
 

@@ -9,23 +9,6 @@ Demi-fées aquatiques de taille humaine, avec des queues écailleuses de poisson
 - **Possessions** : 1d6po.
 - **Trésor** : C5 + R3 + M9.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MOYEN DEMI-FÉE — SENTIENT — TOUT ALIGNEMENT**
-
-**Level** 2 **AC** 12 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** Trident (+1, 1d6) ou cornes (+1, 1d4)
-**Swim** 40 **Morale** 8 **XP** 20
-
-**Encounters** 2d6 (10% dans le repaire)
-
-**Fer froid** : En tant que demi-fée, le merfaun subit 1 point de dégâts supplémentaire lorsqu'il est frappé par une arme en fer froid.
-**Immunité au chant** : Les merfauns sont immunisés aux chants et musiques magiques, y compris ceux des kelpies et des woodgrues.
-**Amphibie** : Peut respirer dans l'air et dans l'eau.
-**Baiser** : Le baiser d'un merfaun accorde à un humanoïde terrestre la capacité de respirer sous l'eau pendant 24 heures.
-**Chant magique (une fois par jour)** : Le chant d'un groupe de merfauns a un effet enchanteur sur les auditeurs consentants. Voir *Chants Enchantés*.
-**Chasse aux kelpies** : Les merfauns ont une animosité ancienne envers les kelpies, tuant tous ceux qui pénètrent dans les eaux autour de leurs demeures subaquatiques.
-**Tous mâles** : Tous les merfauns sont des hommes. Il n'existe aucune femme merfaun.
-
 ## Conversion Nimble
 
 > **MERFAUN** LVL 2 — ♥34

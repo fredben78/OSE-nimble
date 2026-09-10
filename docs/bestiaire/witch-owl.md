@@ -8,26 +8,7 @@ Des chouettes d'un blanc laiteux à l'envergure de 90 cm, aux yeux violets et au
 - **Discours** : hululements inquiétants.
 - **Possessions** : aucune. **Trésor** : catégorie C4 + R3.
 
-## Statistiques Dolmenwood (source, pour référence)
-**SMALL MONSTROSITY—SEMI-INTELLIGENT—CHAOTIC**
-**Level** 2 **AC** 14 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** 2 griffes (+1, 1d4)
-**Speed** 10 **Fly** 60 **Morale** 8 **XP** 50
-**Encounters** 1d6 (25% en repaire)
-
-**Cri strident (1×/jour)** : les mortels à moins de 120' qui entendent le cri strident d'un groupe de chouettes-sorcières doivent **Sauver Contre Paralysie** ou être paralysés pendant 1 Tour (conscients mais incapables de bouger ou d'agir).
-
-**Regard** : un mortel à moins de 30' qui croise le regard d'une chouette-sorcière doit **Sauver Contre Sort**. À moins de détourner les yeux, les personnages engagés au corps-à-corps sont affectés chaque Round. En cas d'échec, la victime a la vision fugace d'être une souris perdue dans des bois éclairés par la lune, chassée puis mise en pièces par des chouettes. Les victimes perdent 1d3 points de Sagesse et une part de leur psyché (voir *Drain psychique*). Un personnage dont la Sagesse est réduite à 0 devient une **ombre (shadow)** inféodée aux chouettes-sorcières.
-
-**Détourner le regard** : malus de -4 aux jets d'Attaque. La chouette-sorcière gagne un bonus de +2 à ses jets d'Attaque contre le personnage.
-
-**Récupération du drain psychique** : la Sagesse perdue peut être restaurée par *Remove Curse* ou *Hex Weaving*, mais les fragments psychiques perdus ne peuvent jamais vraiment être retrouvés, même si on les rappelle à la victime.
-
-**Repaires** : il y a 3 chances sur 6 que **1d4 ombres (shadows)** (*p74*) — inféodées aux chouettes — se cachent dans un repaire de chouettes-sorcières.
-
 ## Conversion Nimble
-
-*Niveau Dolmenwood 2, mais 2 capacités non-triviales (Cri strident en zone + Regard à drain de statistique/transformation) → on redescend d'1 cran, soit les valeurs du niveau 1 (table Monster Builder p.29). CA14 → Armure Moyenne. Créature Small, prédateur semi-magique → dé d6.*
 
 > **CHOUETTE-SORCIÈRE** LVL 2 (traitée comme LVL 1), SMALL — ♥20 (Armure Moyenne)
 > **Griffes.** 2d6+2 (Reach 1).

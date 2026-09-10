@@ -9,26 +9,6 @@ Fées changeantes de forme, naturellement visqueuses comme de la vase, mais avid
 - **Possessions** : L'équipement de sa victime.
 - **Trésor** : C3 + R4 + M8 (tables de trésor Dolmenwood).
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM FAIRY—SENTIENT—NEUTRAL**
-**Level** 4 **AC** 14 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** 2 fists (+3, 1d6) or weapon (+3)
-**Speed** 30 **Morale** 10 **XP** 180
-
-**Encounters** 1d6 (20% in lair)
-**Behaviour** Remorseless, cautious, stealthy
-**Speech** Victim's voice. Woldish, Sylvan, High Elfish
-**Possessions** Victim's equipment
-**Hoard** C3 + R4 + M8
-
-**Cold iron:** As fairies, shape-stealers suffer 1 extra point of damage when hit with cold iron weapons.
-**Immunities:** Immune to mind-affecting spells (e.g. *Vapours of Dream*, *Paralysation*, *Dominate*).
-**Shape-stealing:** A shape-stealer can adopt the physical form of any Medium humanoid it observes. Clothing and equipment are not copied — these are usually acquired by killing the mimicked creature. Physical and magical capabilities of the adopted form are not gained — the shape-stealer always uses the stats above.
-**Absorbing victims:** After slaying a mimicked victim, a shape-stealer can absorb the corpse into its ooze-like body, gaining their personality and memories in the process. This takes 1 Turn. The shape-stealer lives as the victim for 2d6 days (or until suspected — see *Suspicious Traits*), before fleeing and seeking its next victim.
-**If killed:** A shape-stealer reverts to their natural form — a transparent, ooze-like humanoid, 7' tall.
-**Hoard:** Shape-stealers hoard the personal effects of past victims as mementos of their minds and lives.
-**Origin:** Shape-stealers are servants of the Hag Thorn-Rosy (*DCB*), created as consorts and spies. Certain individuals become obsessed with absorbing mortal experiences and abscond to Dolmenwood.
-
 ## Conversion Nimble
 
 > **SHAPE-STEALER (VOLEUSE DE FORME)** LVL 4 — ♥39, Armure Moyenne

@@ -9,28 +9,7 @@ Légumes-racines humanoïdes (1,2 à 3 m de haut) qui s'arrachent du sol pour ch
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-SM./MED./LG. PLANT—ANIMAL INTELLIGENCE—NEUTRAL
-
-**Level** 3 **AC** 13 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** 2 claws (+2, 1d4 + entangle)
-**Speed** 30 **Morale** 9 **XP** 65
-
-**Encounters** 1d4 (no lair)
-**Behaviour** Cunning, bestial, ruthless lust to feed
-**Speech** None
-**Possessions** None **Hoard** None
-
-**Eyeless :** Can act normally in light or darkness.
-**Entangle :** If both claw attacks hit in the same Round, the victim becomes entangled in the monster's rooty grasp. An entangled victim automatically suffers 1d4 damage per Round and cannot attack. A Save Versus Hold is allowed, once per Round, to escape.
-**Bury / unearth :** Root things are able to bury and unearth themselves completely in the space of 1d4 Rounds. An entangled victim dragged beneath the earth suffocates after a further 1d4 Rounds.
-**Root type :** Root things are the predatory counterparts of root vegetable varieties cultivated by mortals. See Root Type for some examples.
-**Digestion :** Root things do not have a mouth, instead consuming victims by dragging them beneath the earth. Digestion occurs over months, on corpses entwined in the roots.
-**Accursed flesh :** The flesh of a root thing is hearty and delicious (treat as 2d6 fresh rations per slain root thing), but inspires murder. Any who consume the flesh must Save Versus Doom or be compelled to attack the next person they encounter.
-
 ## Conversion Nimble
-
-*Deux capacités non-triviales (entrave par double griffe, enfouissement suffocant) imposent de redescendre d'un cran → Niveau 2 retenu.*
 
 > **ROOT THING** LVL 2, Medium (variable Petite/Moyenne/Grande) — ♥34, Sans armure
 > *Aveugle : agit normalement dans l'obscurité, chasse à l'odorat.*

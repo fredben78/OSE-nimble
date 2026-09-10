@@ -11,23 +11,7 @@ Lézards serpentiformes de 10' de long, multipattes, redoutés pour leur regard 
 - **Possessions** : Aucune.
 - **Trésor** : C9 + R5 + M10.
 
-## Statistiques Dolmenwood (source, pour référence)
-- **Level** 6 · **AC** 15 · **HP** 6d8 (27) · **Saves** D9 R10 H11 B12 S13
-- **Attacks** Morsure (+5, 1d10) et regard (pétrification)
-- **Speed** 20 · **Morale** 9 · **XP** 520
-- **Encounters** 1d6 (40 % en repaire)
-
-**Capacités spéciales (source)**
-- **Surprise** : Toute créature surprise par un basilic croise automatiquement son regard, si elle se trouve à moins de 30'.
-- **Regard pétrifiant** : Toute créature à moins de 30' qui croise le regard du basilic doit réussir un JdS contre la Paralysie ou être définitivement transformée en pierre.
-- **Au corps-à-corps** : À moins de détourner les yeux ou d'utiliser un miroir, les personnages au corps-à-corps sont affectés par le regard du basilic chaque Round. Détourner les yeux en mêlée impose un malus de -4 aux jets d'Attaque contre le basilic et un malus de -2 de CA contre ses attaques. Combattre en regardant dans un miroir impose un malus de -1 aux jets d'Attaque contre le basilic.
-- **Reflet** : Le reflet d'un basilic est inoffensif pour les autres, mais périlleux pour le basilic lui-même. S'il voit son propre reflet, il doit réussir un JdS contre la Paralysie ou être pétrifié. Si le reflet a été vu dans un miroir, celui-ci se brise en cas de réussite du jet.
-- **Vue étendue** : La vue des basilics s'étend aux royaumes spirituels, leur permettant de percevoir l'invisible.
-- **Dévoreur de pierre** : Les basilics broient et consomment leurs victimes pétrifiées dans leurs puissantes mâchoires.
-
 ## Conversion Nimble
-
-Niveau Dolmenwood 6. Deux capacités non-triviales combattives (Regard pétrifiant, pénalités de combat au regard détourné) → application de la règle de coût : PV pris à la ligne de niveau 5. CA 15 → Armure Moyenne. Animal/Bête → dé de dégâts d10.
 
 > **BASILIC** LVL 6, Grand — ♥46, Armure Moyenne
 > *Regard pétrifiant. Toute créature dans 6 cases qui croise son regard (y compris automatiquement si surprise) doit réussir un JdS FOR (DC12) ou être pétrifiée à jamais.*

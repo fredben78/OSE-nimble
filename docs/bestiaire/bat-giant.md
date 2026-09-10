@@ -3,9 +3,6 @@
 ## Description
 Chauves-souris carnivores au pelage noir, à l'envergure de 1,2 m. Peuvent attaquer les aventuriers si elles ont faim.
 
-## Statistiques Dolmenwood (source)
-Small Animal — Animal Intelligence — Neutral. Level 2, AC 13, HD 2d8 (9 PV), Att Morsure (+1, 1d4), Speed 10, Vol 60, Morale 8, XP 20, Enc 1d10.
-
 ## Conversion Nimble
 
 > **CHAUVE-SOURIS GÉANTE** LVL 2, Petit — ♥34

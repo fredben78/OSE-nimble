@@ -9,34 +9,6 @@ Des sorcières ogresses dépravées (2,75 m de haut) qui servent le Nag-Lord com
 - **Possessions** : 2d20po.
 - **Trésor** : C4 + R4 + M5.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE MORTAL—SENTIENT—CHAOTIC**
-
-**Level** 5 **AC** 14 **HP** 5d8 (22) **Saves** D10 R11 H12 B13 S14
-**Attacks** Club (+4, 1d10) or spell (see below)
-**Speed** 30 **Morale** 10 **XP** 560
-
-**Encounters** 1d3 (40% in lair)
-**Behaviour** Diabolical, scheming, hateful, ravenous
-**Speech** Deranged cackling. Woldish, Gaffe
-**Possessions** 2d20gp **Hoard** C4 + R4 + M5
-
-**Immunities :** Only harmed by silver weapons, magic, or magic weapons.
-
-**Light sensitivity :** Harridans suffer a –2 penalty to Attack Rolls and a –1 penalty to Armour Class when in bright light (daylight, Holy Light).
-
-**Dark sight :** Can see normally without light.
-
-**Spells :** Can cast each of the following arcane spells once per day: Rank 1 Ventriloquism, Rank 2 Perceive the Invisible, Rank 3 Fly.
-
-**Charm person (thrice a day) :** A harridan may attempt to charm a mortal, fairy, or demi-fey. The target may Save Versus Spell to resist. If the save fails, the victim is charmed to move towards the harridan (resisting those who try to prevent it), to obey the harridan's commands (if understood), and to defend the harridan. They are unable to cast spells, use magic items, or harm the harridan. Killing the harridan breaks the charm.
-
-**Mimicry :** Harridans accurately imitate animal sounds and voices to lure sentient prey to approach.
-
-**Hatred of mirrors :** Harridans hate their own reflection and mercilessly attack anyone who presents a mirror.
-
-**Origin :** Harridans were once human witches, corrupted by the dark magic of Atanuwë.
-
 ## Conversion Nimble
 
 > **HARRIDAN** LVL 4, Grand — ♥39 (Armure Moyenne)
@@ -44,8 +16,6 @@ Des sorcières ogresses dépravées (2,75 m de haut) qui servent le Nag-Lord com
 > *Sortilèges (1/jour chacun) : Ventriloquie, Perception de l'Invisible, Vol.*
 > *Charme (3/jour) : cible un mortel, une fée ou un demi-fée. Save DC12 (Vs Sort) ou la victime est charmée — avance vers la harridan, lui obéit, la défend, et ne peut lancer de sorts, utiliser d'objets magiques ni lui nuire ; tuer la harridan rompt le charme.*
 > **Massue.** 2d8+9 (Contact). Coup brutal et rageur.
-
-**Note de conversion** : Niveau Dolmenwood (5) réduit d'un cran (→ 4) car la créature cumule trois capacités non triviales (immunité aux armes non-argentées/magiques, sortilèges quotidiens, charme répété), conformément à la règle de coût. Dé de dégâts d8 (sorcière ogresse à dominante magique plutôt que brute).
 
 **Moral (note narrative)** : La harridan est calculatrice et haineuse — elle privilégie le charme et la manipulation à distance avant d'engager le corps-à-corps, et se retire sous terre pour préparer une revanche plutôt que de se battre à mort si le combat tourne mal, sauf lorsqu'un miroir lui est présenté, ce qui déclenche une rage aveugle et suicidaire.
 

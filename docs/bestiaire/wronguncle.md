@@ -8,26 +8,7 @@ De trapus champignons humanoïdes, hauts d'1,50 m, aux corps blancs et aux chape
 - **Discours** : répète des phrases favorites. Parle le Woldish.
 - **Possessions** : 3d6 pièces d'argent. **Trésor** : aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM FUNGUS—SENTIENT—ANY ALIGNMENT**
-**Level** 2 **AC** 11 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** Gourdin (+1, 1d6)
-**Speed** 40 **Morale** 7 **XP** 35
-**Encounters** 1 (pas de repaire)
-
-**Repoussable comme mort-vivant** : en raison de l'étrange symbiose entre croissance fongique et esprit revenant, les wronguncles peuvent être repoussés comme des morts-vivants. Traiter comme des monstres de Niveau 4 à cette fin.
-
-**Si blessé** : un nuage de spores jaillit de la blessure, enveloppant toute créature à moins de 1,50 m. Les créatures affectées doivent **Sauver Contre Destin** ou souffrir d'une amnésie complète pendant 2d6 jours.
-
-**Nostalgie du foyer** : la nostalgie de retourner au foyer de son hôte défunt (voir *Foyer*) pousse les wronguncles à errer, ramassant un équipement de voyage rudimentaire et recherchant la compagnie d'autres voyageurs en chemin.
-
-**Retour au bercail** : si un wronguncle retrouve le chemin de son foyer, il est contraint d'assassiner ses anciens proches, mentors, amis ou pires ennemis (cela varie selon l'individu). Ce dernier acte accompli, le champignon explose en un nuage de spores qui dérive au vent jusqu'à se déposer sur un nouvel hôte.
-
-**Alignement** : un wronguncle hérite de l'Alignement de son hôte défunt, jusqu'à devenir Chaotique lors de sa frénésie meurtrière finale.
-
 ## Conversion Nimble
-
-*Niveau Dolmenwood 2, une seule capacité de combat significative (nuage de spores amnésiant) → pas de correction à la table (table Monster Builder p.29). CA11 → Sans armure. Type Fungus non listé dans le tableau thématique → dé d8 par défaut.*
 
 > **WRONGUNCLE** LVL 2 — ♥34 (Sans armure)
 > **Gourdin.** 1d8+3 (Reach 1).

@@ -10,32 +10,7 @@ Long de 12 mètres, sinueux, aux écailles scintillantes gris-argent, à franges
 - **Discours** : sifflement rêveur. Parle le Woldish, le Wyrm.
 - **Possessions** : aucune. **Trésor** : catégorie C9 + R5 + M10 + (R1 ×3).
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE DRAGON—SENTIENT—CHAOTIC**
-**Level** 7 **AC** 19 **HP** 7d8 (31) **Saves** D8 R9 H10 B11 S12
-**Attacks** [Morsure (+6, 2d8) et queue (+6, 1d10)] ou souffle (venin) ou regard (hypnotisme)
-**Speed** 60 **Swim** 60 **Morale** 9 **XP** 1 380
-**Encounters** 1 (50% en repaire)
-
-**Sommeil au repaire** : 40% de chances d'être endormi si rencontré dans son antre (voir *Wyrm—Overview* ci-dessous).
-
-**Immunités** : ne subit qu'un seul point de dégâts quand il est touché par des armes non-magiques. Immunisé à l'acide et au poison. Immunisé au feu, à la foudre et au froid non-magiques. Subit moitié dégâts du feu, de la foudre et du froid magiques.
-
-**Vision dans le noir** : voit normalement sans lumière.
-
-**Amphibie** : peut respirer l'air et l'eau.
-
-**Souffle (3×/jour)** : un wyrm de phlegme peut cracher du phlegme venimeux. Toutes les créatures dans une sphère de 3 m de diamètre, jusqu'à 36 m depuis sa gueule, subissent des dégâts égaux à son total actuel de Points de Vie (**Sauver Contre Explosion** pour moitié dégâts).
-
-**Regard hypnotique (3×/jour)** : le regard d'un wyrm de phlegme peut hypnotiser une cible. Celui qui est fixé doit **Sauver Contre Sort** ou suivre la suggestion parlée du wyrm (une courte phrase) pendant 1d6 Tours. Les suggestions manifestement nuisibles à la cible échouent automatiquement.
-
-**Musique hypnotique** : peut apaiser un wyrm de phlegme mis en colère.
-
-**Voir aussi** : *Wyrm—Overview* (régénération, vulnérabilité, etc. — voir le fichier `wyrm-black-bile.md` pour le texte complet transversal aux 4 Wyrms : reproduction, âge, parole, antres/sommeil, régénération, table des vulnérabilités 1d8, origine commune liée au Dieu des Bois Ocryphd).
-
 ## Conversion Nimble (Boss Légendaire)
-
-*Créature unique et nommée, avec du lore propre (musique hypnotique, gaze de suggestion, souffle proportionnel aux PV restants) → traitement **Legendary Monster Builder** (GMG p.41-44), calé sur le niveau du groupe de héros. Niveau Dolmenwood 7 → groupe de Niveau 7 (table Legendary p.43 : PV Armure Lourde 155, Last Stand 70, DC 13, petite action 14 dégâts, grande action 28 dégâts). CA19 → Armure Lourde confirmée.*
 
 > **WYRM DE PHLEGME** *(Boss Légendaire, groupe de Niveau 7)* — ♥155 (Armure Lourde)
 > *Immunités.* Ne subit qu'1 point de dégâts fixe des armes non-magiques. Immunisé à l'acide et au poison. Immunisé au feu/foudre/froid non-magiques ; mi-dégâts si magiques.

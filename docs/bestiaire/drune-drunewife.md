@@ -9,29 +9,6 @@ Femmes du peuple des Drune qui pratiquent des artisanats hérités : herborister
 - **Possessions** : 2d4 po + un kilnling (voir ci-dessous) + biens de commerce arcanes ou d'herboristerie (DCB, 2 chances sur 6).
 - **Trésor** : C3 + R3 + M3 + M6.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MORTAL—SENTIENT—ANY ALIGNMENT**
-
-**Level** 3 **AC** 10 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** Staff/broom (+2, 1d4) or notion (see below)
-**Speed** 40 **Morale** 9 **XP** 65
-
-**Encounters** 1 (30% in lair)
-**Behaviour** Crafty, watchful, suspicious
-**Speech** Clear, melodic. Woldish, Drunic
-**Possessions** 2d4gp + kilnling (see below) + arcane or herbal trade goods (DCB, 2-in-6 chance)
-**Hoard** C3 + R3 + M3 + M6
-
-**Notion (once a day) :** A Drunewife can sing a magical incantation called a *notion*, with the effect of an arcane spell : *Ingratiate*, *Invisibility*, *Vapours of Dream*. The Drunewife must chant for 3 Rounds for the notion to take effect.
-**Kilnlings :** Each Drunewife possesses an enchanted, 1'-high pot-bellied clay figurine of her own creation. See Kilnlings.
-**Lair :** Typically live in a family with a Cottager (p35) and 1d8–1 children (1d3 of whom are Braithmaids — p34).
-
-### Kilnling (bloc dédié)
-**SMALL CONSTRUCT—SEMI-INTELLIGENT—NEUTRAL**
-**Level** 1 **AC** 12 **HP** 1d4 (2) **Saves** D12 R13 H14 B15 S16
-**Att** None **Speed** 0 or 20 **Morale** 7 **XP** 15
-**Construct :** Immune to biological effects (e.g. disease, poison) and mind-affecting spells (e.g. *Vapours of Dream*, *Paralysation*, *Dominate*).
-
 ## Conversion Nimble
 
 > **DRUNEWIFE** LVL 3 — ♥34 (Sans armure)
@@ -42,8 +19,6 @@ Femmes du peuple des Drune qui pratiquent des artisanats hérités : herborister
 **Kilnling (compagnon — bloc simplifié, non issu de la table de PV standard car essentiellement non-combattant)**
 > **KILNLING** — ♥2, immunisé aux effets biologiques (maladie, poison) et aux sorts affectant l'esprit (Vapeurs de rêve, Paralysie, Domination).
 > *Effet spécial selon son type (voir table Kilnlings) : Gardien, Espion ou Défenseur.*
-
-**Note de conversion** : deux capacités non triviales (Notion + compagnon Kilnling), donc rétrogradation d'un cran dans la table de PV/dégâts/DD pour la Drunewife (ligne « Niveau 2 » utilisée : ♥34, dégâts/round 13, DD11 — étiquette de Niveau 3 conservée). Le Kilnling, avec seulement 2 PV dans la source, est traité hors table comme un objet-compagnon quasi non-combattant plutôt que forcé dans une ligne de la table de PV. Dé de dégâts d8 par défaut pour la Drunewife.
 
 **Moral (note narrative)** : La Drunewife est vigilante et méfiante (Moral 9) — elle évite le corps-à-corps direct, préférant faire exploser son Kilnling Défenseur sur les intrus ou envoyer son Kilnling Espion en reconnaissance, avant de se retirer elle-même si la situation tourne mal.
 

@@ -9,31 +9,12 @@ Filles adolescentes des Drune qui errent dans les étendues sauvages, récoltant
 - **Possessions** : 3d6 po d'argent + un talisman (voir ci-dessous) + biens de commerce à base d'herbes (DCB, 2 chances sur 6).
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MORTAL—SENTIENT—ANY ALIGNMENT**
-
-**Level** 1 **AC** 11 **HP** 1d8 (4) **Saves** D12 R13 H14 B15 S16
-**Attacks** Dagger (+0, 1d4)
-**Speed** 40 **Morale** 7 **XP** 15
-
-**Encounters** 1d4 (20% in lair)
-**Behaviour** Quick-witted, evasive, aloof
-**Speech** Melodic, coy. Woldish, Drunic
-**Possessions** 3d6sp + talisman (see below) + herbal trade goods (DCB, 2-in-6 chance)
-**Hoard** None
-
-**Song :** A braithmaid may sing as she wanders the woods, weaving a subtle enchantment. Anyone who hear a Braithmaid's song must Save Versus Hold or enter into a wondrous reverie, unable to meaningfully act until the Braithmaid either approaches or passes. These songs are not effective in combat.
-**Talismans :** When wandering abroad, Braithmaids carry a magical ward to protect them from harm. See Talismans. Such talismans are only effective when worn by women and function only once before crumbling to dust. They are worth 500gp.
-**Lair :** Typically live in a Drune family : a Cottager (p35), a Drunewife (p36), and 1d6–1 siblings.
-
 ## Conversion Nimble
 
 > **BRAITHMAID** LVL 1 — ♥26 (Sans armure)
 > *Chant enchanteur (hors combat uniquement) : toute créature qui entend le chant doit réussir un Sauvegarde DD10 (Vs Hold) ou tomber dans une rêverie extatique, incapable d'agir de façon significative jusqu'à ce que la Braithmaid s'approche ou passe son chemin.*
 > *Talisman (objet, usage unique) : porte un talisman magique protecteur (voir table Talismans), qui se brise après un seul usage.*
 > **Poignard.** 1d8+3 (Contact/Portée courte).
-
-**Note de conversion** : le Chant enchanteur est explicitement inefficace en combat (donc son coût est faible) et le Talisman est un objet à usage unique — aucune rétrogradation de palier. Niveau 1 conservé, ligne 1 de la table (♥26, dégâts/round 11, DD10). Dé de dégâts d8 par défaut (Type Mortel, non Fae, malgré l'aura féerique du chant).
 
 **Moral (note narrative)** : La Braithmaid est évasive et distante (Moral 7) — elle évite le corps-à-corps, préférant utiliser son chant pour neutraliser un poursuivant hors combat, puis s'échapper dans les bois plutôt que de se battre.
 

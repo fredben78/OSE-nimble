@@ -3,13 +3,6 @@
 ## Description
 Serpents de 6 m de long, aux motifs en spirale brun et jaune sur leurs écailles. Émergent de crevasses inconnues durant l'unesaison Chame (voir *Seasons and Unseasons*, DCB).
 
-## Statistiques Dolmenwood (source)
-**LARGE ANIMAL—ANIMAL INTELLIGENCE—NEUTRAL**
-**Level** 5 **AC** 13 **HP** 5d8 (22) **Saves** D10 R11 H12 B13 S14
-**Att** Bite (+4, 1d4 + constriction) **Speed** 30 **Morale** 8 **XP** 260 **Enc** 1d3
-
-**Constriction :** When a bite attack is successful, the python wraps around the victim and begins to squeeze, inflicting 2d4 automatic damage on each subsequent Round.
-
 ## Conversion Nimble
 
 > **PYTHON GÉANT** LVL 5, Grand — ♥58, Sans armure

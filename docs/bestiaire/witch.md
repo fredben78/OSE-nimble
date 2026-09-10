@@ -9,38 +9,7 @@ Des femmes qui se sont vouées au service d'un Gwyrigon (esprit-patron féerique
 - **Possessions** : 3d6 pièces d'argent + biens de commerce arcaniques et à base de plantes (voir *DCB*, 2 chances sur 6).
 - **Trésor** : catégorie C2 + R1 + M5.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MORTAL—SENTIENT—ANY ALIGNMENT**
-**Level** 4 **AC** 14 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** Dague d'argent (+3, 1d4) ou sort (voir plus bas) ou pouvoir accordé (voir plus bas)
-**Speed** 40 **Morale** 9 **XP** 280
-**Encounters** 1d6 (20% en repaire)
-
-**Sortilèges** : la sorcière type a mémorisé les sorts arcaniques suivants : **Rang 1** *Ingratiate*, **Rang 2** *Perceive the Invisible*, **Rang 3** *Paralysation*, **Rang 4** *Hex Weaving*.
-
-**Pouvoirs accordés** : chaque sorcière est entrée dans une union spirituelle avec un Gwyrigon particulier (*DCB*), lui conférant des pouvoirs magiques. Quand des sorcières sont rencontrées, on lance 1d3 pour déterminer leur type :
-
-1. **Œil d'Ertta**
-   - *Toucher glacial* : la sorcière peut attaquer au corps-à-corps avec son toucher glacé au lieu de sa dague, infligeant 1d3 dégâts. La victime doit aussi **Sauver Contre Paralysie**, sinon elle commence à geler, subissant 1 dégât par Round pendant les 1d4 Rounds suivants. Si ces dégâts la ramènent à 0 PV, elle est gelée solide.
-   - *Chevauchée du vent* : par nuit de vent, une Œil d'Ertta peut s'élever dans le ciel et voyager sur les courants. Elle peut ainsi se déplacer n'importe où dans le Dolmenwood en 1d6 heures.
-   - *Malédiction du ciel ouvert (1×/semaine)* : peut abattre la malédiction d'Ertta sur une cible unique, qui doit **Sauver Contre Sort**. En cas d'échec, la prochaine fois que la victime se trouve à ciel découvert, il y a 4 chances sur 6 qu'elle soit frappée par la foudre (6d6 dégâts, **Sauver Contre Rayon** pour moitié).
-2. **Œil d'Hasturiel**
-   - *Nom secret d'Hasturiel (1×/jour)* : prononcé par une sorcière à son service, le nom secret d'Hasturiel fait fuir en terreur, pendant 2 Tours, tout être de Niveau 6 ou moins situé à moins de 20' (**Sauver Contre Paralysie** pour résister).
-   - *Mauvais œil (1×/jour)* : une Œil d'Hasturiel peut poser une malédiction (comme le sort arcanique *Hex Weaving*) en fixant une cible du regard.
-   - *Manteau de fausse apparence (1×/jour)* : peut prendre n'importe quelle apparence extérieure (limitée aux humanoïdes féminins de taille à peu près similaire).
-   - *Métamorphose (1×/semaine)* : peut se changer en n'importe quelle créature, comme le sort arcanique *Polymorph*. La métamorphose dure jusqu'à l'aube ou jusqu'à ce que la sorcière choisisse d'abandonner sa nouvelle forme.
-3. **Œil de Limwdd**
-   - *Fusion avec la terre (1×/jour)* : peut se recroqueviller en une boule semblable à une graine et s'enfoncer dans le sol sur le cours d'1 Tour. Elle peut y demeurer jusqu'à 1 mois, tirant sa subsistance physique du sol, tout en conservant une conscience des événements se déroulant en surface au-dessus d'elle.
-   - *Doppelgänger d'argile (1×/mois)* : une Œil de Limwdd peut façonner un double d'argile de tout mortel qu'elle a observé. La confection prend une journée complète, débutant à l'aube. Au crépuscule, le doppelgänger s'anime en un construct de Niveau 1 (1d8 PV) et prend l'apparence extérieure de la personne imitée. Il vit jusqu'à l'aube suivante. La sorcière peut le vêtir et lui confier n'importe quelle tâche. À un observateur ordinaire, il ressemble exactement à la personne copiée ; un contact rapproché révèle une peau moite et visqueuse. Le double ne peut pas parler mais peut gémir et crier.
-   - *Bûcher de renaissance (1×/semaine)* : une Œil de Limwdd peut bâtir un bûcher et s'y immoler rituellement. Quand le feu s'éteint, la sorcière ressuscite des cendres, guérie de tous dégâts, maladies et poisons. Sa peau est carbonisée et cendrée, mais retrouve son état normal le lendemain matin.
-
-**Préparation de potions** : les sorcières peuvent brasser des potions, pour un coût égal à la valeur standard de la potion et un temps de 1d6 jours par 500 po de valeur. Il y a 1 chance sur 6 d'échec.
-
-**Jeunesse éternelle** : l'union d'une sorcière avec un Gwyrigon prolonge sa vie mortelle et inverse les outrages du temps.
-
 ## Conversion Nimble
-
-*Niveau Dolmenwood 4, mais 3+ capacités non-triviales cumulées (sortilèges, pouvoir accordé à 4 effets, préparation de potions, jeunesse éternelle) → on redescend d'1 cran, soit les valeurs du niveau 3 (table Monster Builder p.29). CA14 → Armure Moyenne. Type Mortel/humanoïde → dé d8.*
 
 > **SORCIÈRE** LVL 4 (traitée comme LVL 3 pour PV/dégâts), MEDIUM — ♥33 (Armure Moyenne)
 > **Dague d'argent.** 1d8+3 (Reach 1).

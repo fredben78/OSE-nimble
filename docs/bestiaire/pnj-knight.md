@@ -3,16 +3,6 @@
 ## Description
 Chevaliers en armure, généralement humains ou breggles, souvent accompagnés d'un destrier (Charger) et d'écuyers.
 
-## Statistiques Dolmenwood (source)
-**Level 1 Knight (Squire)** — AC 17, HP 1d8 (4), Att +1, Speed 20, Morale 8, XP 10, Enc 2d6.
-Gear : cotte de plates + bouclier, épée longue (1d8).
-
-**Level 3 Knight (Armiger)** — AC 19, HP 3d8 (13), Att +2, Speed 20, Morale 9, XP 40, Enc 1d4.
-Gear : *Arcane Plate Mail* + bouclier, épée longue, lance (1d6), *Alchemical Tonic*. Companions : Charger (DPB), 1d4 squires.
-
-**Level 5 Knight (Gallant)** — AC 19, HP 5d8 (22), Att +3, Speed 20, Morale 10, XP 260, Enc 1.
-Gear : *Arcane Plate Mail* + bouclier, épée longue, *Holy Lance* (1d6+2, +2 attaque), *Prismatic Elixir*. Companions : Charger (DPB), 1d4 armigers, 2d4 squires.
-
 ## Conversion Nimble
 
 > **CHEVALIER (écuyer promu)** LVL 1 — ♥20, Armure Moyenne

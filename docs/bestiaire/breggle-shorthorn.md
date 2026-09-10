@@ -9,25 +9,6 @@ Membres de la classe inférieure des breggles : paysans, serviteurs, chasseurs e
 - **Possessions** : 3d6 pa.
 - **Trésor** : C1.
 
-## Statistiques Dolmenwood (source, pour référence)
-
-**MORTEL MOYEN — SENTIENT — TOUT ALIGNEMENT**
-
-**Niveau** 1 **CA** 13 **PV** 1d8 (4) **Sauvegardes** D12 R13 H14 B15 S16
-**Attaques** Arme (+0) ou cornes (+0, 1d4)
-**Vitesse** 30 **Moral** 7 (8 avec un longicorne) **XP** 10
-
-**Rencontres** 3d10 (20 % en repaire)
-**Comportement** Enjoué, servile à contrecœur
-**Discours** Doux, rustique. Woldish, gaffe, caprice de base
-**Possessions** 3d6 pa **Trésor** C1
-
-**Surprise :** En milieu boisé, l'adversaire a 3 chances sur 6 d'être surpris, du fait de la discrétion des courtecornes.
-
-**Armes :** Les courtecornes privilégient les épées courtes (1d6) et les lances (1d6).
-
-**Armure :** Les courtecornes portent une armure de cuir. Sans armure, CA 11.
-
 ## Conversion Nimble
 
 > **BREGGLE — COURTECORNE** LVL 1 — ♥26, Sans armure

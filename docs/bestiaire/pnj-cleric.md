@@ -3,16 +3,6 @@
 ## Description
 Clercs de l'Église Pluritine, presque toujours humains (occasionnellement d'autres Lignées mortelles). Membres d'un ordre saint (roll 1d6) : St Faxis (chasseurs de magie noire), St Sedge (guérisseurs/défenseurs), ou St Signis (chasseurs de morts-vivants).
 
-## Statistiques Dolmenwood (source)
-**Level 1 Cleric (Acolyte)** — AC 15, HP 1d6 (3), Speed 20, Morale 8, XP 10, Enc 1d20.
-Gear : cotte de mailles + bouclier, épée longue (1d8), arc court + 20 flèches (1d6).
-
-**Level 3 Cleric (Warden)** — AC 17, HP 3d6 (10), Att +1, Speed 20, Morale 9, XP 65, Enc 1d4.
-Gear : cotte de plates + bouclier, épée longue (1d8), arc court + flèches, fiole d'eau bénite. Spells : *Lesser Healing*, *Mantle of Protection*. Companions : 1d6 acolytes.
-
-**Level 5 Cleric (Elder)** — AC 19, HP 5d6 (17), Att +2, Speed 20, Morale 10, XP 360, Enc 1.
-Gear : cotte de plates + *Holy Shield*, *Holy Longsword* (1d8+2, +2 attaque), arc court + flèches, 3 fioles d'eau bénite, *Prismatic Elixir*, parchemin de *Cure Affliction*. Spells : *Lesser Healing*, *Light*, *Bless*, *Hold Person*. Companions : 1d4 wardens, 2d6 acolytes.
-
 ## Conversion Nimble
 
 > **CLERC (acolyte)** LVL 1 — ♥20, Armure Moyenne

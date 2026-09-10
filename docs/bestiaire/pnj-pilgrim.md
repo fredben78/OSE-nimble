@@ -3,12 +3,6 @@
 ## Description
 Adeptes zélés de l'Église Pluritine en route vers un site de signification religieuse. Généralement humains, parfois breggles. 2 chances sur 6 d'être des flagellants.
 
-## Statistiques Dolmenwood (source)
-**Everyday Mortal** — Small/Medium, Level 1, AC 10, HP 1d4 (2), Saves D12 R13 H14 B15 S16, Att Weapon (–1), Speed 40, Morale 6, XP 10.
-Armes : gourdin, dague, ou bâton (1d4).
-
-**Destinations (d6)** : 1. Church of St Pastery (Lankshorn). 2. Church of St Waylaine (Prigwort). 3. Sanctuaire perdu (au bon endroit). 4. Sanctuaire perdu (au mauvais endroit). 5. Cathédrale de St Signis (Castle Brackenwold). 6. Three Martyrs Minster (High-Hankle).
-
 ## Conversion Nimble
 
 > **PÈLERIN** LVL 1/4 — ♥12

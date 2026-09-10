@@ -9,34 +9,6 @@ Fourrés de bois épineux et de ronces enchevêtrées, hauts de 1,50 m, animés 
 - **Possessions** : Un rouleau d'attache (voir ci-dessous).
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-
-**PLANTE MOYENNE — SANS ESPRIT — NEUTRE**
-
-**Niveau** 2 **CA** 13 **PV** 2d8 (9) **Sauvegardes** D12 R13 H14 B15 S16
-**Attaques** 2 griffes de ronces (+1, 1d6 + entrave)
-**Vitesse** 30 **Moral** 9 **XP** 35
-
-**Rencontres** 1d4 (pas de repaire)
-**Comportement** Sournois, suit les ordres sans réfléchir
-**Discours** Aucun. Comprend le drunique, mais ne parle pas.
-**Possessions** Rouleau d'attache (voir plus bas)
-**Trésor** Aucun
-
-**Surprise :** En milieu boisé, l'adversaire a 4 chances sur 6 d'être surpris.
-
-**Immunités :** Subit moitié dégâts des armes perforantes (ex. lances) et contondantes (ex. masses).
-
-**Inflammable :** Subit le double des dégâts du feu.
-
-**Vision dans le noir :** Voit normalement sans lumière.
-
-**Entrave :** Si une victime est touchée par les deux attaques de griffes au cours du même round, elle est entravée dans les ronces et subit 1d6 dégâts automatiques par round jusqu'à sa libération. Une victime entravée ne peut pas se déplacer, mais peut attaquer avec un malus de -2 aux jets d'attaque.
-
-**Libérer une victime entravée :** Nécessite de tuer le brambling ou un ordre d'une Drune.
-
-**Rouleau d'attache :** Au cœur de chaque brambling se trouve un rouleau de parchemin gravé de runes druniques, porteur d'un effet magique mineur (voir *Rouleaux d'attache*), utilisable par tout lanceur de sorts arcanique capable de lire le drunique. Chaque rouleau vaut 250 po.
-
 ## Conversion Nimble
 
 > **BRAMBLING** LVL 2 — ♥26 (Sans armure)
@@ -44,8 +16,6 @@ Fourrés de bois épineux et de ronces enchevêtrées, hauts de 1,50 m, animés 
 > *Inflammable. Subit le double des dégâts de feu.*
 > **Griffes de ronces.** 2d8+2 (Reach).
 > *Entrave (déclencheur : les deux griffes touchent la même cible au même round).* La cible est Entravée (DC d'évasion 10) : elle ne peut plus se déplacer et subit 1d6 dégâts automatiques par round tant qu'elle reste prise ; elle peut attaquer avec -2. Seule la destruction du brambling ou un ordre d'une Drune la libère.
-
-*Note de conversion : deux capacités non triviales (Résistance + Entrave) ont été ajoutées ; les PV et le budget de dégâts utilisent donc la ligne de Niveau 1 (♥26, DPR 11, DC 10) au lieu de la ligne Niveau 2, l'étiquette « Niveau 2 » d'origine étant conservée.*
 
 **Moral (note narrative)** : Moral élevé (9). Un brambling suit les ordres sans réfléchir et ne rompt jamais le combat de lui-même — il combat jusqu'à destruction, sauf ordre contraire d'une Drune.
 

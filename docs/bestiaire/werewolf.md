@@ -9,29 +9,6 @@ Humains capables de se transformer en une forme humanoïde de loup assoiffée de
 - **Possessions** : Aucune.
 - **Trésor** : C3 + R3 + M3.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MORTAL—SENTIENT—CHAOTIC**
-**Level** 4 **AC** 14 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** Bite (+3, 2d4 + disease)
-**Speed** 60 **Morale** 8 (9 in a group of 4+) **XP** 180
-
-**Encounters** 1d6 (25% in lair)
-**Behaviour** Predatory, menacing, sly
-**Speech** Growls and grunts. Woldish
-**Possessions** None **Hoard** C3 + R3 + M3
-
-**Immunities:** Only harmed by silver weapons, magic, or magic weapons.
-**Dark sight:** Can see normally without light.
-**Changing between forms:** Takes 1 Round.
-**Howl (once a night, when transformed):** In the wilds, a werewolf's howl summons 1d4 wolves, arriving in 1d4 Rounds. The wolves join the werewolf in combat.
-**Disease:** The victim has a 1-in-20 chance per point of damage of contracting a magical disease (e.g. a character bitten for 4 damage has a 4-in-20 chance). Unless cured by magic (e.g. the holy spell *Cure Affliction*), the disease takes hold in 2d6 days. Humans start to become a werewolf (see *Lycanthropy*) and other characters die.
-**If killed:** Reverts to human form.
-
-### Lycanthropie (Lycanthropy — texte source)
-**Pleine lune :** Les nuits de pleine lune, ainsi que la veille et le lendemain, le sujet se transforme en un loup humanoïde et rôde la nuit dans une frénésie meurtrière. À l'aube, il redevient humain, sans mémoire de ses actes sous forme transformée.
-**Habituation :** Après 3 cycles lunaires, le personnage devient un loup-garou complet, capable de se transformer à volonté et conservant alors ses souvenirs.
-**Guérison :** La lycanthropie ne peut être guérie que par magie (ex. le sort sacré *Cure Affliction*). Même alors, la guérison n'est efficace que si le sujet est sous sa forme de loup-garou, et le sujet doit réussir un Save Versus Doom.
-
 ## Conversion Nimble
 
 > **LOUP-GAROU** LVL 3 — ♥33, Armure Moyenne

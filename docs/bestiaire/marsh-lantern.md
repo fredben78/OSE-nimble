@@ -9,23 +9,6 @@
 - **Possessions** : Aucune.
 - **Trésor** : C5 + R2 + M8.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MOYEN MORT-VIVANT — SEMI-INTELLIGENT — CHAOTIQUE**
-
-**Level** 4 **AC** 16 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** Toucher (+3, drain d'énergie) ou hurlement (contraint)
-**Speed** 20 **Morale** 12 **XP** 230
-
-**Encounters** 1d12 (100% dans le repaire)
-
-**Mort-vivant** : Silencieux avant d'attaquer. Immunisé aux effets biologiques (p. ex. maladie, poison) et aux sorts affectant l'esprit (p. ex. *Vapeurs de Rêve*, *Paralysation*, *Domination*).
-**Immunités** : Ne peut être blessé que par des armes en argent, de la magie, ou des armes magiques.
-**Vision dans le noir** : Voit normalement sans lumière.
-**Hurlement contraignant** : Un feu follet des marais peut fixer une cible à 18 m (60') et émettre un hurlement plaintif. La cible doit réussir un Jet de Sauvegarde contre Immobilisation ou être contrainte de se déplacer vers le feu follet à sa Vitesse complète pendant 1 Round.
-**Drain d'énergie** : Le toucher d'un feu follet des marais réduit les Points de Vie maximum de la victime de 1d3 et applique un malus de -1 aux Jets d'Attaque et de Sauvegarde. Ces effets sont cumulatifs si une victime est touchée plusieurs fois. Gagner un Niveau annule tous les malus et restaure les Points de Vie maximum perdus.
-**Retenu (Tethered)** : Un feu follet des marais ne peut s'éloigner de plus de 18 m (60') de l'endroit où pourrit son corps.
-**Si repoussé (Turned)** : Un feu follet des marais, incapable de fuir, disparaît sous les eaux du bourbier, incapable de se manifester pendant 1d6 Tours.
-
 ## Conversion Nimble
 
 > **FEU FOLLET DES MARAIS (MARSH LANTERN)** LVL 4, Moyen, Armure Moyenne — ♥33

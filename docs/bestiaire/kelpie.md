@@ -9,22 +9,6 @@ Monstres demi-fées habitant les étendues d'eau. Ils apparaissent comme des che
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**GRAND DEMI-FÉE — SENTIENT — CHAOTIQUE**
-
-**Level** 5 **AC** 14 **HP** 5d8 (22) **Saves** D10 R11 H12 B13 S14
-**Attacks** Morsure (+4, 1d6) et 2 sabots (+4, 1d4)
-**Speed** 60 **Swim** 60 **Morale** 8 **XP** 360
-
-**Encounters** 1 (pas de repaire)
-
-**Fer froid** : En tant que demi-fée, le kelpie subit 1 point de dégâts supplémentaire lorsqu'il est frappé par une arme en fer froid.
-**Amphibie** : Peut respirer dans l'air et dans l'eau.
-**Chant enchanteur** : Tous ceux qui entendent le beau chant d'un kelpie doivent réussir un Jet de Sauvegarde contre les Sorts ou être enchantés. Les victimes sont contraintes de s'approcher et de monter le kelpie (qui peut s'allonger pour porter jusqu'à une douzaine d'individus). Après une chevauchée aquatique effrénée, le kelpie noie ses victimes, consomme leur chair, et laisse leurs entrailles au bord de l'eau.
-**Bride** : Quiconque n'est pas enchanté par le chant d'un kelpie peut tenter de lui retirer sa bride, ce qui nécessite un jet d'attaque au corps à corps réussi. Le kelpie est alors lié au service du personnage pendant 1d8 jours.
-**Forme humaine** : Les kelpies quittent parfois l'eau pour errer sur le rivage sous la forme d'un séduisant jeune humain vêtu à l'ancienne, de façon formelle. On les reconnaît à la pondérée (herbe d'étang) mêlée à leurs cheveux.
-**Charme les humains** : Sous forme humaine, un kelpie peut tenter de charmer un humain rencontré seul. Si la victime échoue son Jet de Sauvegarde contre les Sorts, elle est contrainte d'errer avec le kelpie. Après 1 jour, le kelpie tente de la noyer et de la dévorer, sauf si son Charisme est de 16 ou plus — dans ce cas, le kelpie tombe amoureux et sert la victime pendant 1d8 jours avant de fuir ou de choisir de devenir définitivement humain (chances égales).
-
 ## Conversion Nimble
 
 > **KELPIE** LVL 5, Grand, Armure Moyenne — ♥39

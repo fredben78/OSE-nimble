@@ -9,27 +9,6 @@ Animaux anthropomorphes (60 à 90 cm de haut) qui construisent des cottages, boi
 - **Possessions** : 3d6 pa.
 - **Trésor** : C3 + R3 + M3.
 
-## Statistiques Dolmenwood (source, pour référence)
-
-**MORTEL PETIT — SENTIENT — TOUT ALIGNEMENT**
-
-**Niveau** 1 **CA** 14 **PV** 1d8 (4) **Sauvegardes** D12 R13 H14 B15 S16
-**Attaques** Arme (+0) ou morsure (+0, 1d3)
-**Vitesse** 30 **Moral** 6 **XP** 10
-
-**Rencontres** 1d4 (15 % en repaire)
-**Comportement** Rusé, prudent, jovial
-**Discours** Couinements et croassements rustiques. Woldish, gaffe
-**Possessions** 3d6 pa **Trésor** C3 + R3 + M3
-
-**Armes :** Les cobbins privilégient les gourdins (1d4), les épées courtes (1d6), les frondes (1d4) et les bâtons (1d4).
-
-**Origines :** Les cobbins furent créés par Atanuwë, qui souhaitait des adorateurs et décida d'éveiller la sentience chez les animaux de la Vallée des Bêtes Sages.
-
-**Hors de la Vallée :** Les cobbins rencontrés hors de la Vallée des Bêtes Sages sont de rares évadés du joug tyrannique des crookhorns. Les exemples de repaires et de rencontres ci-dessous sont mieux adaptés à des rencontres ayant lieu dans le reste du Dolmenwood, hors de la Vallée.
-
-**Colonie principale :** Cobton-sur-le-Frisson (*DCB*).
-
 ## Conversion Nimble
 
 > **COBBIN** LVL 1, Petite, Armure Moyenne — ♥20

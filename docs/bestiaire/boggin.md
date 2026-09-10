@@ -11,25 +11,7 @@ Monstruosités amphibies (10' de haut) aux membres semblables à des grenouilles
 - **Possessions** : Aucune.
 - **Trésor** : C3 + R3 + M3 + terres et minerais (1d10 × 100po).
 
-## Statistiques Dolmenwood (source, pour référence)
-- **Level** 6 · **AC** 14 · **HP** 6d8 (27) · **Saves** D9 R10 H11 B12 S13
-- **Attacks** 2 mains tâtonnantes (+5, 1d4 + prise) ou râteau de boue (+5, 1d12)
-- **Speed** 40 · **Nage** 40 · **Morale** 8 · **XP** 520
-- **Encounters** 1d6 (25 % en repaire)
-
-**Capacités spéciales (source)**
-- **Vision dans le noir**.
-- **Amphibie** : Peut respirer à l'air comme dans l'eau.
-- **Prise** : Toute créature touchée par les deux mains du boggin lors du même Round est traînée sous son immonde crinière de mauvaises herbes. La victime est piégée et ne peut agir, mais peut réussir un JdS contre la Paralysie chaque Round pour s'échapper. Pendant ce temps, le boggin tente de la traîner jusqu'à son repaire subaquatique.
-- **Si tué** : La chair d'un boggin se dissout en boue.
-- **Mines de vase** : Les boggins exploitent les fonds lacustres pour en tirer minerais et argile.
-- **Prédateur de sentients** : Les boggins traquent le bord de l'eau en quête de sentients à sang chaud pour les traîner dans leur repaire. 4 chances sur 6, les captifs sont démembrés et mangés ; le reste est mis au travail dans les mines de vase.
-- **Vomi amphibie** : Le vomi verdâtre et putride d'un boggin, une fois enduit autour de la bouche et du nez d'un humanoïde terrestre, confère la capacité de respirer sous l'eau pendant 1 jour. Un boggin en produit 2 doses par jour. Une dose de ce vomi vaut 100po si mise en bouteille.
-- **Origine** : Il y a bien longtemps, un magicien tenta de créer des compagnons d'une grande beauté et d'une grande sagesse. La magie tourna mal et créa à la place les boggins, haineux et grotesques. Ils tuèrent leur créateur, s'emparèrent de son manoir subaquatique (hex 0707, *DCB*), et se répandirent dans les eaux du Dolmenwood.
-
 ## Conversion Nimble
-
-Niveau Dolmenwood 6. Une seule capacité non-triviale strictement combattive (Prise) — le vomi amphibie, les mines de vase et la prédation sur sentients sont surtout narratifs/hors-combat — → pas de palier de coût appliqué, ligne de niveau 6 utilisée telle quelle. CA 14 → Armure Moyenne. Monstruosité de grande taille → dé de dégâts d10.
 
 > **BOGGIN** LVL 6, Grand — ♥54, Armure Moyenne
 > *Amphibie. Respire l'air et l'eau ; vision dans le noir.*

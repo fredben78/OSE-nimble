@@ -3,12 +3,7 @@
 ## Description
 Vers voraces de 2,7 m, d'un blanc cadavérique, couverts de mucus gluant. Une couronne de tentacules frétillants entoure leur bouche semblable à celle d'une lamproie. Vivent sous terre et dans les bois et marais sombres et humides.
 
-## Statistiques Dolmenwood (source)
-Large Bug — Animal Intelligence — Neutral. Level 3, AC 12, HD 3d8 (13 PV), Att 2 tentacules (+2, paralysie), Speed 40, Morale 9, XP 65, Enc 1d3, Hoard C4+R4+M1.
-
 ## Conversion Nimble
-
-*(2 capacités notables → on descend d'1 cran dans la table : valeurs du niveau 2 au lieu du niveau 3.)*
 
 > **VER CHAROGNARD** LVL 3, Grand — ♥34
 > *Reptation. Peut se déplacer sur les surfaces verticales (falaises, murs, troncs) et au plafond.*

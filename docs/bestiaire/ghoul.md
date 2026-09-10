@@ -9,28 +9,6 @@ Cadavres misérables de ceux qui sont morts de famine dans les étendues sauvage
 - **Possessions** : Aucune.
 - **Trésor** : C4 + R4 + M1.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM UNDEAD—SENTIENT—CHAOTIC**
-
-**Level** 2 **AC** 13 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** 2 claws (+1, 1d3 + paralysis) and bite (+1, 1d3 + paralysis)
-**Speed** 30 **Morale** 9 **XP** 35
-
-**Encounters** 2d4 (20% in lair)
-**Behaviour** Ravenous, hateful, devious
-**Speech** Deranged babbling. Broken Woldish
-**Possessions** None **Hoard** C4 + R4 + M1
-
-**Undead :** Silent before attacking. Immune to biological effects (e.g. disease, poison) and mind-affecting spells (e.g. Vapours of Dream, Paralysation, Dominate).
-
-**Dark sight :** Can see normally without light.
-
-**Paralysis :** The victim must Save Versus Hold or be paralysed for 2d4 Turns (aware but unable to move or act). Large creatures are unaffected. After paralysing a victim, ghouls turn their attentions to attacking other victims, until all are paralysed.
-
-**Trickery :** Ghouls sometimes attempt to trick living creatures by playing dead or pretending to be victims of an attack, pleading for aid.
-
-**Satiety :** After gorging on meat, ghouls have a brief period of lucidity (typically 1d4 Turns) during which they can be conversed with. They can be surprisingly eloquent, sometimes recalling fragments of their former lives.
-
 ## Conversion Nimble
 
 > **NÉCROPHAGE** LVL 2 — ♥34 (Sans armure)
@@ -38,8 +16,6 @@ Cadavres misérables de ceux qui sont morts de famine dans les étendues sauvage
 > *Ruse : peut feindre la mort ou se faire passer pour une victime blessée afin d'attirer une proie à sa portée.*
 > **Griffes et morsure.** 5d4+2 (Contact). Trois attaques acharnées.
 > *Sur touche : la cible doit Save DC11 (Hold) ou est paralysée pendant 2d4 tours (consciente mais incapable d'agir/de bouger) ; les créatures Large sont épargnées. Une fois une victime paralysée, le nécrophage se tourne vers une autre cible.*
-
-**Note de conversion** : Niveau Dolmenwood conservé à 2 (une seule capacité de contrôle non triviale — la Paralysie — ne déclenche pas la réduction). Dé de dégâts d4 car mort-vivant.
 
 **Moral (note narrative)** : Le nécrophage est vorace et acharné — il combat sans relâche jusqu'à ce que toutes les proies proches soient paralysées ou mortes, ignorant sa propre survie. Rassasié, il devient brièvement lucide (1d4 tours) et peut alors être amené à parler, révélant parfois des fragments pathétiques de son ancienne vie humaine.
 

@@ -3,15 +3,6 @@
 ## Description
 Insectes aquatiques géants (60 à 90 cm de long), xylophages, qui s'accrochent sous la coque des bateaux de passage pour en dévorer le bois. N'attaquent les créatures que si acculées.
 
-## Statistiques Dolmenwood (source)
-**SMALL BUG—ANIMAL INTELLIGENCE—NEUTRAL**
-**Level** 2 **AC** 13 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Att** Bite (+1, 1d4) or spray (irritant, range 20') **Speed** 40 **Morale** 8 **XP** 35 **Enc** 1d3
-
-**Irritant spray (once a Turn) :** Can spray one target above the water. The victim must Save Versus Blast or suffer a −2 penalty to Attack Rolls and Saving Throws.
-**Eat ships :** Cling to bottom of vessel. Each termite inflicts 1 damage per Round, before dropping off.
-**Noticing ship damage :** Crew have a 50% chance per Round of spotting leaks.
-
 ## Conversion Nimble
 
 > **TERMITE AQUATIQUE GÉANTE** LVL 2 — ♥34, Sans armure

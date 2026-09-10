@@ -9,23 +9,6 @@ Cadavres inhumés enveloppés de flammes pâles, possédés par des esprits mal�
 - **Possessions** : Aucune.
 - **Trésor** : C4 + R4 + M1.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM UNDEAD—SENTIENT—CHAOTIC**
-**Level** 3 **AC** 14 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** Claw (+2, 1d6 + energy drain)
-**Speed** 30 **Morale** 12 **XP** 90
-
-**Encounters** 1d6 (50% in lair)
-**Behaviour** Covetous, hateful of the living
-**Speech** Bestial hissing and snarling
-**Possessions** None **Hoard** C4 + R4 + M1
-
-**Undead:** Silent before attacking. Immune to biological effects (e.g. disease, poison) and mind-affecting spells (e.g. *Vapours of Dream*, *Paralysation*, *Dominate*).
-**Immunities:** Only harmed by silver weapons, magic, or magic weapons.
-**Dark sight:** Can see normally without light.
-**Energy drain:** The touch of a wight reduces the victim's maximum Hit Points by 1d3 and incurs a –1 penalty to Attack Rolls and Saving Throws. These effects are cumulative if a victim is touched multiple times. Gaining a Level removes all penalties and restores lost maximum HP.
-**Possession:** The evil spirit inhabiting a wight may transfer into a fresh corpse, if the monster is left alone with the body. The wight's previous body crumbles into dust and the new body rises as a wight with full Hit Points. The monster is evidently undead and cannot impersonate the person whose corpse it inhabits.
-
 ## Conversion Nimble
 
 > **HANTISE (WIGHT)** LVL 3 — ♥33, Armure Moyenne

@@ -9,27 +9,6 @@ Arbres humanoïdes géants (5,5 m de haut), aux jambes longues et semblables à 
 - **Possessions** : Aucune.
 - **Trésor** : C4 + R2 + M3.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE PLANT—SENTIENT—ANY ALIGNMENT**
-**Level** 8 **AC** 17 **HP** 8d8 (36) **Saves** D8 R9 H10 B11 S12
-**Attacks** 2 fists (+7, 2d6)
-**Speed** 20 **Morale** 9 **XP** 1,040
-
-**Encounters** 1d8 (50% in lair)
-**Behaviour** Lawful, Neutral: Benign unless slighted, Chaotic: Hateful and malevolent
-**Speech** Slow creaking. Mulch, Sylvan, Woldish (1-in-3 chance)
-**Possessions** None **Hoard** C4 + R2 + M3
-
-**Surprise:** In woodland, opposing side has a 3-in-6 chance of being surprised, due to mistaking treoweres for normal trees.
-**Distrust fire:** Reaction Rolls (see *Encounters*, *DPB*) are penalised by –2 if characters are wielding fire.
-**Animate tree (twice a day):** A treowere can command a normal tree to uproot itself and perform tasks or attack foes. See the animated tree stat block below.
-**Chaotic treoweres:** Typically only encountered in the Nagwood, where they act as evil guardians — corrupted by Atanuwë — who accost all intruders.
-
-### Animated Tree (statistiques Dolmenwood, source)
-**LARGE PLANT—MINDLESS—NEUTRAL**
-**Level** 6 **AC** 16 **HP** 6d8 (27) **Saves** D9 R10 H11 B12 S13
-**Att** 2 branches (+5, 1d10) **Speed** 10 **Morale** 11 **XP** 320
-
 ## Conversion Nimble
 
 > **TREOWERE** LVL 8, Grand — ♥73, Armure Moyenne

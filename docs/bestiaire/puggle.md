@@ -3,11 +3,6 @@
 ## Description
 Petits chiens au pelage argenté, au visage plat, aux yeux globuleux et à la langue pendante. Les puggles vivent en communautés animées, creusant tunnels et chambres dans les bancs de sable ou dans la chair de champignons gargantuesques. Défendent vigoureusement leurs tanières. Ce sont des fongivores dont la chair a un goût de champignon frit à l'ail.
 
-## Statistiques Dolmenwood (source)
-**SMALL ANIMAL—ANIMAL INTELLIGENCE—NEUTRAL**
-**Level** 1 **AC** 13 **HP** 1d8 (4) **Saves** D12 R13 H14 B15 S16
-**Att** Bite (+0, 1d4) **Speed** 50 **Morale** 9 **XP** 10 **Enc** 2d4
-
 ## Conversion Nimble
 
 > **PUGGLE** LVL 1 — ♥26, Sans armure

@@ -9,33 +9,6 @@ Petites (5 pieds), sveltes femmes-cerfs aux grands yeux verts, aux boucles argen
 - **Possessions** : Portées par le groupe : C2 + R1 + 1d4 doses de Baume Deorling (DCB).
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MORTAL—SENTIENT—ANY ALIGNMENT**
-
-**Level** 2 **AC** 13 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** Staff (+1, 1d4)
-**Speed** 50 **Morale** 6 **XP** 35
-
-**Encounters** 4d4 (no lair)
-**Behaviour** Spirited, flighty, devotional
-**Speech** Melodious. Woldish, Deorling, Sylvan
-**Possessions** Carried by group : C2 + R1 + 1d4 *Deorling Balm* doses (DCB)
-**Hoard** None
-
-**Surprise :** In woodland, the opposing side has a 3-in-6 chance of being surprised, due to deorlings' stealth.
-**Enchanting speech (once a day per target) :** When speaking, a deorling doe may use a secret art of vocal modulation. Any mortals hearkening must Save Versus Hold or be rooted to the spot for 1d4 Rounds (able to act and speak but not move).
-**See invisible :** Deorlings' sight extends into spiritual realms, allowing them to perceive the invisible.
-**Matriarch :** Each group is led by a matriarch (stats below).
-**Children :** A group is typically accompanied by 2d6 children — non-combatants with 1d4 HP. Upon reaching maturity, young men are cast out to wander alone.
-**Wood Gods :** Deorlings worship the Wood Gods Howawi and Yorghan (DCB).
-
-### Deorling Doe Matriarch (bloc dédié)
-**MEDIUM MORTAL—SENTIENT—ANY ALIGNMENT**
-**Level** 4 **AC** 13 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Att** Staff (+3, 1d4) **Speed** 50 **Morale** 8 **XP** 180
-**Hold :** May cast the holy spell *Hold Person* once per day.
-**Other traits :** As per standard deorling does.
-
 ## Conversion Nimble
 
 > **BICHE DEORLING** LVL 2 — ♥34 (Sans armure)
@@ -49,8 +22,6 @@ Petites (5 pieds), sveltes femmes-cerfs aux grands yeux verts, aux boucles argen
 > *Toutes les capacités de la biche deorling standard ci-dessus.*
 > *Ordonner (une fois par jour) : lance l'effet du sort sacré Hold Person — la cible doit réussir un Sauvegarde DD12 (Vs Hold) ou être paralysée.*
 > **Bâton.** 2d8+8 (Contact).
-
-**Note de conversion** : une seule capacité non triviale par bloc (Chant enchanteur pour la biche ; Ordonner pour la matriarche), donc aucune rétrogradation de palier. Dé de dégâts d8 par défaut (mortel/humanoïde standard, malgré l'apparence de faune fée — le Type Dolmenwood indiqué est bien Mortel, non Fae).
 
 **Moral (note narrative)** : Les biches deorlings sont versatiles et peu enclines au combat prolongé (Moral 6) — elles préfèrent enraciner un agresseur avec leur chant puis s'enfuir avec le groupe (Vitesse 50) plutôt que de se battre. La matriarche (Moral 8), elle, tient bon pour protéger ses enfants et peut employer Hold Person pour neutraliser une menace avant la fuite du groupe.
 

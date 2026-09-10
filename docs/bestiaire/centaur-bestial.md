@@ -9,29 +9,6 @@ Hybrides homme-cheval de 3 mètres de haut, corrompus par Atanuwë, à la chair 
 - **Possessions** : 3d6 pa + un objet chaotique (voir ci-dessous).
 - **Trésor** : C2 + R1.
 
-## Statistiques Dolmenwood (source, pour référence)
-
-**DEMI-FAE GRAND — SENTIENT — CHAOTIQUE**
-
-**Niveau** 6 **CA** 14 **PV** 6d8 (27) **Sauvegardes** D9 R10 H11 B12 S13
-**Attaques** [2 sabots (+5, 1d6) et arme (+5, 1d8+3)] ou beuglement (amnésie)
-**Vitesse** 60 **Moral** 9 **XP** 520
-
-**Rencontres** 1 (25 % en repaire)
-**Comportement** Fiévreux, brutal, furieux
-**Discours** Beuglements semi-compréhensibles. Woldish de base, gaffe de base, sylvain de base
-**Possessions** 3d6 pa + objet chaotique (voir plus bas) **Trésor** C2 + R1
-
-**Fer froid :** Étant demi-fae, les centaures bestiaux subissent 1 point de dégâts supplémentaire lorsqu'ils sont touchés par des armes en fer froid.
-
-**Armes :** Les centaures bestiaux manient de grandes lances et des haches.
-
-**Beuglement (une fois par jour) :** Un centaure bestial peut émettre un beuglement hideux et à vous retourner l'esprit. Toutes les créatures dans un rayon de 9 m doivent réussir une **Sauvegarde contre la Malédiction** ou être frappées pendant 1d6 jours d'une amnésie complète, leur Sagesse réduite à 3.
-
-**Cadeaux du Seigneur-Bouc :** Les centaures bestiaux servent Atanuwë et portent chacun un cadeau de leur maître (valant 250 po). Voir *Objets Chaotiques*. De tels objets, s'ils sont volés, peuvent être utilisés par d'autres créatures d'alignement Chaotique, mais réduisent alors de façon permanente la Sagesse de leur utilisateur de 1 point à chaque usage.
-
-**Haine de la musique :** Une musique magnifique importune les centaures bestiaux — ils doivent réussir une **Sauvegarde contre les Sorts** ou fuir la source de la musique pendant 1 tour. Si la sauvegarde réussit, le centaure entre à la place dans une rage furieuse et gagne un bonus de +1 aux jets d'Attaque et de Dégâts pendant 1 tour.
-
 ## Conversion Nimble
 
 > **CENTAURE BESTIAL** LVL 6, Grande, Armure Moyenne — ♥46
@@ -39,8 +16,6 @@ Hybrides homme-cheval de 3 mètres de haut, corrompus par Atanuwë, à la chair 
 > **Grande hache (et sabots).** 2 attaques, 1d10+4 chacune (Reach).
 > *Beuglement (1/jour).* Toutes les créatures dans un rayon de 9 m doivent réussir un JdS FOR (DC 12) ou être frappées d'amnésie totale pendant 1d6 jours ; leur Volonté chute à un score minimal jusqu'à guérison.
 > *Haine de la musique. (déclencheur : une musique magnifique retentit à portée).* JdS VOL (DC 12) : échec, le centaure doit fuir la source pendant 1 tour complet ; réussite, il entre en rage et gagne +1 aux jets d'attaque et de dégâts pendant 1 tour.
-
-*Note de conversion : deux capacités non triviales (Beuglement + Haine de la musique) ont été ajoutées ; les PV et le budget de dégâts utilisent la ligne de Niveau 5 (♥46 en Armure Moyenne, DPR 19, DC 12) au lieu de la ligne Niveau 6, l'étiquette « Niveau 6 » d'origine étant conservée. Dé de dégâts d10 retenu (catégorie Animal/Bête, cohérent avec la moitié équine de la créature).*
 
 **Moral (note narrative)** : Moral élevé (9). Féroces et perpétuellement furieux, les centaures bestiaux combattent jusqu'au bout dans une rage quasi permanente et fuient rarement, sauf face à une musique qui les submerge (voir Haine de la musique).
 

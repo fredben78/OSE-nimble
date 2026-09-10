@@ -3,12 +3,6 @@
 ## Description
 Vendeurs itinérants de toutes sortes d'objets, aussi bien quotidiens que singuliers. Voyagent seuls, à pied ou avec une petite charrette à bras.
 
-## Statistiques Dolmenwood (source)
-**Everyday Mortal** — Small/Medium, Level 1, AC 10, HP 1d4 (2), Saves D12 R13 H14 B15 S16, Att Weapon (–1), Speed 40, Morale 6, XP 10.
-Armes : gourdin, dague, ou bâton (1d4).
-
-**Marchandise** : tirer sur les tables de biens de commerce mondains ou herbaux du Dolmenwood Campaign Book.
-
 ## Conversion Nimble
 
 > **PEDLAR** LVL 1/4 — ♥12

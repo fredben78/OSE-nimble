@@ -9,30 +9,6 @@ Membres de haut rang d'une cour féerique, envoyés par leur suzerain dans le mo
 - **Possessions** : 5d20 pièces de platine.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM FAIRY—GENIUS—ANY ALIGNMENT**
-
-**Level** 6 **AC** 14 **HP** 6d8 (27) **Saves** D9 R10 H11 B12 S13
-**Attacks** Staff (+5, 1d6 + paralysis) or magic (see below)
-**Speed** 40 **Morale** 9 **XP** 920
-
-**Encounters** 1d4 (no lairs in the mortal world)
-**Behaviour** Elevated, decadent, aloof
-**Speech** Aristocratic drawl. Woldish, High Elfish, Sylvan
-**Possessions** 5d20pp + R3 + M2 **Hoard** None
-
-**Cold iron :** As fairies, elf courtiers suffer 1 extra point of damage when hit with cold iron weapons.
-**Paralysis :** A mortal struck by an elf courtier's staff must Save Versus Hold or be paralysed for 1d6 Turns (aware but unable to act).
-**Fairy magic :** Glamours *Awe*, *Disguise Object*, *Fairy Dust*, *Seeming*. Lesser runes (thrice a day) *Fog Cloud*, *Gust of Wind*, *Proof Against Deadly Harm*, *Sway the Mortal Mind*. Greater runes (once a day) *Fairy Gold*, *Rune of Invisibility*, *Sway the Mind*.
-**Mount :** 3-in-6 chance of riding a fairy horse (p40).
-**Entourage :** 4-in-6 chance of being accompanied by 1d4 elf knights (p38) and 2d4 servitors (treat as elf wanderers — p39).
-
-**Frost Elf Courtiers**
-**Alignment :** 3-in-6 chance of being Chaotic.
-**Frost touch :** May attack in melee by touch, instead of by weapon, inflicting 1d3 frost damage.
-**Runes :** *Ice Storm* once a day, instead of *Fairy Gold*.
-**Snow-clad ground :** Pass without leaving a trace.
-
 ## Conversion Nimble
 
 > **ELFE COURTISAN** LVL 6, Armure Moyenne — ♥46
@@ -40,8 +16,6 @@ Membres de haut rang d'une cour féerique, envoyés par leur suzerain dans le mo
 > *Paralysie : une créature mortelle touchée par le bâton du courtisan doit réussir un Sauvegarde DD12 (Vs Hold) ou être paralysée pendant 1d6 Tours (consciente mais incapable d'agir).*
 > *Magie féerique : Glamours (Awe, Disguise Object, Fairy Dust, Seeming — usage libre en roleplay/hors combat, au jugement du MJ). Runes mineures (3/jour) : Fog Cloud, Gust of Wind, Proof Against Deadly Harm, Sway the Mortal Mind. Runes majeures (1/jour) : Fairy Gold, Rune de l'Invisibilité, Sway the Mind.*
 > **Bâton.** 3d6+9 (Contact). Déclenche Paralysie sur touche.
-
-**Note de conversion** : le Courtisan combine deux capacités non triviales (Paralysie au contact + panoplie de magie féerique), donc rétrogradation d'un cran dans la table de PV/dégâts/DD (ligne « Niveau 5 » utilisée : ♥58 sans armure / ♥46 en Armure Moyenne, dégâts/round 19, DD12 — étiquette de Niveau 6 conservée). CA 14 → Armure Moyenne. Dé de dégâts d6 car créature féerique (Type Fairy), conformément au précédent établi pour le Cheval Fée (p40).
 
 **Moral (note narrative)** : L'elfe courtisan est décadent et distant (Moral 9) — il considère le combat physique comme indigne de son rang et préfère la magie (paralysie, glamours de tromperie, runes d'évasion) pour se sortir d'une situation périlleuse. S'il perd son avantage magique, il se retire dignement plutôt que de se battre à mains nues, sauf s'il est acculé sans échappatoire.
 

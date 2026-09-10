@@ -9,27 +9,7 @@ Minuscules (15 cm) champignons humanoïdes au tronc blanc crémeux et au chapeau
 - **Possessions** : 3d6 pa (1 chance sur 4).
 - **Trésor** : C1 + R1 + biens commerciaux herbeux et courants (DCB).
 
-## Statistiques Dolmenwood (source, pour référence)
-SMALL FUNGUS—SENTIENT—ANY ALIGNMENT
-
-**Level** 1 **AC** 16 **HP** 1d4 (2) **Saves** D12 R13 H14 B15 S16
-**Attacks** Psychic projection (horror)
-**Speed** 30 **Morale** 6 **XP** 15
-
-**Encounters** 2d10 (25% in lair)
-**Behaviour** Sneaky, mischievous, covetous
-**Speech** High-pitched tittering. Mulch, basic Woldish
-**Possessions** 3d6sp (1-in-4 chance)
-**Hoard** C1 + R1 + herbal and mundane trade goods (DCB)
-
-**Surprise :** Opposing side has a 3-in-6 chance of being surprised, due to pook morels' stealth and small size.
-**Psychic projection :** A pook morel may target a creature within 20' with its psychic attack. The target momentarily experiences an unsettling hallucination wherein an item on their person appears to come alive—sprouting wriggling, insectoid limbs and gnashing mandibles. The target must Save Versus Hold or instinctively cast the item to the ground in horror.
-**Steal dropped items :** Pook morels quickly scoop up items discarded by victims of their psychic projections and whisk them off to their lair.
-**Vanish in woods :** When fleeing into forest underbrush, a pook morel has a 2-in-6 chance per Round of vanishing without trace.
-
 ## Conversion Nimble
-
-*Une seule capacité mécanique majeure (la projection psychique, qui constitue l'attaque même) ; pas de cran de descente. Niveau 1 conservé.*
 
 > **POOK MOREL** LVL 1, Petit — ♥20, Armure Moyenne
 > *Furtif : l'adversaire a 3 chances sur 6 d'être surpris en raison de la petite taille et de la discrétion du pook morel.*

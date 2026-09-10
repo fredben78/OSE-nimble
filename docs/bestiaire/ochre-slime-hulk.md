@@ -9,29 +9,7 @@ Monticules quadrupèdes et massifs (2,4 m de long) de chair fongique sans tête,
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-LARGE FUNGUS—ANIMAL INTELLIGENCE—NEUTRAL
-
-**Level** 7 **AC** 14 **HP** 7d8 (31) **Saves** D8 R9 H10 B11 S12
-**Attacks** 2 claws (+6, 2d4)
-**Speed** 30 **Morale** 10 **XP** 780
-
-**Encounters** 1 (no lair)
-**Behaviour** Indiscriminately brutal
-**Speech** None
-**Possessions** None **Hoard** None
-
-**Immunities :** Suffer half damage from mundane weapons.
-**Flammable :** Suffer double damage from fire.
-**Eyeless :** Can act normally in light or darkness.
-**If damaged :** When a slime-hulk takes damage (except from fire), it releases a cloud of spores. All within 10' must Save Versus Doom or suffer 1d4 damage for the next 3 Rounds, as the acidic spores burn away at skin and lungs.
-**Upon killing a victim :** A slime-hulk spews out a spore-laden, yellow slime that engulfs the corpse. After 1 Turn, the corpse is dissolved into a pool of slime that spawns a new slime-hulk 2 weeks later. A character dissolved in this way cannot be restored to life via Raise Dead.
-**Washing off slime :** A corpse can be saved before being completely dissolved (1 Turn) by washing off the yellow slime with water, wine, etc.
-**Potion ingredient :** The flesh of an ochre slime-hulk can be used to brew a Philtre of Wondrous Vitality in half the normal time. The flesh is worth 100gp.
-
 ## Conversion Nimble
-
-*Niveau de départ 7, mais 3 capacités spéciales non-triviales (immunité partielle, nuage de spores, réengendrement post-mortem) imposent de redescendre d'un cran → Niveau 6 retenu.*
 
 > **OCHRE SLIME-HULK** LVL 6, Grand — ♥54, Armure Moyenne
 > *Immunisé (armes courantes) : subit moitié dégâts des armes non magiques ; subit dégâts doublés du feu.*

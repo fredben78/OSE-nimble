@@ -9,36 +9,12 @@ Des femmes chétives à la peau flasque, dotées des jambes, de la queue et des 
 - **Possessions** : 2d6po.
 - **Trésor** : C3 + R3 + M3.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MONSTROSITY—SENTIENT—CHAOTIC**
-
-**Level** 3 **AC** 12 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** 2 claws (+2, 1d4) and 1 weapon (+2) and song (charm)
-**Speed** 20 **Fly** 50 **Morale** 7 **XP** 65
-
-**Encounters** 2d4 (25% in lair)
-**Behaviour** Rapacious, sadistic, avaricious
-**Speech** Cackling, screeching. Woldish, Gaffe, the tongue of crows
-**Possessions** 2d6gp **Hoard** C3 + R3 + M3
-
-**Magic Resistance :** +2 bonus to Saving Throws against effects of magical origin.
-
-**Dark sight :** Can see normally without light.
-
-**Weapons :** Harpies favour daggers (1d4), clubs (1d4), and shortbows (1d6).
-
-**Charming song :** Those who hear the song of a group of harpies must Save Versus Spell or come under their sway. If the Saving Throw fails, the victim is charmed to move towards the harpies (resisting those who try to prevent it), to obey the harpies' commands (if understood), and to defend the harpies. They are unable to cast spells, use magic items, or harm the harpies. Killing the harpies breaks the charm. A character who makes the save is unaffected for the rest of the encounter.
-
-**Origin :** Harpies were created long ago by the priesthood of an evil deity in a distant land. Their original function was as heralds of the deity's will, their songs relaying prophecies and instilling fanatic devotion. Since the destruction of their temples by the Pluritine Church, they have spread far and wide. Many have made their way to Dolmenwood, attracted to the service of Atanuwë.
-
 ## Conversion Nimble
 
 > **HARPIE** LVL 2 — ♥34 (Sans armure)
 > *Résistance magique : +2 aux jets de sauvegarde contre les effets d'origine magique.*
 > *Chant charmeur : quiconque entend le chant d'un groupe de harpies doit Save DC11 (Vs Sort) ou tombe sous leur emprise — la victime avance vers les harpies (en résistant à quiconque l'en empêche), obéit à leurs ordres et les défend ; elle ne peut lancer de sorts, utiliser d'objets magiques, ni nuire aux harpies. Tuer les harpies rompt le charme ; un jet réussi immunise pour le reste de la rencontre.*
 > **Griffes et arme.** 2d8+4 (Contact ou Distance selon l'arme). Deux lacérations suivies d'un coup d'arme.
-
-**Note de conversion** : Niveau Dolmenwood (3) réduit d'un cran (→ 2) car la créature cumule deux capacités non triviales (résistance magique + chant charmeur de groupe), conformément à la règle de coût. Dé de dégâts d8 (monstruosité de stature humanoïde, non féerique).
 
 **Moral (note narrative)** : Les harpies sont avides et sadiques, mais lâches en infériorité — elles préfèrent charmer leurs proies à distance par le chant plutôt que d'engager un combat frontal, et se replient dès que leur emprise est brisée ou qu'elles subissent des pertes significatives.
 

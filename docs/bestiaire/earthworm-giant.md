@@ -3,9 +3,6 @@
 ## Description
 Vers gigantesques (9 m de long), gris-rose, dotés d'une gueule béante et dépourvue de dents. Creusent profondément sous le Dolmenwood, dévorant tout ce qui se trouve sur leur passage.
 
-## Statistiques Dolmenwood (source)
-Large Bug — Animal Intelligence — Neutral. Level 7, AC 13, HD 7d8 (31 PV), Att Morsure (+6, 1d4 + engloutissement), Speed 20, Burrow 20, Morale 8, XP 780, Enc 1d3.
-
 ## Conversion Nimble
 
 > **VER DE TERRE GÉANT** LVL 7, Grand — ♥79

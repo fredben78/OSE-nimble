@@ -9,22 +9,6 @@ Animaux des bois ordinaires ayant reçu le don de la parole par magie. Vivent co
 - **Possessions** : Aucune.
 - **Trésor** : 2d100 pièces d'argent + 1 chance sur 4 d'une gemme.
 
-## Statistiques Dolmenwood (source, pour référence)
-**SMALL ANIMAL—SENTIENT—ANY ALIGNMENT**
-**Level** 1 **AC** 13 **HP** By species **Saves** D12 R13 H14 B15 S16
-**Attacks** Bite or claw (+0, damage by species)
-**Speed** 40 **Morale** 5 **XP** 10
-
-**Encounters** 1d4 (15% in lair)
-**Behaviour** Tricksy, whimsical, slippery
-**Speech** Eloquent squeaks, hoots, barks, etc. Woldish
-**Possessions** None
-**Hoard** 2d100sp + 1-in-4 chance of 1 gem
-
-**Species:** Determine the species of encountered animals by rolling on the *Animal Species* table. The species determines the animals' Hit Points and the damage inflicted by their attack. Very small animals cannot effectively damage larger foes. Winged animals have flying Speed 40.
-**Trade:** Talking animals may approach travellers and propose a trade: food (1d6 rations) or shiny trinkets (worth at least 1d20gp) in return for divulging knowledge about Dolmenwood.
-**Knowledge:** If a trade is agreed, a talking animal reveals a useful nugget of information about the current hex or a neighbouring hex (per the Referee's judgement). Occasionally, an animal may instead provide a cryptic clue to a wider mystery in Dolmenwood — see *Cryptic Clues*.
-
 ## Conversion Nimble
 
 > **ANIMAL PARLANT** LVL 1, Petit — ♥26, Sans armure

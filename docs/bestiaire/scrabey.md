@@ -9,27 +9,7 @@ Demi-fées chétifs, hauts de 1 à 1,2 m, à la peau cendrée, aux yeux de lune,
 - **Possessions** : 4d6 pa + biens commerciaux féeriques, herbeux et courants (DCB, 2 chances sur 6 chacun).
 - **Trésor** : C4 + R4 + M1 + M5.
 
-## Statistiques Dolmenwood (source, pour référence)
-SMALL DEMI-FEY—SENTIENT—ANY ALIGNMENT
-
-**Level** 2 **AC** 13 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** Weapon (+1)
-**Speed** 40 **Morale** 7 **XP** 20
-
-**Encounters** 1d6 (15% in lair)
-**Behaviour** Prudent, excitable, curious
-**Speech** Gulping whisper. Dwelve, basic Woldish
-**Possessions** 4d6sp + fairy, herbal, and mundane trade goods (DCB, 2-in-6 chance of each)
-**Hoard** C4 + R4 + M1 + M5
-
-**Cold iron :** As demi-fey, scrabies suffer 1 extra point of damage when hit with cold iron weapons.
-**Weapons :** Scrabies typically carry 1d3 daggers (1d4) and a shortsword (1d6).
-**Worm form :** In a pinch (they find it distasteful), scrabies can transform into a 5' long, 2" thick, grey worm with their face at the tail end. The transformation takes 1 Round, during which the scrabey can do nothing else. When in this form, they are able to dive into the earth and burrow away at their normal Speed.
-**Nose beverage :** Each scrabey can pour a particular liquid (see Nose Beverages) from its tap-like nose, at will—up to a pint per hour. Despite their questionable origin, these liquids are quite delicious. The bestowing of a nose-beverage is a gesture of friendship.
-
 ## Conversion Nimble
-
-*Une seule capacité non-triviale, purement utilitaire (forme de vers pour fuir) ; pas de cran de descente. Niveau 2 conservé.*
 
 > **SCRABEY** LVL 2, Petit — ♥34, Sans armure
 > *Fer froid : subit 1 dégât supplémentaire des armes en fer froid.*

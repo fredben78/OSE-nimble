@@ -3,12 +3,6 @@
 ## Description
 Pêcheurs portant filets, cannes, boîtes à appâts et seaux. Rencontrés sur l'eau, à bord de radeaux ou de barques à rames.
 
-## Statistiques Dolmenwood (source)
-**Everyday Mortal** — Small/Medium, Level 1, AC 10, HP 1d4 (2), Saves D12 R13 H14 B15 S16, Att Weapon (–1), Speed 40, Morale 6, XP 10.
-Armes : gourdin, dague, ou bâton (1d4).
-
-**Rations** : 3 chances sur 6 qu'un pêcheur porte 2d6 rations de poisson frais, à vendre 1 po/ration.
-
 ## Conversion Nimble
 
 > **PÊCHEUR** LVL 1/4 — ♥12

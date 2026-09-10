@@ -9,24 +9,6 @@ Boucs sinistres et hirsutes, de la taille d'un poney, aux longues cornes en spir
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MONSTROSITY—SEMI-INTELLIGENT—NEUTRAL**
-
-**Level** 3 **AC** 12 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** Horns (+2, 1d6) or bite (+2, 1d8) or gaze (see below) or bleat (command)
-**Speed** 40 **Morale** 8 **XP** 115
-
-**Encounters** 1d4 (no lair)
-**Behaviour** Careful cunning, rapacious
-**Speech** Harsh bleating. Basic understanding of Caprice
-**Possessions** None **Hoard** None
-
-**Charge :** In first Round of combat, when not in melee, a devil goat may charge at a target. This requires a clear run of 40'. On a successful Attack Roll, the devil goat's horns inflict double damage.
-**Gaze (thrice a day) :** A devil goat may focus the wicked gaze of its central eye upon a target, who must Save Versus Spell. If the save fails, the victim is affected by a random Evil Gaze effect (see table below).
-**Commanding bleat (thrice a day) :** A devil goat may bleat a command to a horse or hound within 60'. The animal must Save Versus Spell or obey the command for 1 Round. Commands that are obviously harmful to the animal are ignored.
-**Use by longhorns :** Devil goats are bred by certain breggle nobles, who use them as fiercely loyal guardians or ceremonial mounts. The creatures are called Augfrlad in the Caprice tongue.
-**Wild herds :** A small population of wild devil goats lurks in the High Wold, descended from individuals who escaped from captivity.
-
 ## Conversion Nimble
 
 > **BOUC DÉMONIAQUE** LVL 3 — ♥34 (Sans armure)
@@ -34,8 +16,6 @@ Boucs sinistres et hirsutes, de la taille d'un poney, aux longues cornes en spir
 > *Regard maléfique (3 fois par jour) : une cible doit réussir un Sauvegarde DD11 (Vs Sort) ou subir un effet aléatoire (voir table Regard Maléfique).*
 > *Bêlement de commandement (3 fois par jour) : contrôle un cheval ou un chien à 60 pieds de distance pendant 1 Round (Sauvegarde DD11 pour résister ; les ordres manifestement nuisibles à l'animal sont ignorés).*
 > **Cornes ou morsure.** 2d10+3 (Contact). Sur une charge réussie, double les dégâts.
-
-**Note de conversion** : deux capacités non triviales (Charge et Regard maléfique), donc rétrogradation d'un cran dans la table de PV/dégâts/DD (ligne « Niveau 2 » utilisée : ♥34, dégâts/round 13, DD11 — bien que l'étiquette de Niveau reste 3, issue de Dolmenwood). Dé de dégâts d10 car il s'agit d'un animal/monstruosité bestiale.
 
 **Moral (note narrative)** : Le bouc démoniaque est prudent et calculateur (Moral 8) — il charge dès qu'une ouverture se présente, mais évalue le rapport de force avant de s'engager pleinement. S'il perd l'avantage (blessé, encerclé, ou face à une meute organisée), il rompt le combat plutôt que de se sacrifier, préférant la ruse et la fuite à un combat perdant.
 

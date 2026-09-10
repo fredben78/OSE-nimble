@@ -10,30 +10,7 @@ Long de 18 mètres, aux écailles d'or terni, aux têtes difformes, aux yeux noi
 - **Discours** : rasp raisonné. Parle le Woldish, le Wyrm, le Dwelve, le Sylvan.
 - **Possessions** : aucune. **Trésor** : catégorie C11 + R12 + M7.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE DRAGON—GENIUS—CHAOTIC**
-**Level** 11 **AC** 20 **HP** 11d8 (49) **Saves** D6 R7 H8 B9 S10
-**Attacks** [Morsure (+8, 2d10) et queue (+8, 2d6)] ou souffle (bile acide)
-**Speed** 80 **Fly** 80 **Morale** 9 **XP** 3 350
-**Encounters** 1 (50% en repaire)
-
-**Sommeil au repaire** : 20% de chances d'être endormi si rencontré dans son antre (voir *Wyrm—Overview* ci-dessous).
-
-**Immunités** : seuls la magie ou les armes magiques peuvent le blesser. Subit moitié dégâts des armes magiques. Immunisé à l'acide et au poison. Immunisé au feu, à la foudre et au froid non-magiques. Subit moitié dégâts du feu, de la foudre et du froid magiques.
-
-**Vision dans le noir** : voit normalement sans lumière.
-
-**Souffle (3×/jour)** : un wyrm de bile jaune peut cracher un cône de bile jaune collante et caustique. Toutes les créatures dans un cône de 18 m de long et 9 m de large à son extrémité subissent des dégâts égaux au total actuel de Points de Vie du wyrm, ainsi que 2d6 dégâts supplémentaires au Round suivant, tandis que la bile continue de dégoutter (**Sauver Contre Explosion** pour moitié dégâts, ce Round-ci comme le suivant).
-
-**Aura de terreur** : en présence d'un wyrm de bile jaune, tous les êtres de Niveau 8 ou moins doivent **Sauver Contre Paralysie** ou être paralysés pendant 1d6 Tours (conscients mais incapables d'agir).
-
-**Vol** : les wyrms de bile jaune volent avec une agilité sinueuse. N'ayant pas d'ailes, leur vol est magique.
-
-**Voir aussi** : *Wyrm—Overview* (régénération, vulnérabilité, etc. — voir le fichier `wyrm-black-bile.md` pour le texte complet transversal aux 4 Wyrms : reproduction, âge, parole, antres/sommeil, régénération, table des vulnérabilités 1d8, origine commune liée au Dieu des Bois Ocryphd).
-
 ## Conversion Nimble (Boss Légendaire)
-
-*Créature unique, nommée, de type Genius (intellect supérieur), avec du lore propre et de multiples mécaniques (aura de terreur, souffle à dégâts différés, immunités renforcées) → traitement **Legendary Monster Builder** (GMG p.41-44), calé sur le niveau du groupe de héros. Le Niveau Dolmenwood du wyrm de bile jaune (11) dépasse le maximum couvert par la table Legendary (7 à 10) — on retient donc le palier **groupe de Niveau 10** comme approximation haute (c'est le wyrm le plus puissant des quatre variétés). CA20 → Armure Lourde confirmée.*
 
 > **WYRM DE BILE JAUNE** *(Boss Légendaire, groupe de Niveau 10)* — ♥215 (Armure Lourde)
 > *Immunités.* Seuls les armes/effets magiques le blessent (mi-dégâts même si magiques). Immunisé à l'acide et au poison. Immunisé au feu/foudre/froid non-magiques ; mi-dégâts si magiques.

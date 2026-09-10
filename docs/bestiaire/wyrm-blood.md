@@ -10,30 +10,7 @@ Long de 15 mètres, écailles pourpre profond, visage quasi-humain, yeux bleus s
 - **Discours** : éloquent, venimeux. Parle le Woldish, le Wyrm (langue propre aux dragons) et le Sylvan.
 - **Possessions** : aucune. **Trésor** : catégorie C10 + R8 + M11.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE DRAGON—SENTIENT—CHAOTIC**
-**Level** 9 **AC** 19 **HP** 9d8 (40) **Saves** D7 R8 H9 B10 S11
-**Attacks** [Morsure (+7, 2d10) et queue (+7, 2d6)] ou souffle (sang bouillant)
-**Speed** 80 **Fly** 80 **Morale** 9 **XP** 2 450
-**Encounters** 1 (50% en repaire)
-
-**Sommeil au repaire** : 30% de chances d'être endormi si rencontré dans son antre (voir *Wyrm—Overview* ci-dessous).
-
-**Immunités** : seuls la magie ou les armes magiques peuvent le blesser. Immunisé à l'acide et au poison. Immunisé au feu, à la foudre et au froid non-magiques. Subit moitié dégâts du feu, de la foudre et du froid magiques.
-
-**Vision dans le noir** : voit normalement sans lumière.
-
-**Souffle (3×/jour)** : un wyrm de sang peut vomir un grand jet de sang bouillant. Toutes les créatures dans un flux de 4,5 m de large et 36 m de long depuis sa gueule subissent des dégâts égaux à son total actuel de Points de Vie (**Sauver Contre Explosion** pour moitié dégâts).
-
-**Voix charmeuse** : ceux qui entendent les paroles d'un wyrm de sang doivent **Sauver Contre Sort** ou tomber sous son emprise. En cas d'échec, la victime est charmée : elle se déplace vers le wyrm (en résistant à ceux qui tentent de l'en empêcher), obéit à ses ordres (si elle les comprend) et défend le wyrm. Elle ne peut ni lancer de sorts, ni utiliser d'objets magiques, ni nuire au wyrm. Tuer le wyrm rompt le charme.
-
-**Vol** : les wyrms de sang volent avec une agilité sinueuse. N'ayant pas d'ailes, leur vol est magique.
-
-**Voir aussi** : *Wyrm—Overview* (régénération, vulnérabilité, etc. — voir le fichier `wyrm-black-bile.md` pour le texte complet transversal aux 4 Wyrms : reproduction, âge, parole, antres/sommeil, régénération, table des vulnérabilités 1d8, origine commune liée au Dieu des Bois Ocryphd).
-
 ## Conversion Nimble (Boss Légendaire)
-
-*Créature unique, nommée, avec du lore propre et plusieurs mécaniques qui redéfinissent le combat (charme de masse, souffle proportionnel aux PV restants, vulnérabilité secrète) → traitement **Legendary Monster Builder** (GMG p.41-44). On calibre sur le **niveau du groupe de héros** plutôt que sur le niveau isolé du wyrm : Niveau Dolmenwood 9 → groupe de Niveau 9 (table Legendary p.43 : PV Armure Lourde 195, Last Stand 90, DC 14, petite action 16 dégâts, grande action 32 dégâts). CA19 → Armure Lourde confirmée.*
 
 > **WYRM DE SANG** *(Boss Légendaire, groupe de Niveau 9)* — ♥195 (Armure Lourde)
 > *Immunités.* Seuls les armes/effets magiques le blessent. Immunisé à l'acide et au poison. Immunisé au feu/foudre/froid non-magiques ; mi-dégâts si magiques.

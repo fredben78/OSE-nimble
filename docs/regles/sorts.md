@@ -1,31 +1,10 @@
 # Dolmenwood sous Nimble — Conversion complète des sorts
 
-> Ce document convertit les **72 sorts du Magicien** et les **34 sorts du Clerc** de Dolmenwood en effets jouables sous Nimble. Il tranche les catégories laissées ouvertes dans le guide de création de personnage.
+> Ce document convertit les **72 sorts du Magicien** et les **34 sorts du Clerc** de Dolmenwood en effets jouables sous Nimble.
 >
-> **Statut** : contrairement aux Kindreds/Glamours/Runes (sourcés mot pour mot depuis le SRD officiel), ce document est un **travail de design**. Chaque sort est calibré en suivant les règles apprises sur l'esprit Nimble (voir [Fondamentaux Nimble](fondamentaux-nimble.md) section 9), mais n'est pas lui-même une donnée sourcée. Les entrées marquées **🛠** sont les plus incertaines et méritent un test à table en priorité.
-
----
-
-## Méthodologie de calibrage
-
-- **Catégorie A** : le sort Dolmenwood a un équivalent Nimble quasi-parfait → on reprend le sort Nimble existant, reflavoré. Aucun nouveau design.
-- **Catégorie B** : effet hors-combat, faible enjeu tactique → converti en **Rituel** (gratuit, pas de Mana, non utilisable en combat sauf mention contraire). Ce n'est pas limité aux 3 Utility Spells/école de Nimble — Dolmenwood en a besoin de plus, donc on les traite comme une extension propre au setting plutôt que de forcer le carcan des 3 sorts utilitaires par école.
-- **Catégorie C** : effet puissant/narratif → converti en sort de combat/rituel de haut niveau, calibré sur les patrons Nimble confirmés :
-  - Un effet offensif de rang 1 Nimble coûte **2 actions** pour ~**3 dés** de dégâts.
-  - Les effets qui **ignorent l'armure** sont un marqueur de puissance fort — réservés aux sorts qui n'ont rien d'autre en plus.
-  - Aucune arme/sort ne voit son dé de dégâts scaler avec le niveau du lanceur — la progression vient du Mana disponible (accès à des rangs plus élevés) et de la stat clé (petit bonus linéaire), jamais d'un bonus fixe qui grandit.
-  - DC de tout JdS imposé par un sort de héros = **10+KEY** du lanceur (INT pour le Magicien, VOL pour le Clerc).
-- **Correspondance de rang** : Dolmenwood va de rang 1 à 6 (arcane) / 1 à 5 (sacré), Nimble de rang 1 à 9. La table ci-dessous n'est pas une formule fixe — elle laisse de la place en haut de la progression Dolmenwood pour les effets les plus transformateurs (téléportation, résurrection, polymorphie), qui ont besoin d'un tier Nimble élevé pour rester dans l'esprit de rareté du jeu.
-
-| Rang Dolmenwood (arcane) | 1 | 2 | 3 | 4 | 5 | 6 |
-|---|---|---|---|---|---|---|
-| Tier Nimble indicatif | 1 | 2 | 3-4 | 4-5 | 5-7 | 6-9 |
-
-| Rang Dolmenwood (sacré) | 1 | 2 | 3 | 4 | 5 |
-|---|---|---|---|---|---|
-| Tier Nimble indicatif | 1 | 2 | 3 | 4 | 5-6 |
-
-**Note sur les écoles empruntées** : le Magicien Dolmenwood n'a accès qu'à Feu/Glace/Foudre en tant que Mage Nimble de base. Certains de ses sorts historiques (Fly, Air Sphere → Vent ; Animate Dead → Nécrotique) n'ont pas de place naturelle dans ce trio. On les lui laisse quand même — c'est un écart assumé pour préserver l'identité du Magicien classique, équivalent à ce que la sous-classe *Invoker* donnerait normalement en jeu.
+> **Comment lire les tables** : les sorts marqués **🛠** sont des créations sans équivalent Nimble direct — considérez-les comme prêtes à l'emploi mais pas encore éprouvées à table. Les autres reprennent un sort Nimble officiel existant, reflavoré. Le **DC des JdS** que les sorts imposent est toujours **10+INT** pour un sort de Magicien, **10+VOL** pour un sort de Clerc.
+>
+> **Le Magicien emprunte des sorts hors de ses écoles habituelles** (Feu/Glace/Foudre) : *Fly* et *Air Sphere* (Vent), *Animate Dead* (Nécrotique) — assumé pour préserver son identité classique.
 
 ---
 
@@ -198,13 +177,10 @@
 
 ---
 
-## 3. Ce qui reste à faire
+## 3. Règles des Rituels
 
-1. **Playtester en priorité les entrées 🛠** — elles n'ont pas d'équivalent Nimble direct et sont des créations pures ; les entrées non marquées reprennent un sort Nimble existant et sont donc déjà calibrées par les concepteurs du jeu.
-2. **Statuer sur les emprunts d'école** (Fly, Air Sphere en Vent ; Animate Dead en Nécrotique) — soit les assumer tels quels pour le Magicien, soit les réserver à une variante « Magicien érudit » qui aurait pris une orientation façon sous-classe *Invoker*.
-3. **Décider du statut des Rituels** : gratuits et illimités (comme les Glamours hors combat), ou limités à 1×/jour comme beaucoup de Glamours le sont réellement ? Le document penche pour illimité (cohérent avec l'esprit « sort de connaissance/utilitaire, pas de ressource de combat »), mais c'est un choix de table.
-4. **Les 3 Utility Spells par école du Mage Nimble de base** (Ice Disk/Chillcraft/Wintry Scrying pour Glace, etc.) restent disponibles en parallèle des Rituels Dolmenwood ci-dessus — à ne pas dupliquer inutilement si un Rituel fait déjà le même travail.
+Les **Rituels** (sorts de catégorie utilitaire/hors-combat) sont gratuits et d'usage illimité — pas de Mana, pas de limite par jour, sauf mention contraire dans leur description. Les 3 Utility Spells natives du Mage Nimble par école (Ice Disk, Chillcraft, Wintry Scrying pour Glace, etc.) restent disponibles en parallèle ; ne les dupliquez pas si un Rituel Dolmenwood fait déjà le même travail.
 
 ---
 
-*Document compilé à partir du guide de création de personnage et des [Fondamentaux Nimble](fondamentaux-nimble.md). Voir [Création de personnage](creation-personnage.md) pour la création de personnage complète.*
+*Voir [Création de personnage](creation-personnage.md) pour la création de personnage complète.*

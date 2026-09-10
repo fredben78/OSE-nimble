@@ -3,12 +3,6 @@
 ## Description
 Clergé non-aventurier de l'Église Pluritine, voyageant d'une colonie à l'autre pour accomplir sa fonction. Généralement humains, parfois breggles.
 
-## Statistiques Dolmenwood (source)
-**Everyday Mortal** — Small/Medium, Level 1, AC 10, HP 1d4 (2), Saves D12 R13 H14 B15 S16, Att Weapon (–1), Speed 40, Morale 6, XP 10.
-Armes : gourdin, dague, ou bâton (1d4).
-
-**Fonction (d12)** : administrateur, collecteur d'aumônes, chantre, confesseur, évangéliste, herboriste, lichward (garde contre les morts-vivants), mendiant, prêcheur, érudit, scribe, collecteur de dîme.
-
 ## Conversion Nimble
 
 > **PRÊTRE** LVL 1/4 — ♥12

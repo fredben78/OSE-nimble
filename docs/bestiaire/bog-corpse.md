@@ -11,22 +11,7 @@ Cadavres détrempés de mortels malheureux, morts maudits dans les marais et fon
 - **Possessions** : Aucune.
 - **Trésor** : C3 + R3 + M3.
 
-## Statistiques Dolmenwood (source, pour référence)
-- **Level** 2 · **AC** 11 · **HP** 2d8 (9) · **Saves** D12 R13 H14 B15 S16
-- **Attacks** Coup sourd (+1, 1d6 + étranglement)
-- **Speed** 30 · **Morale** 12 · **XP** 65
-- **Encounters** 2d4 (35 % en repaire)
-
-**Capacités spéciales (source)**
-- **Mort-vivant** : Silencieuse avant d'attaquer. Immunisée aux effets biologiques et aux sorts affectant l'esprit.
-- **Vision dans le noir**.
-- **Étranglement** : Sur un coup réussi dont le jet de Dégâts atteint 4 ou plus, la charogne des marais referme ses mains autour de la gorge de la victime et se met à l'étrangler. La victime subit automatiquement 1d6 dégâts par Round jusqu'à ce que la charogne soit tuée. Une victime tuée ainsi se relève la nuit suivante sous forme de nouvelle charogne des marais.
-- **Au corps-à-corps** : Les personnages au corps-à-corps avec une charogne des marais doivent réussir un JdS contre la Paralysie ou subir un malus de -2 aux jets d'Attaque, hypnotisés par la lumière verte vacillante qui brûle dans la cavité thoracique du monstre.
-- **Si tuée** : La flamme verte impie dans sa poitrine explose. Toute créature à moins de 10' subit 1d6 dégâts (JdS contre le Souffle pour moitié).
-
 ## Conversion Nimble
-
-Niveau Dolmenwood 2. Deux capacités non-triviales combattives (Étranglement avec réanimation, pénalité hypnotique au corps-à-corps ; l'explosion post-mortem s'ajoute comme une troisième) → application de la règle de coût : PV/dégâts pris à la ligne de niveau 1. CA 11 → Sans armure. Type Mort-Vivant → dé de dégâts d4 avec gros bonus fixe.
 
 > **CHAROGNE DES MARAIS** LVL 2 — ♥26
 > *Hypnose verdâtre. Les créatures au corps-à-corps avec elle doivent réussir un JdS FOR (DC10) ou subir désavantage à leurs attaques contre elle, fascinées par la flamme verte de sa poitrine.*

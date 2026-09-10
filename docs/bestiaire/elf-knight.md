@@ -9,27 +9,6 @@ Guerriers elfiques hautains au service d'un noble féerique. Frêles de silhouet
 - **Possessions** : 2d4 po + 1d6 pièces de platine.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM FAIRY—SENTIENT—ANY ALIGNMENT**
-
-**Level** 4 **AC** 17 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** *Fairy Longsword* (+5, 1d8+2) or lance (+3, 1d6, when mounted)
-**Speed** 20 **Morale** 9 **XP** 130
-
-**Encounters** 1d4 (no lairs in the mortal world)
-**Behaviour** Romantic, arrogant, resolute
-**Speech** Poetic bravado. Woldish, High Elfish
-**Possessions** 2d4gp + 1d6pp **Hoard** None
-
-**Cold iron :** As fairies, elf knights suffer 1 extra point of damage when hit with cold iron weapons.
-**Fairy longsword :** Elf knights wield a *Fairy Longsword* of unusual fairy make (see Magic Swords — magic item value 4,000gp). These swords possess a capricious sentience and resist possession by others : a non-elf wielding a sword must Save Versus Spell or come under its control for 1d6 Rounds, attempting to slay all mortals within sight.
-**Mount :** Elf knights are usually mounted. Roll 1d6 to determine the type of mount : 1–4 : fairy horse (p40), 5 : charger (DPB), 6 : special (dire wolf, giant snail, giant boar, etc.).
-
-**Frost Elf Knights**
-**Alignment :** 3-in-6 chance of being Chaotic.
-**Frost touch :** May attack in melee by touch, instead of by weapon, inflicting 1d3 frost damage.
-**Snow-clad ground :** Pass without leaving a trace.
-
 ## Conversion Nimble
 
 > **ELFE CHEVALIER** LVL 4, Armure Moyenne — ♥39
@@ -37,8 +16,6 @@ Guerriers elfiques hautains au service d'un noble féerique. Frêles de silhouet
 > *Épée longue féerique capricieuse : l'arme possède une sentience propre et capricieuse. Un porteur non-elfe qui la manie doit réussir un Sauvegarde DD12 (Vs Sort) ou tomber sous son contrôle pendant 1d6 Rounds, cherchant à massacrer tous les mortels à vue.*
 > **Épée longue féerique.** 3d6+8 (Contact).
 > **Lance (à cheval).** 1d8+3 (Allonge), utilisable uniquement lorsque monté, à la place de l'épée.
-
-**Note de conversion** : une seule capacité non triviale en combat propre (la sentience capricieuse de l'épée, qui est surtout un risque pour un porteur non-elfe et un ressort narratif plutôt qu'un avantage offensif direct) — pas de rétrogradation de palier. Niveau 4 conservé, ligne 4 de la table (♥49 sans armure / ♥39 en Armure Moyenne, dégâts/round 18, DD12). CA 17 → Armure Moyenne (plage 14–17). Dé de dégâts d6 car créature féerique (Type Fairy).
 
 **Moral (note narrative)** : L'elfe chevalier est résolu et arrogant (Moral 9) — il se bat avec honneur, peut accepter un duel singulier plutôt qu'une mêlée générale, et fuit rarement, préférant une mort glorieuse à la lâcheté si le combat tourne mal.
 

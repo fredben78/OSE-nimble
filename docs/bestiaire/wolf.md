@@ -3,14 +3,6 @@
 ## Description
 Vivent dans les bois sauvages et les grottes du Dolmenwood. Chassent généralement du gibier comme les cerfs. N'attaquent les créatures sentientes qu'en cas de faim extrême.
 
-## Statistiques Dolmenwood (source)
-**MEDIUM ANIMAL—ANIMAL INTELLIGENCE—NEUTRAL**
-**Level** 2 **AC** 12 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Att** Bite (+1, 1d6) **Speed** 60 **Morale** 6 (8 in larger packs) **XP** 20 **Enc** 3d6
-
-**Training :** At the Referee's discretion, captured cubs may be trained like dogs. Wolves are difficult to train.
-**Strength in numbers :** Packs of 6 or more wolves have Morale 8.
-
 ## Conversion Nimble
 
 > **LOUP** LVL 2 — ♥34, Sans armure

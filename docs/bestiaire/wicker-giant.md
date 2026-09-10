@@ -9,22 +9,6 @@ Humanoïdes d'osier de 3,6 m de haut, animés par la magie Drune pour garder des
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE CONSTRUCT—MINDLESS—NEUTRAL**
-**Level** 8 **AC** 12 **HP** 8d8 (36) **Saves** D8 R9 H10 B11 S12
-**Attacks** 2 fists (+7, 1d10 + swallow) or breath (4d6)
-**Speed** 40 **Morale** 12 **XP** 1,440
-
-**Encounters** 1 (50% in lair)
-**Behaviour** Looming, creaking, rageful
-**Speech** None. Understand Drunic
-**Possessions** None **Hoard** None
-
-**Construct:** Immune to biological effects (e.g. disease, poison) and mind-affecting spells (e.g. *Vapours of Dream*, *Paralysation*, *Dominate*).
-**Fire immunity:** Unharmed by fire.
-**Swallow:** An opponent hit by both fists in the same Round is gulped down into the belly of the giant. Swallowed victims can attack the wicker giant from inside, but suffer 2d6 damage per Round from the green fire in its chest.
-**Breath (thrice a day):** A wicker giant may belch forth a gout of green flame targeting all within a 30' long cone, 20' wide at the end. **Save Versus Blast** for half damage.
-
 ## Conversion Nimble
 
 > **GÉANT D'OSIER** LVL 7, Grand — ♥79, Sans armure

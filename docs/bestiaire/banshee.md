@@ -11,24 +11,7 @@ Ombres flottantes et incorporelles de dames elfes du givre, cruellement massacr�
 - **Possessions** : Aucune.
 - **Trésor** : C6 + R7 + M4.
 
-## Statistiques Dolmenwood (source, pour référence)
-- **Level** 7 · **AC** 19 · **HP** 7d8 (31) · **Saves** D8 R9 H10 B11 S12
-- **Attacks** Toucher (+6, 1d8 + froid glaçant) ou hurlement (mort)
-- **Speed** 50 · **Morale** 10 · **XP** 1 980
-- **Encounters** 1 (10 % en repaire)
-
-**Capacités spéciales (source)**
-- **Mort-vivant** : Silencieuse avant d'attaquer. Immunisée aux effets biologiques et aux sorts affectant l'esprit.
-- **Immunités** : Seules les armes en argent, magiques, ou en fer froid la blessent. Insensible aux attaques basées sur le froid.
-- **Incorporelle** : Peut traverser murs, portes et objets solides.
-- **Vision dans le noir**.
-- **Toucher glaçant** : La victime perd 1 point de Force par coup, mourant si sa Force est réduite à 0. La Force perdue est récupérée à l'aube.
-- **Hurlement (une fois par nuit)** : Toutes les créatures dans un rayon de 30' doivent réussir un JdS contre la Damnation ou mourir. Utilisable uniquement pendant les heures d'obscurité.
-- **Si tuée** : Avant de s'évaporer en brume et de disparaître pour toujours, la banshee maudit son tueur à connaître le même destin qu'elle. À moins que la malédiction ne soit levée, le personnage rate automatiquement son prochain Jet de Sauvegarde contre un effet mortel (mort, pétrification, poison, etc.).
-
 ## Conversion Nimble
-
-Niveau Dolmenwood 7. Trois capacités non-triviales (Toucher glaçant, Hurlement mortel, Incorporelle) → application de la règle de coût : PV pris à la ligne de niveau 6. CA 19 → Armure Lourde. Type Mort-Vivant → dé de dégâts d4 avec gros bonus fixe.
 
 > **BANSHEE** LVL 7 — ♥41, Armure Lourde
 > *Incorporelle. Traverse murs, portes et objets solides sans encombre.*

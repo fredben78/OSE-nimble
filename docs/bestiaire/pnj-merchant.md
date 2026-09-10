@@ -3,12 +3,6 @@
 ## Description
 Marchands organisés voyageant en convois lourdement gardés entre les colonies. Généralement humains ou breggles.
 
-## Statistiques Dolmenwood (source)
-**Everyday Mortal** — Small/Medium, Level 1, AC 10, HP 1d4 (2), Saves D12 R13 H14 B15 S16, Att Weapon (–1), Speed 40, Morale 6, XP 10.
-Armes : gourdin, dague, ou bâton (1d4).
-
-**Wagons** : 1 wagon par marchand rencontré. **Richesse (par wagon, d6)** : de 1d100 po (1 résultat) à 1d100×6 po + 2d4 gemmes + 1d4 objets d'art (résultat 6). **Gardes** : de 2 soldats/wagon à 7 soldats/wagon + lieutenants/capitaine (selon richesse) — utiliser les stats de Fighter Niveau 1 (voir `pnj-fighter.md`).
-
 ## Conversion Nimble
 
 > **MARCHAND** LVL 1/4 — ♥12

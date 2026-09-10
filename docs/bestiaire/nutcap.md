@@ -9,23 +9,6 @@ Demi-fées arboricoles de 0,60 à 0,90 m de haut, aux ailes semblables à des gr
 - **Possessions** : Aucune.
 - **Trésor** : C3 + R3 + M3.
 
-## Statistiques Dolmenwood (source, pour référence)
-**PETIT DEMI-FÉE — SENTIENT — TOUT ALIGNEMENT**
-
-**Level** 1 **AC** 13 **HP** 1d8 (4) **Saves** D12 R13 H14 B15 S16
-**Attacks** Fléchette (+0, 1d4, portée 20'/40'/60') ou gourdin (+0, 1d4)
-**Speed** 20 **Fly** 40 **Morale** 7 **XP** 10
-
-**Encounters** 2d6 (50% dans le repaire)
-
-**Fer froid** : En tant que demi-fée, le nutcap subit 1 point de dégâts supplémentaire lorsqu'il est frappé par une arme en fer froid.
-**Base végétale** : Les nutcaps sont affectés par la magie qui cible les plantes ou les créatures d'origine végétale.
-**Extraction de bois** : Les nutcaps peuvent extraire du bois brut ou façonné d'un arbre par simple contact, sans le couper ni l'endommager. Un nutcap désarmé peut s'armer d'un gourdin ou d'une fléchette en touchant un arbre vivant pendant 1 Round.
-**Raids aériens** : Les nutcaps sont des voltigeurs agiles. Ils effectuent parfois des raids aériens sur les créatures terrestres, volant joyeusement nourriture savoureuse et petits objets.
-**Monture** : 1 nutcap sur 3 est monté sur une **mouche géante** (p114).
-**Reproduction** : Comme de nombreux arbres, les nutcaps sont hermaphrodites. Ils vivent en clusters reproducteurs de 2 à 4 adultes et pondent des œufs semblables à des noix, qu'ils plantent dans des pots de terre soigneusement fertilisée, gardés dans leurs nids. Les jeunes poussent comme des plantes semi-humanoïdes pendant leur première année, avant de quitter le pot.
-**Cycle de vie** : Les nutcaps ont une espérance de vie de 200 à 300 ans, entrant finalement dans un état végétatif où leur corps se fond avec le bois et les racines des arbres voisins. Ils se nourrissent entièrement des produits des arbres : bois, racines, fruits, et graines.
-
 ## Conversion Nimble
 
 > **NUTCAP** LVL 1, Petit — ♥26, Vole 12 m

@@ -9,35 +9,7 @@
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-LARGE OOZE—ANIMAL INTELLIGENCE—NEUTRAL
-
-**Level** 10 **AC** 16 **HP** 10d8 (45) **Saves** D6 R7 H8 B9 S10
-**Attacks** 4 appendages (+8, 1d6 + wrap)
-**Speed** 20 **Morale** 12 **XP** 3,550
-
-**Encounters** 1 (no lair)
-**Behaviour** Relentless, ravenous
-**Speech** Unnerving fizzing
-**Possessions** None **Hoard** None
-
-**Immunities :** Only harmed by fire-based attacks.
-**Eyeless :** Can act normally in light or darkness.
-**Wrap :** If an appendage inflicts 4 or more damage, it wraps around the target and exudes a chill acid, automatically inflicting 1d6 damage each subsequent Round. The victim may attack, but cannot move, except by Retreating From Melee.
-**Severing appendages :** Though blades inflict no damage on an onyx blob (see Immunities), they can be used to sever wrapped appendages. A hit that would inflict 4 or more damage severs an appendage, freeing a wrapped victim.
-**Retreating from melee :** A character can break away from wrapping appendages by retreating from melee (see Combat, DPB). This inflicts 1d4 permanent damage (reducing the character's current and maximum Hit Points), as flesh is ripped off and cauterised. Powerful holy magic (e.g. Cure Affliction, Greater Healing) can restore maximum HP lost in this way.
-**If hit :** Non-fire attacks (including spells) cause the blob to divide. Each hit creates a bloblet — stats below.
-**Cling :** Can slither up vertical surfaces (e.g. tree trunks, walls, ceilings, etc.).
-**Seep :** An onyx blob can squeeze through spaces as small as the crack under a door.
-
-**Bloblet** — SMALL OOZE—ANIMAL INTELLIGENCE—NEUTRAL
-**Level** 2 **AC** 13 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Att** Touch (+1, 1d8) **Speed** 20 **Morale** 12 **XP** 35
-**Immunities, cling, seep :** Per onyx blob—see above.
-
 ## Conversion Nimble
-
-*Trois capacités non-triviales (immunité quasi-totale, enveloppement continu, scission au moindre coup) imposent de redescendre d'un cran → Niveau 9 retenu.*
 
 > **ONYX BLOB** LVL 9, Grand — ♥83, Armure Moyenne
 > *Immunisé : seul le feu blesse cette créature.*

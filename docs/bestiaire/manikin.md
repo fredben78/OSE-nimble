@@ -9,21 +9,6 @@ Figures humanoïdes de bois (1,20-1,50 m de haut) grossièrement construites à 
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MOYEN CONSTRUCT — SANS ESPRIT — NEUTRE**
-
-**Level** 2 **AC** 12 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** Poing (+1, 1d8)
-**Speed** 20 **Morale** 12 **XP** 20
-
-**Encounters** 1d3 (75% dans le repaire)
-
-**Construct** : Immunisé aux effets biologiques (p. ex. maladie, poison) et aux sorts affectant l'esprit (p. ex. *Vapeurs de Rêve*, *Paralysation*, *Domination*).
-**Vision dans le noir** : Voit normalement sans lumière.
-**Inflammable** : Subit le double des dégâts du feu.
-**Initiative** : Malus de -1 aux jets d'Initiative dû à ses mouvements rigides. Si un camp est composé de manikins et d'autres créatures, les manikins constituent un camp séparé avec leur propre jet d'Initiative (pénalisé).
-**Construction** : Les manikins peuvent être construits à partir de n'importe quel type de bois disponible. Voir la table *Matériau de construction*.
-
 ## Conversion Nimble
 
 > **MANIKIN** LVL 2 — ♥34

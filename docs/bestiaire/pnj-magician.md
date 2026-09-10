@@ -3,16 +3,6 @@
 ## Description
 Lanceurs de sorts arcaniques érudits, étudiant grimoires et parchemins. Peu armurés, dépendent de leurs sorts mémorisés.
 
-## Statistiques Dolmenwood (source)
-**Level 1 Magician (Apprentice)** — AC 10, HP 1d4 (2), Speed 40, Morale 7, XP 15, Enc 1d4.
-Gear : bâton (1d4). Spells : *Vapours of Dream*. Companions : 1 fighter Niveau 1.
-
-**Level 3 Magician (Conjurer)** — AC 10, HP 3d4 (7), Speed 40, Morale 8, XP 90, Enc 1d2.
-Gear : bâton (1d4), dague en argent (1d4), parchemin de *Dispel Magic*. Spells : *Fairy Servant*, *Ioun Shard*, *Phantasm*. Companions : 1d3 apprentices, 1d4 fighters Niveau 1.
-
-**Level 5 Magician (Wizard)** — AC 10, HP 5d4 (12), Att +1, Speed 40, Morale 9, XP 460, Enc 1.
-Gear : *Arcane Staff* (1d4+2, +2 attaque), dague en argent, parchemins de *Knock* et *Fireball*, *Staff of Rainbow Hues* (10 charges). Spells : *Glyph of Sealing*, *Ingratiate*, *Dweomerlight*, *Flaming Spirit*, *Circle of Invisibility*. Companions : 1d2 conjurers, 1d4 apprentices, 1 fighter Niveau 3, 2d4 fighters Niveau 1.
-
 ## Conversion Nimble
 
 > **MAGICIEN (apprenti)** LVL 1 — ♥26

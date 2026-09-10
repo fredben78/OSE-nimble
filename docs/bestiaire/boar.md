@@ -3,9 +3,6 @@
 ## Description
 Sangliers omnivores qui vivent à travers tout le Dolmenwood. Irascibles et dangereux si on les dérange.
 
-## Statistiques Dolmenwood (source)
-Medium Animal — Animal Intelligence — Neutral. Level 3, AC 12, HD 3d8 (13 PV), Att Défenses (+2, 2d4), Speed 50, Morale 9, XP 40, Enc 1d6.
-
 ## Conversion Nimble
 
 > **SANGLIER** LVL 3 — ♥41

@@ -9,29 +9,7 @@ Figures en forme humaine composées de paille, de ronces et de feuilles enchevê
 - **Possessions** : Biens commerciaux herbeux et courants (DCB).
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-MEDIUM CONSTRUCT—SENTIENT—ALIGNMENT BY SEASON
-
-**Level** 3 **AC** 11 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** Weapon (+2) or gaze (terror)
-**Speed** 40 **Morale** 8 **XP** 65
-
-**Encounters** 1d4 (no lair)
-**Behaviour** Merry / murderous / morose
-**Speech** Rustling and rumbling. Woldish, Mulch
-**Possessions** Herbal and mundane trade goods (DCB) **Hoard** None
-
-**Non-biological :** Immune to biological effects (e.g. disease, poison).
-**Weapons :** Scarecrows favour clubs (1d4) and staves (1d4).
-**Terrifying gaze :** A scarecrow can gaze at a target within 30', its painted or carven visage twisting into a leering grimace. The target must Save Versus Doom or be stricken with fear and flee for 2d6 Rounds. Affected creatures have a 60% chance of immediately dropping anything in their hands. The chance is decreased by 5% for each Level above 1.
-**In spring and summer :** Scarecrows are merry—wishing to sing, dance, and trade (Lawful alignment).
-**In autumn :** Scarecrows are murderous—seeking to kill sentients and secretly devour their brains in the deep woods (Chaotic alignment).
-**In winter :** Scarecrows are morose—wishing to be left alone with their dark thoughts (Neutral alignment).
-**Origin :** The weird magicks of Dolmenwood sometimes cause a mundane scarecrow to climb down from its post, grab a stout travelling stick, and take to the road in search of worldly marvels.
-
 ## Conversion Nimble
-
-*Une seule capacité mécanique majeure (le regard terrifiant) ; pas de cran de descente. Niveau 3 conservé.*
 
 > **SCARECROW** LVL 3 — ♥41, Sans armure
 > *Non-biologique : immunisé aux effets biologiques (maladie, poison).*

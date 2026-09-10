@@ -9,25 +9,6 @@
 - **Possessions** : Corne bénie (voir ci-dessous).
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE DEMI-FEY—SENTIENT—LAWFUL**
-**Level** 4 **AC** 17 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** [2 hooves (+3, 1d6) and horn (+3, 1d8)] or spell (see below)
-**Speed** 80 **Morale** 9 **XP** 180
-
-**Encounters** 1d6 (no lair)
-**Behaviour** Noble, timid, wilful
-**Speech** Proud whinnies. Liturgic, Sylvan
-**Possessions** Blessed horn (see below) **Hoard** None
-
-**Cold iron:** As demi-fey, blessed unicorns suffer 1 extra point of damage when hit with cold iron weapons.
-**Magic Resistance:** +2 bonus to Saving Throws against effects of magical origin.
-**Spells:** Blessed unicorns can cast each of the following holy spells once a day: *Bless*, *Lesser Healing*, *Light*, *Rally*.
-**Teleport:** Once per day, up to 360' (including rider).
-**Riders:** A blessed unicorn may occasionally allow a pure-hearted, Lawful character to ride it as a mount.
-**Blessed horn:** A blessed unicorn's horn, if severed, is an artefact of holy magic. The horn functions as a *Holy Dagger* and grants the wielder the ability to cast *Bless* and *Lesser Healing* once a day (magic item value 2,250gp). Servants of good may hunt and attempt to bring to justice one who wields such an item.
-**Origin:** The blessed unicorns of Dolmenwood are scions of a troop of fairy unicorns who aided mortals in the wars against the Cold Prince. In return for their aid, the unicorns and all their descendants were blessed by St Abthius and granted the freedom to roam Dolmenwood.
-
 ## Conversion Nimble
 
 > **LICORNE BÉNIE** LVL 4, Grand — ♥39, Armure Moyenne

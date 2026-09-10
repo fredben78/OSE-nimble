@@ -8,28 +8,7 @@ De petits demi-fae hauts d'un mètre, gobelins à face de chauve-souris, au corp
 - **Discours** : babillage rapide et aigu. Parle le Woldish, le Sylvan.
 - **Possessions** : 2d4 pièces d'or + un instrument à vent. **Trésor** : aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**SMALL DEMI-FEY—SENTIENT—ANY ALIGNMENT**
-**Level** 1 **AC** 12 **HP** 1d8 (4) **Saves** D12 R13 H14 B15 S16
-**Attacks** Arme (+0)
-**Speed** 30 **Morale** 7 **XP** 15
-**Encounters** 3d6 (pas de repaire)
-
-**Surprise** : en milieu boisé, le camp adverse a 3 chances sur 6 d'être surpris, en raison de la discrétion des woodgrues.
-
-**Fer froid** : en tant que demi-fae, les woodgrues subissent 1 point de dégâts supplémentaire quand ils sont frappés par des armes en fer froid.
-
-**Armes** : les woodgrues privilégient les gourdins (1d4), les dagues (1d4) et les fronde (1d4).
-
-**Vision lunaire** : les woodgrues voient dans l'obscurité jusqu'à 18 m, percevant le monde comme s'il luisait d'un clair de lune ténu. Les détails fins (par ex. de l'écriture) ne peuvent pas être perçus.
-
-**Ivresse musicale (1×/jour)** : un woodgrue peut jouer un air magique (voir *Mélodies enchantées*) sur un instrument à vent. Toutes les créatures dans un rayon de 18 m doivent **Sauver Contre Sort** ou être affectées par sa magie aussi longtemps que le woodgrue continue de jouer. Les fae et demi-fae bénéficient d'un bonus de +2 au jet de sauvegarde. Tant qu'il joue, le woodgrue peut se déplacer mais ne peut ni attaquer ni effectuer d'autre action.
-
-**Code de l'hospitalité** : si un woodgrue est invité dans un lieu par une invitation écrite à la main, ou en prêtant serment de bonne conduite, il est lié par d'anciens rites d'hospitalité et ne peut utiliser *Ivresse musicale* tant qu'il se trouve dans ce lieu.
-
 ## Conversion Nimble
-
-*Niveau Dolmenwood 1, une seule capacité de combat significative (Ivresse musicale) → pas de correction à la table (table Monster Builder p.29). CA12 → Sans armure. Type petit demi-fae → dé d6.*
 
 > **WOODGRUE** LVL 1, Petit — ♥26 (Sans armure)
 > **Arme (gourdin, dague ou fronde).** 1d6+2 (Reach 1, ou Range 8 pour la fronde).

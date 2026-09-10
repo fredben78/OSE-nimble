@@ -11,20 +11,7 @@ Amphibiens translucides et blancs, longs de 8', carnivores, aux gueules sans den
 - **Possessions** : Aucune.
 - **Trésor** : C3 + R3 + M3 (restes de victimes).
 
-## Statistiques Dolmenwood (source, pour référence)
-- **Level** 4 · **AC** 12 · **HP** 4d8 (18) · **Saves** D10 R11 H12 B13 S14
-- **Attacks** 2 griffes (+3, 1d6)
-- **Speed** 30 · **Nage** 40 · **Morale** 8 · **XP** 130
-- **Encounters** 1d3 (25 % en repaire)
-
-**Capacités spéciales (source)**
-- **Amphibie** : Peut respirer à l'air comme dans l'eau.
-- **Lueur des yeux** : Toute créature à moins de 60' voyant la lueur des yeux de la salamandre des marais doit réussir un JdS contre la Paralysie ou être éblouie : malus de -2 en Classe d'Armure, malus de -2 aux jets d'Attaque contre la salamandre, Vitesse divisée par deux. Cet état persiste tant que la victime reste en présence de la salamandre.
-- **Victimes tuées** : Les corps sont traînés jusqu'au repaire de la salamandre et dévorés dans sa gueule édentée.
-
 ## Conversion Nimble
-
-Niveau Dolmenwood 4. Une seule capacité non-triviale combattive (Lueur des yeux) → pas de palier de coût appliqué, ligne de niveau 4 utilisée telle quelle. CA 12 → Sans armure. Animal/Bête → dé de dégâts d10.
 
 > **SALAMANDRE DES MARAIS** LVL 4, Grand — ♥49
 > *Lueur hypnotique. Toute créature dans 12 cases qui voit la lueur de ses yeux doit réussir un JdS FOR (DC12) ou être Éblouie : -2 Armure, désavantage aux attaques contre la salamandre, Vitesse divisée par deux, tant qu'elle reste en présence de la créature.*

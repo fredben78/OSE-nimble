@@ -9,23 +9,6 @@ Créatures ressemblant à des coqs, longues de 1,20 m, au cou caronculé, à la 
 - **Possessions** : Aucune.
 - **Trésor** : C6 + R7 + M4.
 
-## Statistiques Dolmenwood (source, pour référence)
-
-**MONSTRUOSITÉ PETITE — INTELLIGENCE ANIMALE — NEUTRE**
-
-**Niveau** 5 **CA** 13 **PV** 5d8 (22) **Sauvegardes** D10 R11 H12 B13 S14
-**Attaques** Bec (+4, 1d6 + pétrification)
-**Vitesse** 30 **Vol** 60 **Moral** 7 **XP** 260
-
-**Rencontres** 1d4 (25 % en repaire)
-**Comportement** Cabriolages exubérants
-**Discours** Caquètements agités
-**Possessions** Aucune **Trésor** C6 + R7 + M4
-
-**Pétrification :** La victime doit réussir une **Sauvegarde contre la Paralysie** ou être transformée en pierre de façon permanente.
-
-**Dévoreuse de pierre :** Les cockatrices traînent leurs victimes pétrifiées jusqu'à leur repaire pour les consommer. Elles brisent les statues en les faisant chuter et avalent les gravats par pleines gorgées.
-
 ## Conversion Nimble
 
 > **COCKATRICE** LVL 5, Petite, Sans armure — ♥58

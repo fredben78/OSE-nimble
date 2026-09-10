@@ -9,25 +9,6 @@ De grands (6-7 pieds), maigres humanoïdes ramés, aux muscles noueux et à la f
 - **Possessions** : Épée ancestrale (voir ci-dessous).
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MORTAL—SENTIENT—ANY ALIGNMENT**
-
-**Level** 3 **AC** 12 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** *Arcane Two-Handed Sword* (+4, 1d10+2) or antlers (+2, 1d6)
-**Speed** 40 **Morale** 9 **XP** 65
-
-**Encounters** 1 (10% chance of 2d4, no lair)
-**Behaviour** Single-minded, proud, belligerent
-**Speech** Blunt bellowing. Woldish, Deorling
-**Possessions** Ancestral sword (see below)
-**Hoard** None
-
-**Surprise :** In woodland, the opposing side has a 3-in-6 chance of being surprised, due to deorlings' stealth.
-**Ancestral sword :** Each deorling stag carries an *Arcane Two-Handed Sword* with a special enchantment (see Ancestral Swords). These swords are passed down from father to son, believed to originate in the mythical Deer King's forge.
-**See invisible :** Deorlings' sight extends into spiritual realms, allowing them to perceive the invisible.
-**Solitary warriors :** Deorling stags live solitary lives, only congregating to battle for the hearts of deorling does. For encounter seeds, use the Encounters—Solitary or Encounters—Group table depending on the number of deorling stags encountered.
-**Wood Gods :** Deorlings worship the Wood Gods Howawi and Yorghan (DCB).
-
 ## Conversion Nimble
 
 > **CERF DEORLING** LVL 3 — ♥41 (Sans armure)
@@ -35,8 +16,6 @@ De grands (6-7 pieds), maigres humanoïdes ramés, aux muscles noueux et à la f
 > *Vue spirituelle (passif) : perçoit les créatures invisibles.*
 > **Épée ancestrale à deux mains.** 2d8+6 (Contact). L'épée porte un enchantement unique — tirer ou choisir un effet dans la table Épées Ancestrales lorsque le coup infligerait 8+ dégâts.
 > **Cornes.** 1d8+3 (Contact), attaque secondaire en l'absence d'épée.
-
-**Note de conversion** : une seule capacité non triviale au-delà de l'attaque de base (l'enchantement variable de l'épée ancestrale), donc pas de rétrogradation de palier — Niveau 3 conservé, ligne 3 de la table (♥41, dégâts/round 15, DD11). Dé de dégâts d8 par défaut (mortel/humanoïde standard).
 
 **Moral (note narrative)** : Le cerf deorling est monomaniaque et belliqueux (Moral 9) — il ne fuit presque jamais un duel et considère la retraite comme un déshonneur. Il ne recule que si son adversaire est manifestement hors de sa portée (par exemple un ennemi bien plus puissant que lui) ou si l'honneur du duel est respecté (combat singulier terminé).
 

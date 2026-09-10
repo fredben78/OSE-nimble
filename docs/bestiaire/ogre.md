@@ -9,28 +9,7 @@ Humanoïdes effrayants, hauts de 2,4 à 3 m, à la peau violette et verruqueuse,
 - **Possessions** : Un sac (voir ci-dessous).
 - **Trésor** : C4 + R4 + M2.
 
-## Statistiques Dolmenwood (source, pour référence)
-LARGE MORTAL—SENTIENT—CHAOTIC
-
-**Level** 4 **AC** 14 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** Club (+3, 1d10) or horns (+3, 1d8)
-**Speed** 30 **Morale** 10 **XP** 80
-
-**Encounters** 1d6 (40% in lair)
-**Behaviour** Depraved, brutish, slow-witted, greedy
-**Speech** Crude booming. Basic Woldish
-**Possessions** Sack (see below) **Hoard** C4 + R4 + M2
-
-**Surprise :** Ogres' acute senses of hearing and smell make them difficult to surprise. Each ogre has a 3-in-6 chance of being able to act during a Surprise Round when their side is surprised.
-**Tracking :** Ogres can track by scent. Once an ogre is on the trail, they are exceedingly difficult to thwart.
-**Ogre's sack :** Each ogre carries a sack of loot. See the Sack Contents table.
-**Origin :** Ogres are mortals who were corrupted and transformed by the temptations of Atanuwë, such as the Shub Eggs (DCB) that grow in the Nagwood. Once transformed into an ogre, they lose all recollection of their former lives.
-**Offspring :** Progeny are usually born cursed, but occasionally an uncursed child (of normal mortal Kindred) is born.
-**Remove curse :** If an ogre is subjected to magic of curse removal (e.g. Remove Curse), they must Save Versus Doom or return to their original mortal form.
-
 ## Conversion Nimble
-
-*Deux capacités (Sac de butin, Origine/malédiction) restent purement narratives et non-combattantes ; seules Sentir/Pister sont mineures. Aucun cran de descente appliqué : niveau 4 conservé.*
 
 > **OGRE** LVL 4, Grand — ♥39, Armure Moyenne
 > *Odorat et ouïe aiguisés : difficile à surprendre — 3-en-6 de chance d'agir malgré tout durant un round de surprise.*

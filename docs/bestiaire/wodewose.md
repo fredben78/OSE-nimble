@@ -8,26 +8,7 @@ Des hommes sauvages de la forêt (1,80 à 2,10 m), couverts de poils rudes et co
 - **Discours** : sifflements et murmures marmonnés. Parle le Mulch, le Woldish ou le Sylvan (1 chance sur 4).
 - **Possessions** : le groupe transporte des racines et des champignons (voir plus bas). **Trésor** : aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MORTAL—SENTIENT—ANY ALIGNMENT**
-**Level** 3 **AC** 12 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** Gourdin (+2, 1d6+1)
-**Speed** 40 **Morale** 8 **XP** 40
-**Encounters** 1d6 (pas de repaire)
-
-**Surprise** : en milieu boisé, le camp adverse a 3 chances sur 6 d'être surpris, en raison de la discrétion des wodewoses.
-
-**Amitié animale** : les animaux de toutes espèces sont fascinés par les wodewoses et instinctivement bien disposés envers eux. Les animaux n'attaquent ni ne poursuivent jamais un wodewose, même sur ordre de leurs maîtres.
-
-**Ennemis des monstres** : les wodewoses haïssent les monstruosités magiques (par ex. les wyrms) et les serviteurs maléfiques d'Atanuwë (par ex. les crookhorns). Ils tentent de tuer ou de chasser tous ces êtres hors de leur territoire.
-
-**Racines et champignons** : chaque groupe de wodewoses transporte 1d3 portions d'une racine ou d'un champignon inhabituel, fraîchement récolté. Voir la table *Racines et champignons*.
-
-**Sang de wodewose** : le sang brun profond d'un wodewose a des propriétés curatives. Appliqué sur une blessure, de minuscules pousses recousent lentement la plaie, guérissant 1d3 Points de Vie après 1d6 Tours. Bu, le sang n'a aucun effet curatif et fait germer des feuilles sur le corps du buveur après 1d3 jours (**Sauver Contre Destin** pour éviter). Une fiole de sang de wodewose vaut 200 po. 2d6 fioles de sang peuvent être prélevées sur un wodewose mort.
-
 ## Conversion Nimble
-
-*Niveau Dolmenwood 3, sans capacité offensive additionnelle notable en combat (l'amitié animale, la haine des monstres et le sang curatif sont des capacités narratives/utilitaires plutôt que des mécaniques de combat) → pas de correction à la table (table Monster Builder p.29). CA12 → Sans armure. Type Mortel/humanoïde → dé d8.*
 
 > **WODEWOSE** LVL 3 — ♥41 (Sans armure)
 > **Gourdin.** 2d8+5 (Reach 1).

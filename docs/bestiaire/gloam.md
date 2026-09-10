@@ -9,36 +9,6 @@ Des entités mortes-vivantes enveloppées d'ombre, composées des cadavres d'ois
 - **Possessions** : Aucune.
 - **Trésor** : C5 + R2 + M8 + une collection.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM UNDEAD—SENTIENT—NEUTRAL**
-
-**Level** 7 **AC** 14 **HP** 7d8 (31) **Saves** D8 R9 H10 B11 S12
-**Attacks** 2 claws (+6, 1d8 + disease) or flock (+6, 1d4 + disease)
-**Speed** 40 **Fly** 60 **Morale** 9 **XP** 1,080
-
-**Encounters** 1 (20% in lair)
-**Behaviour** Cunning, obsessive, amoral
-**Speech** Cawing rasp. Woldish, the tongue of crows
-**Possessions** None **Hoard** C5 + R2 + M8 + collection
-
-**Undead :** Silent before attacking. Immune to biological effects (e.g. disease, poison) and mind-affecting spells (e.g. Vapours of Dream, Paralysation, Dominate).
-
-**Immunities :** In humanoid form, suffer half damage from mundane (non-silver) weapons. In flock form, only harmed by area effects (e.g. flaming oil or Fireball spells).
-
-**Dark sight :** Can see normally without light.
-
-**Flock attack :** Attack Roll against one target per 5 Hit Points (rounded up) the gloam currently has in a 20' area.
-
-**Changing between forms :** Takes 1 Round.
-
-**Disease :** Save Versus Doom or contract a magical disease, leading to death after 1d6 weeks.
-
-**Collection :** Each gloam obsessively collects a specific kind of macabre object. See Collection for some examples.
-
-**Charm children :** Gloams have a parental instinct and seek to nurture mortal children as protégés and assistants in their collecting. Mortal children encountering a gloam must Save Versus Spell or trust it as a beloved parent or mentor, despite its sinister appearance.
-
-**Entourage :** 2-in-6 chance of being accompanied by 1d4 charmed children (everyday mortals).
-
 ## Conversion Nimble
 
 > **GLOAM** LVL 6 — ♥54 (Armure Moyenne)
@@ -47,8 +17,6 @@ Des entités mortes-vivantes enveloppées d'ombre, composées des cadavres d'ois
 > *Charme les enfants : tout enfant mortel rencontré doit Save DC13 (Vs Sort) ou lui fait une confiance de parent/mentor bien-aimé, malgré son apparence sinistre.*
 > **Griffes.** 7d4+3 (Contact). Lacérations acharnées, obsessionnelles.
 > *Sur touche : la cible doit Save DC13 (Doom) ou contracte une maladie magique menant à la mort en 1d6 semaines.*
-
-**Note de conversion** : Niveau Dolmenwood (7) réduit d'un cran (→ 6) car la créature cumule plusieurs capacités non triviales (changement de forme défensif, attaque en nuée à cibles multiples, maladie, charme des enfants), conformément à la règle de coût. Dé de dégâts d4 car mort-vivant.
 
 **Moral (note narrative)** : Le gloam est obsessionnel plutôt que téméraire — il combat avec acharnement pour protéger sa collection macabre ou ses enfants charmés, mais fuit (souvent en forme de nuée, difficile à rattraper) si sa collection est menacée de destruction plutôt que de risquer sa perte définitive.
 

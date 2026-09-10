@@ -9,23 +9,6 @@ Antiques champignons humanoïdes à chair brune (1,20 m de haut), affublés de g
 - **Possessions** : Aucune.
 - **Trésor** : C8 + R9 + M2.
 
-## Statistiques Dolmenwood (source, pour référence)
-**PETIT FONGUS — GÉNIE — CHAOTIQUE**
-
-**Level** 3 **AC** 11 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** Coup (Thump) (+2, 1d3) et regard (éblouissant)
-**Speed** 30 **Morale** 7 **XP** 65
-
-**Encounters** 1d8 (15% dans le repaire)
-
-**Regard éblouissant** : Au combat ou en cas de menace, les yeux du jack-o'-lantern émettent un strobe vert/bleu écœurant. Au début de chaque Round, tous ceux à 30' doivent réussir un Jet de Sauvegarde contre Immobilisation ou être éblouis, subissant un malus de -2 aux jets d'Attaque et à la Classe d'Armure pour ce Round.
-
-**Énigmes et secrets** : Les jack-o'-lanterns aiment les énigmes et les jeux de mots, préférant la palabre à la violence. Face à d'autres êtres intelligents, ils proposent de révéler la solution d'un problème ou d'une énigme (voir *Communion fongique*).
-
-**Communion fongique** : Une lueur verte pulsante émanant des yeux et du chapeau du champignon peut hypnotiser des sentients consentants. Les sujets sont immobilisés durant 1d4 heures, vivant des visions fantasmagoriques. Si un Test de Sagesse réussit, les visions révèlent la réponse à une énigme, puisant dans les secrets profonds de la mémoire collective du peuple-champignon. En cas d'échec, le sujet tombe sous la coupe du champignon (effectivement sans volonté propre), rétrécit à 2,5 cm de haut, et est emporté au repaire.
-
-**Chair magique** : La chair d'un jack-o'-lantern réduit d'un tiers le coût de production du *Solvant Dimensionnel, Argent*. Elle vaut 100po.
-
 ## Conversion Nimble
 
 > **JACK-O'-LANTERN** LVL 3, Petit — ♥34

@@ -9,22 +9,6 @@ Demi-fées amphibies visqueux de 1 à 1,20 m de haut, au visage blafard de poiss
 - **Possessions** : Aucune.
 - **Trésor** : C6 + R7 + M4.
 
-## Statistiques Dolmenwood (source, pour référence)
-**PETIT DEMI-FÉE — SENTIENT — NEUTRE OU CHAOTIQUE**
-
-**Level** 2 **AC** 12 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** Lance (+1, 1d6 + harpon, portée 20'/40'/60') ou morsure (+1, 1d4 + poison)
-**Speed** 20 **Swim** 40 **Morale** 8 **XP** 35
-
-**Encounters** 1d12 (25% dans le repaire)
-
-**Fer froid** : En tant que demi-fée, le madtom subit 1 point de dégâts supplémentaire lorsqu'il est frappé par une arme en fer froid.
-**Amphibie** : Peut respirer dans l'air et dans l'eau.
-**Harpon** : La victime doit réussir un Jet de Sauvegarde contre Immobilisation ou être traînée de 3 m (10') vers le madtom (avec un risque de tomber à l'eau).
-**Poison** : Jet de Sauvegarde contre la Mort ou paralysie pendant 1d4 Rounds (consciente mais incapable de bouger ou d'agir).
-**Pièges** : Les madtoms chassent les mortels en posant des pièges le long des berges des cours d'eau. Au moins un des pièges listés sous *Chausse-trapes* est présent lorsque des madtoms sont rencontrés.
-**Grimalkins** : Les madtoms s'entendent à merveille avec les gens-chats (grimalkins).
-
 ## Conversion Nimble
 
 > **MADTOM** LVL 2, Petit — ♥26

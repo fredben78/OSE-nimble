@@ -3,16 +3,6 @@
 ## Description
 Ménestrels itinérants de Dolmenwood — conteurs, charmeurs et musiciens qui gagnent leur pain en jouant dans les tavernes ou en escortant des caravanes. Peuvent être de n'importe quelle Lignée sentiente. Rencontrés seuls ou à la tête d'une petite troupe.
 
-## Statistiques Dolmenwood (source)
-**Level 1 Bard (Rhymer)** — AC 12, HP 1d6 (3), Speed 30, Morale 7, XP 15, Enc 1d6.
-Gear : armure de cuir, épée courte (1d6), fronde + 20 pierres (1d4). Magie : Counter Charm, Enchantment (1/jour — mortels). Skills : Decipher Documents 6, Legerdemain 6, Listen 5, Monster Lore 5.
-
-**Level 3 Bard (Troubadour)** — AC 14, HP 3d6 (10), Att +1, Speed 20, Morale 8, XP 65, Enc 1d3.
-Gear : cotte de mailles, épée courte (1d6), dague en argent (1d4), arc court + 20 flèches (1d4), *Vaporous Spirits*. Magie : Counter Charm, Enchantment (3/jour). Companions : 1d4 rhymers.
-
-**Level 5 Bard (Lore-Master)** — AC 15, HP 5d6 (17), Att +2, Speed 20, Morale 9, XP 360, Enc 1.
-Gear : cotte de mailles + bouclier, *Arcane Shortsword* (1d6+2, +2 attaque), dague en argent, arc court + 20 flèches, *Lute of Obscurement*, *Prismatic Elixir*. Magie : Counter Charm, Enchantment (5/jour — animaux, demi-fae, mortels). Companions : 1d4 troubadours, 1d4 PNJ Niveau 1 (enchanteur, chasseur ou voleur).
-
 ## Conversion Nimble
 
 > **BARDE (recrue)** LVL 1 — ♥26

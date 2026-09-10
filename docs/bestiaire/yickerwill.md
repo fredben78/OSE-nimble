@@ -8,34 +8,7 @@ Des monstres demi-fae volants, hauts de 1,80 m, aux pattes semblables à des che
 - **Discours** : murmures grinçants. Quelques bribes de Sylvan.
 - **Possessions** : aucune. **Trésor** : catégorie C4 + R4 + M1.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM DEMI-FEY—SEMI-INTELLIGENT—NEUTRAL**
-**Level** 4 **AC** 13 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** 2 griffes (+3, 1d6) ou souffle (givre)
-**Speed** 20 **Fly** 60 **Morale** 7 **XP** 180
-**Encounters** 1d6 (jour 90% en repaire, nuit 10% en repaire)
-
-**Fer froid** : en tant que demi-fae, les yickerwills subissent 1 point de dégâts supplémentaire quand ils sont frappés par des armes en fer froid.
-
-**Inflammable** : subit le double des dégâts causés par le feu.
-
-**Nocturne** : malus de -1 aux jets d'Attaque et aux jets de Sauvegarde en plein jour.
-
-**Vision dans le noir** : voit normalement sans lumière.
-
-**Absorption de lumière magique** : d'un claquement de doigts, un yickerwill peut absorber les sorts de lumière (par ex. *Firelight*, *Holy Light*) à moins de 9 m, annulant la magie de façon permanente. La créature récupère 1d4 Points de Vie par Rang du sort absorbé.
-
-**Souffle glacial (3×/jour)** : peut exhaler un tourbillon de givre, remplissant un cône de 9 m de long et 6 m de large à son extrémité. Toutes les créatures dans le cône doivent **Sauver Contre Explosion** ou subir 2d6 dégâts. Toutes les flammes présentes dans le cône sont éteintes.
-
-**Antennes** : détecte l'invisibilité et la magie sans possibilité d'échec.
-
-**Victimes tuées** : les yickerwills dévorent rapidement les vêtements de leurs victimes, et parfois (2 chances sur 6) pondent des œufs dans le corps. Ces cadavres sont ensuite consumés par les larves en 2 semaines.
-
-**Origine** : les yickerwills sont les descendants dégénérés des gardes de garde-robe à face de mite du Prince Froid, dont un petit nombre est resté dans le Dolmenwood après son bannissement en Fairy.
-
 ## Conversion Nimble
-
-*Niveau Dolmenwood 4, avec 2 capacités non-triviales de combat (Absorption de lumière magique + Souffle glacial en zone) → on redescend d'1 cran, soit les valeurs du niveau 3 (table Monster Builder p.29). CA13 → Sans armure. Type Medium demi-fae → dé d8 (créature de taille moyenne malgré sa nature fae).*
 
 > **YICKERWILL** LVL 4 (traité comme LVL 3), MEDIUM — ♥41 (Sans armure)
 > **Griffes.** 2d8+5 (Reach 1).

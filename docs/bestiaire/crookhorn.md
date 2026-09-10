@@ -9,31 +9,12 @@ Breggles féraux et rongés par la maladie, hauts de 7 pieds, tordus par la magi
 - **Possessions** : 3d6 po d'argent.
 - **Trésor** : C4 + R4 + M1.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MORTAL—SENTIENT—CHAOTIC**
-
-**Level** 2 **AC** 13 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** Weapon (+1) or bite (+1, 1d6 + disease) or horns (+1, 1d6 + disease)
-**Speed** 30 **Morale** 8 **XP** 35
-
-**Encounters** 3d10 (25% in lair)
-**Behaviour** Brutish, wild, merciless
-**Speech** Obscenity-laced bleating. Gaffe, basic Woldish (1-in-4 is fluent)
-**Possessions** 3d6sp **Hoard** C4 + R4 + M1
-
-**Weapons :** Crookhorns favour clubs (1d4) and spears (1d6).
-**Armour :** Crookhorns wear a rough patchwork of spiked leather and chainmail. Without armour, they have AC 11.
-**Disease :** Anyone who comes into close contact with a crookhorn (including bitten or butted by one) must Save Versus Doom or be afflicted by a nasty infection (see Crookhorn Diseases). All can be cured with Lankswith (DPB).
-**Marauders :** Crookhorns delight in the capture, torture, and (inevitable) roasting of other sentients.
-
 ## Conversion Nimble
 
 > **CROOKHORN** LVL 2 — ♥34 (Sans armure)
 > *Porteur de maladie : toute créature touchée par la morsure ou les cornes doit réussir un Sauvegarde DD11 (Vs Fatalité) ou contracter une infection au choix du MJ (voir table Maladies du Crookhorn).*
 > **Morsure ou cornes.** 2d8+4 (Contact). Sur touche, déclenche Porteur de maladie.
 > **Arme (massue ou lance).** 1d8+4 (Contact/Portée courte pour la lance jetée).
-
-**Note de conversion** : Niveau Dolmenwood (2) conservé tel quel — une seule capacité non triviale (la maladie), donc pas de rétrogradation dans la table de PV/dégâts. Dé de dégâts d8 car mortel/humanoïde standard (breggle féral, mais Type Mortel, non Fae).
 
 **Moral (note narrative)** : Le crookhorn se bat avec une férocité brutale et sans calcul, porté par la cruauté plus que par la stratégie. Il ne fuit que rarement (Moral 8) — surtout en bande — mais un individu isolé et gravement blessé peut détaler en hurlant des obscénités.
 

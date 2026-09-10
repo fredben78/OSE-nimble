@@ -9,27 +9,7 @@ Masses semi-sentientes (2,4 m de diamètre) de vase écarlate, nauséabonde et b
 - **Possessions** : Dans des poches de vase : R1.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-LARGE OOZE—SEMI-INTELLIGENT—NEUTRAL
-
-**Level** 4 **AC** 13 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** 4 appendages (+3, 1d4 + adhesion)
-**Speed** 20 **Morale** 10 **XP** 230
-
-**Encounters** 1d4 (no lair)
-**Behaviour** Cautious, inquisitive
-**Speech** Slurping and bubbling
-**Possessions** In ooze pockets: R1 **Hoard** None
-
-**Immunities :** Unharmed by cold and lightning.
-**Eyeless :** Can act normally in light or darkness.
-**Adhesion :** On a successful attack, the acid-oozing appendage sticks onto the victim and inflicts 1d4 damage in subsequent Rounds. This reduces the number of attacks per Round the redslob may make.
-**If hit in melee :** When a redslob is hit with a melee weapon, the attacker must Save Versus Hold. If the save fails, the weapon is ripped out of the attacker's hand, adhering to the monster's sticky mass.
-**Wield weapons :** A redslob may grasp weapons that have adhered to its surface, wielding them in subsequent Rounds. Each weapon wielded may attack once per Round, replacing one of the redslob's appendage attacks.
-
 ## Conversion Nimble
-
-*Deux capacités non-triviales (adhérence réduisant les attaques, vol/utilisation d'armes de mêlée) imposent de redescendre d'un cran → Niveau 3 retenu.*
 
 > **REDSLOB** LVL 3, Grand — ♥41, Sans armure
 > *Immunisé au froid et à la foudre.*

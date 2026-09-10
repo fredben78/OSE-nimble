@@ -3,13 +3,6 @@
 ## Description
 Rongeurs de 90 cm de long, ravagés par la maladie, au pelage noir ou gris. Mangent de tout. Creusent leurs terriers sous les ruines, tumulus funéraires et cimetières. Évitent le contact avec les humanoïdes, mais peuvent attaquer pour défendre leur nid.
 
-## Statistiques Dolmenwood (source)
-**SMALL ANIMAL—ANIMAL INTELLIGENCE—NEUTRAL**
-**Level** 1 **AC** 12 **HP** 1d4 (2) **Saves** D12 R13 H14 B15 S16
-**Att** Bite (+0, 1d3 + disease) **Speed** 40 **Swim** 20 **Morale** 8 **XP** 10 **Enc** 3d6
-
-**Disease :** 1-in-20 giant rats carries a disease. Save Versus Doom or become sick for 1d10 days: Speed reduced by half, suffer 1d3 damage each day.
-
 ## Conversion Nimble
 
 > **RAT GÉANT** LVL 1 — ♥26, Sans armure

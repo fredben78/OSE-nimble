@@ -9,23 +9,6 @@ Escargots de 3 m de haut aux corps violet, pourpre ou rose vif, avec des coquill
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE MONSTROSITY—SENTIENT—ANY ALIGNMENT**
-**Level** 6 **AC** 17 **HP** 6d8 (27) **Saves** D9 R10 H11 B12 S13
-**Attacks** Bite (+5, 1d4) or psychic crush (1d6) or illusion (see below)
-**Speed** 30 **Morale** 8 **XP** 720
-
-**Encounters** 1 (35% in lair, sleeping)
-**Behaviour** Dreamy, aloof
-**Speech** Abstruse. Telepathic projection with any perceived sentient within 120'
-**Possessions** None **Hoard** None
-
-**Psychic crush:** The snail may direct its psionic power into the mind of a sentient being within 60', who must **Save Versus Spell**. If the save fails, the victim suffers 1d6 damage immediately and in each subsequent Round for as long as the snail concentrates (no other actions, half Speed).
-**Illusions (thrice a day):** The snail can manifest psionic illusions that function like the arcane spell *Phantasm*, with the following enhancements: **Senses:** Visual, sounds, smells, and thermal elements. **Illusionary monsters:** Have AC 14. **Concentration:** The snail may move at half Speed while maintaining an illusion. Even when the snail stops concentrating, the illusion persists for 3 further Rounds.
-**Lairs and sleeping:** Psionic snails do not keep lairs, but sometimes lie in slumber for decades, carpeted with weird plants and fungi (e.g. *Black Clover*, *Horridwort*, *Mind-Moss*, *Puck's Ear—DCB*). Carefully harvesting a portion without waking the snail requires a **Dexterity Check**.
-**Dream projection:** A sleeping snail's dreams produce illusionary scenes up to a mile distant. See *Dreams*.
-**Riders:** Psionic snails sometimes allow fairies (e.g. goblins, grimalkins, sprites) to ride upon their backs.
-
 ## Conversion Nimble
 
 > **ESCARGOT GÉANT PSIONIQUE** LVL 5, Grand — ♥46, Armure Moyenne

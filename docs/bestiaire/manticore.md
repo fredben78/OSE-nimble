@@ -9,22 +9,6 @@ Monstruosités magiques issues du rêve, avec le visage d'un humain, le corps d'
 - **Possessions** : Aucune.
 - **Trésor** : C6 + R7 + M4.
 
-## Statistiques Dolmenwood (source, pour référence)
-**GRAND MONSTRUOSITÉ — SENTIENT — TOUT ALIGNEMENT**
-
-**Level** 6 **AC** 15 **HP** 6d8 (27) **Saves** D9 R10 H11 B12 S13
-**Attacks** [2 griffes (+5, 1d4) et morsure (+5, 2d6)] ou piquants de la queue (+5, 1d4 + sommeil, portée 60'/120'/180')
-**Speed** 40 **Fly** 60 **Morale** 9 **XP** 520
-
-**Encounters** 1d4 (20% dans le repaire)
-
-**Vision dans le noir** : Voit normalement sans lumière.
-**Piquants de la queue** : Une manticore peut tirer des volées de 1 à 3 piquants par Round (au maximum 12 piquants par jour). Un Jet d'Attaque séparé doit être fait pour chaque piquant tiré.
-**Sommeil** : Les victimes d'un piquant de queue de manticore doivent réussir un Jet de Sauvegarde contre les Sorts ou tomber dans un sommeil fiévreux et cauchemardesque pendant 1d4 Tours. Les personnages endormis peuvent être réveillés par la force (p. ex. en les giflant).
-**Manger des cœurs humains** : Si une manticore consomme une douzaine de cœurs humains, elle est transformée pour toujours en humain normal.
-**Origine** : Les manticores sont des créations magiques du fae Duc Qui Chérit les Rêves (*Duke Who Cherishes Dreams*, DCB), conjurées comme gardiennes de son trésor de rêves de vanité mortelle. Certains individus, obsédés par l'idée de devenir humains, s'enfuient jusqu'à Dolmenwood.
-**Dans le Nagwood** : Les manticores chaotiques sont parfois séduites au service d'Atanuwë, à qui l'on promet de la chair humaine en récompense. Elles rôdent alors comme gardiennes du Nagwood.
-
 ## Conversion Nimble
 
 > **MANTICORE** LVL 6, Grand, Armure Moyenne — ♥46, Vole 18 m

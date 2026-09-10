@@ -3,9 +3,6 @@
 ## Description
 Mille-pattes de 30 cm qui se cachent dans les arbres pourrissants, les cavernes et autres lieux sombres et humides. Agressifs et carnivores.
 
-## Statistiques Dolmenwood (source)
-Small Bug — Animal Intelligence — Neutral. Level 1, AC 10, HD 1d4 (2 PV), Att Morsure (+0, 1 + poison), Speed 20, Morale 7, XP 15, Enc 1d8.
-
 ## Conversion Nimble
 
 > **MILLE-PATTES GÉANT** LVL 1, Petit — ♥26

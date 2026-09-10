@@ -9,40 +9,6 @@ Des fantômes de brigands de grand chemin, de chevaliers déchus, ou de mercenai
 - **Possessions** : Aucune.
 - **Trésor** : C5 + R2 + M8, caché dans un lieu secret, souvent enterré au fond des bois.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM UNDEAD—SENTIENT—CHAOTIC**
-
-**Level** 7 **AC** 16 **HP** 7d8 (31) **Saves** D8 R9 H10 B11 S12
-**Attacks** Sword (+6, 1d8 + life drain) or gaze (terror)
-**Speed** 30 (80 when mounted) **Morale** 9 **XP** 1,680
-
-**Encounters** 1d4 (no lair)
-**Behaviour** Obsessive, cruel, vengeful
-**Speech** Grisly moaning (from decapitated head). Woldish, Old Woldish (2-in-6 chance)
-**Possessions** None **Hoard** C5 + R2 + M8
-
-**Undead :** Silent before attacking. Immune to biological effects (e.g. disease, poison) and mind-affecting spells (e.g. Vapours of Dream, Paralysation, Dominate).
-
-**Immunities :** Only harmed by silver weapons, magic, or magic weapons.
-
-**Incorporeal :** Can pass through walls, doors, and other solid objects.
-
-**Dark sight :** Can see normally without light.
-
-**Life drain :** Each hit with the rider's sword permanently reduces the victim's maximum Hit Points by 1. Holy Fire restores 1d6 Hit Points lost in this way.
-
-**Gaze (once per target) :** A headless rider may hold aloft its decapitated head and direct its gaze at a target within 60'. The target must Save Versus Hold or fall to the ground, paralysed with terror for 1d6 Turns (aware but unable to move or act).
-
-**Ghostly mount :** Headless riders are usually mounted on a ghostly horse, moving at Speed 80. See stats below.
-
-**Hidden hoard :** Headless riders keep their hoard in a secret location, often buried in the deep woods.
-
-### Ghostly Mount
-**LARGE UNDEAD—ANIMAL INTELLIGENCE—NEUTRAL**
-**Level** 2 **AC** 12 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Att** 2 hooves (+1, 1d4) **Speed** 80 **Morale** 7 **XP** 35
-**Undead, incorporeal, dark sight, immunities :** Per headless rider — see above.
-
 ## Conversion Nimble
 
 > **CAVALIER SANS TÊTE** LVL 6 — ♥54 (Armure Moyenne)
@@ -50,8 +16,6 @@ Des fantômes de brigands de grand chemin, de chevaliers déchus, ou de mercenai
 > *Vol de vie : chaque touche à l'épée réduit de façon permanente les PV maximum de la cible de 1 (le Feu Sacré restaure 1d6 PV ainsi perdus).*
 > *Regard (1/cible, portée 60 pieds) : brandit sa tête décapitée et fixe une cible. Save DC13 (Hold) ou la cible s'effondre, paralysée de terreur pendant 1d6 tours (consciente mais incapable d'agir).*
 > **Épée.** 8d4+1 (Contact). Coup vengeur et implacable.
-
-**Note de conversion** : Niveau Dolmenwood (7) réduit d'un cran (→ 6) car la créature cumule plusieurs capacités non triviales (immunité aux armes non-argentées/magiques, incorporéité, vol de vie permanent, regard paralysant), conformément à la règle de coût. Dé de dégâts d4 car mort-vivant.
 
 **Monture fantomatique (référence rapide)** : chevauche généralement un cheval fantôme, Vitesse 80 lorsqu'il est monté. En termes Nimble, traiter comme complément de mobilité (Vitesse 80) plutôt que combattant distinct — LVL 1, ♥26 (Sans armure), incorporelle et immunisée comme le cavalier ; attaque secondaire éventuelle « Sabots » 2d6 si elle doit combattre séparément.
 

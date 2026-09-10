@@ -3,9 +3,6 @@
 ## Description
 Cervidés au pelage blanc, portant une corne unique au milieu du front. Les femelles ont une corne courte et droite, les mâles un andouiller unique et ramifié. Vus de loin, ces animaux (surtout les femelles) peuvent être confondus avec des licornes. Leur chair, faisandée, est plutôt savoureuse. Timides et nerveux.
 
-## Statistiques Dolmenwood (source)
-Medium Animal — Animal Intelligence — Neutral. Level 2, AC 12, HD 2d8 (9 PV), Att Corne (+1, 1d4), Speed 80, Morale 6, XP 20, Enc 3d4.
-
 ## Conversion Nimble
 
 > **FAUSSE LICORNE** LVL 2 — ♥34

@@ -15,7 +15,7 @@ Ce site compile les documents de conversion : création de personnage, système 
 
 - Tout le monde monte de niveau **ensemble**, décidé par le MJ à l'issue d'une aventure — pas de comptage d'XP individuel.
 - Le déséquilibre de puissance entre personnages est accepté ; seul l'équilibre **tactique en combat** est protégé.
-- Chaque règle homebrew est calibrée pour respecter l'esprit et les probabilités de Nimble (voir [Fondamentaux Nimble](regles/fondamentaux-nimble.md) §9), pas seulement traduite depuis Dolmenwood.
+- Chaque règle homebrew est calibrée pour respecter l'esprit et les probabilités de Nimble (voir les [Fondamentaux Nimble](regles/fondamentaux-nimble.md), notamment les « Repères de calibrage »), pas seulement traduite depuis Dolmenwood.
 
 ## À propos
 

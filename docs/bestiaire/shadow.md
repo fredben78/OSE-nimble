@@ -9,28 +9,7 @@ Ombres humanoïdes rampantes qui se cachent dans l'obscurité, happant les créa
 - **Possessions** : Aucune.
 - **Trésor** : C9 + R5 + M10.
 
-## Statistiques Dolmenwood (source, pour référence)
-MEDIUM MONSTROSITY—SEMI-INTELLIGENT—CHAOTIC
-
-**Level** 2 **AC** 12 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** Touch (+1, 1d4 + Strength drain)
-**Speed** 30 **Morale** 12 **XP** 50
-
-**Encounters** 1d8 (40% in lair)
-**Behaviour** Ravenous, greedy
-**Speech** Incoherent whispering. Jumbled Woldish
-**Possessions** None **Hoard** C9 + R5 + M10
-
-**Surprise :** When shadows emerge from the gloom, opposing side has a 5-in-6 chance of being surprised.
-**Immunities :** Only harmed by magic or magic weapons. Immune to mind-affecting spells (e.g. Vapours of Dream, Paralysation, Dominate).
-**Light sensitivity :** In daylight (or equivalent), shadows suffer a –2 penalty to Attack Rolls and Saving Throws.
-**Dark sight :** Can see normally without light.
-**Strength drain :** Victims lose 1 Strength per hit. If reduced to 0 Strength, the victim becomes a shadow. Lost Strength recovers after 8 Turns.
-**Origin :** Though commonly mistaken for incorporeal undead, shadows are not undead. They are created by magic of various kinds—see Creation.
-
 ## Conversion Nimble
-
-*Deux capacités non-triviales (immunité étendue aux effets mentaux et aux armes non-magiques, drain de Force transformant la victime) imposent de redescendre d'un cran → Niveau 1 retenu.*
 
 > **SHADOW** LVL 1 — ♥26, Sans armure
 > *Immunisé : seules les attaques magiques ou les armes magiques blessent l'ombre ; immunisée aux effets qui affectent l'esprit (sommeil, paralysie, domination, etc.).*

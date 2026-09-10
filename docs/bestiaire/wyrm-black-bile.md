@@ -10,44 +10,7 @@ Long de 9 mètres, la chair grumeleuse, des écailles brun-noir, des touffes de 
 - **Discours** : grognements, phrases brisées. Parle un Woldish basique et le Wyrm (langue propre aux dragons).
 - **Possessions** : aucune. **Trésor** : catégorie C6 + R7 + M4.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE DRAGON—SENTIENT—CHAOTIC**
-**Level** 5 **AC** 17 **HP** 5d8 (22) **Saves** D10 R11 H12 B13 S14
-**Attacks** [Morsure (+4, 2d6) et queue (+4, 2d4)] ou souffle (bile caustique) ou grognement (commandement)
-**Speed** 60 **Burrow** 20 **Morale** 9 **XP** 460
-**Encounters** 1 (50% en repaire)
-
-**Surprise** : quand un wyrm de bile noire attend en embuscade sous la terre, le camp adverse a 4 chances sur 6 d'être surpris.
-
-**Sommeil au repaire** : 50% de chances d'être endormi si rencontré dans son antre (voir *Wyrm—Overview* ci-dessous).
-
-**Immunités** : subit moitié dégâts des armes non-magiques. Immunisé à l'acide et au poison. Immunisé au feu, à la foudre et au froid non-magiques. Subit moitié dégâts du feu, de la foudre et du froid magiques.
-
-**Vision dans le noir** : voit normalement sans lumière.
-
-**Souffle (3×/jour)** : un wyrm de bile noire peut vomir un jet de bile noire caustique. Toutes les créatures dans un flux de 3 m de large et 9 m de long depuis sa gueule subissent des dégâts égaux à son total actuel de Points de Vie (**Sauver Contre Explosion** pour moitié dégâts).
-
-**Grognement de commandement (3×/jour)** : peut adresser un ordre grogné à un unique sujet. Si le sujet comprend la langue utilisée, il doit **Sauver Contre Sort** ou obéir à l'ordre pendant 1 Round. Les ordres manifestement nuisibles au sujet échouent automatiquement.
-
-**Voir aussi** : *Wyrm—Overview* ci-dessous (régénération, vulnérabilité, etc.).
-
-### Wyrm—Overview (règles transversales aux 4 Wyrms, p.96)
-Les dragons du Dolmenwood diffèrent de ceux des autres royaumes. Il en existe quatre types, chacun associé à l'un des quatre éléments et à l'une des quatre humeurs corporelles médiévales : les wyrms de **bile noire** (terre), les wyrms de **phlegme** (eau), les wyrms de **sang** (air), les wyrms de **bile jaune** (feu). Les wyrms des éléments denses (bile noire et phlegme) sont les moins longévifs, les moins dangereux, et les plus communément rencontrés dans le Dolmenwood. Les wyrms de sang et de bile jaune sont plus puissants et plus rares.
-
-- **Reproduction** : les wyrms se reproduisent comme les autres reptiles, pondant et incubant des couvées d'œufs. Après l'éclosion, le wyrmelet reste avec sa mère quelques années — la seule situation où les wyrms tolèrent la compagnie de leurs semblables ; sinon ils se vouent une haine jalouse mutuelle, ne se rencontrant qu'occasionnellement pour s'accoupler.
-- **Âge** : les statistiques de combat présentées sont celles des wyrms adultes. Des wyrms immatures ou anciens, jusqu'à 3 Niveaux en moins ou en plus, peuvent aussi être rencontrés. Les wyrms immatures ont moins de chances d'être rencontrés dans leur antre ; les wyrms anciens en ont davantage.
-- **Parole et intellect** : tous les wyrms parlent leur propre langue ainsi que celle des serpents et la langue commune des humains (Woldish), cette dernière avec un degré d'éloquence variable. Les wyrms mineurs ne savent proférer que les phrases les plus simples en Woldish, tandis que les plus grands ont une langue d'argent et peuvent parler d'autres langues (par ex. Sylvan, Vieux Woldish, et parfois même le Haut Elfique).
-- **Antres, trésors et sommeil** : les wyrms de toutes sortes établissent des antres souterrains où ils amoncellent le trésor accumulé. Typiquement, de courtes périodes d'activité (durant lesquelles ils se nourrissent de chair et pillent des trésors) alternent avec de longues périodes de sommeil. Quand un wyrm est rencontré dans son antre, il y a une chance qu'il soit endormi.
-- **Surprendre un wyrm endormi** : les wyrms ont le sommeil léger, gardant un œil mi-ouvert la plupart du temps. Il est donc difficile d'en surprendre un totalement à l'improviste. Un jet de Surprise normal (voir *Encounters*, *DPB*) est utilisé pour déterminer si un wyrm endormi est pris au dépourvu.
-- **Régénération** : les wyrms peuvent naturellement récupérer de blessures graves, avec le temps de se reposer. Même des portions sectionnées de leur corps peuvent repousser.
-- **Vulnérabilité** : tous les wyrms possèdent un certain degré de résistance aux armes. Ils possèdent également une vulnérabilité par laquelle les armes peuvent leur infliger des dégâts normaux. La nature exacte de cette vulnérabilité varie selon l'individu. La table ci-dessous propose des idées, mais le Meneur de Jeu peut inventer des variantes uniques pour garder les joueurs dans l'incertitude.
-  - *Analyse alchimique* : un alchimiste peut deviner la vulnérabilité d'un wyrm en analysant une petite partie de son corps (par ex. une écaille). Ce procédé a le même coût et la même durée que l'analyse d'une potion (voir *Specialist Services*, *DPB*).
-  - **Table des vulnérabilités de wyrm (1d8)** : 1. Exposition à la lumière du jour. 2. La présence d'une vierge au cœur pur. 3. Terre consacrée. 4. La lumière de la pleine lune. 5. Une corne de licorne. 6. La puanteur du poisson pourri. 7. La philosophie athée. 8. La magie des sorcières.
-- **Origine** : les premiers wyrms sont nés du cadavre d'un antique Dieu des Bois nommé Ocryphd, tué par le Prince Froid et ses chevaliers dans un temps oublié de la mémoire mortelle. Dans un dernier acte de vengeance, la bile, le sang et le phlegme du corps en décomposition du Dieu des Bois prirent la forme de wyrms et se glissèrent vers des lieux cachés pour s'y multiplier et attendre leur heure. Ces créatures et leurs descendants tourmentent les habitants du Dolmenwood depuis.
-
 ## Conversion Nimble (Boss Légendaire)
-
-*Wyrm individuel, nommé, unique, avec son propre lore et un butin dédié → traitement **Legendary Monster Builder** (GMG p.41-44), calé sur le niveau du groupe de héros plutôt que sur le Niveau isolé de la créature. Le Niveau Dolmenwood du wyrm de bile noire (5) tombe sous le minimum couvert par la table Legendary (7 à 10) — on retient donc le palier **groupe de Niveau 7** comme approximation basse (c'est le wyrm le plus faible des quatre variétés). CA17 → Armure Moyenne (borne haute de la plage 14-17).*
 
 > **WYRM DE BILE NOIRE** *(Boss Légendaire, groupe de Niveau 7)* — ♥200 (Armure Moyenne)
 > *Immunités.* Subit moitié dégâts des armes non-magiques. Immunisé à l'acide et au poison. Immunisé au feu/foudre/froid non-magiques ; mi-dégâts si magiques.

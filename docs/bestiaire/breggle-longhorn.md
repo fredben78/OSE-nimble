@@ -9,31 +9,6 @@ L'élite des breggles, composée de nobles hautains et de chevaliers fringants. 
 - **Possessions** : 2d6 po.
 - **Trésor** : C5 + R2 + M8.
 
-## Statistiques Dolmenwood (source, pour référence)
-
-**MORTEL MOYEN — SENTIENT — TOUT ALIGNEMENT**
-
-**Niveau** 5 **CA** 16 **PV** 5d8 (22) **Sauvegardes** D10 R11 H12 B13 S14
-**Attaques** Arme (+4) ou cornes (+4, 1d4+1) ou regard (asservissement)
-**Vitesse** 20 **Moral** 9 **XP** 260
-
-**Rencontres** 2d4 (10 % en repaire)
-**Comportement** Calculateur, hautain, insensible
-**Discours** Éloquent, condescendant. Woldish, caprice, gaffe
-**Possessions** 2d6 po **Trésor** C5 + R2 + M8
-
-**Armes :** Les longicornes privilégient les épées longues (1d8) à pied et les lances (1d6) à cheval.
-
-**Armure :** Les longicornes portent une plate d'apparat gravée de sigils de leur maison. Sans armure, CA 11.
-
-**Regard (une fois par jour, par cible) :** Le regard d'un longicorne a le pouvoir de charmer humains et courtecornes vers l'asservissement. Une cible qui échoue à une **Sauvegarde contre les Sorts** tombe sous l'emprise du longicorne et devient incapable de lui nuire (directement ou indirectement) jusqu'au prochain lever du soleil. Le sort sacré *Manteau de Protection* contre ce regard.
-
-**Monture :** Généralement rencontré monté (1d6) : 1-4 palefroi de Prigwort, 5 destrier, 6 chèvre démoniaque.
-
-**Escorte :** 4 chances sur 6 d'être accompagné de 1d12 courtecornes (serviteurs ou gardes).
-
-**Repaire :** Typiquement accompagné de 4d8 courtecornes.
-
 ## Conversion Nimble
 
 > **BREGGLE — LONGICORNE** LVL 5 — ♥46, Armure Moyenne

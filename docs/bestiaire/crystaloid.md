@@ -9,34 +9,12 @@ Humanoïdes minéraux de 5 pieds, à tête faite d'un amas de cristaux, sans yeu
 - **Possessions** : Aucune.
 - **Trésor** : C4 + 4d4 gemmes + 1d3 cristaux magiques (1 chance sur 4).
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM CONSTRUCT—SENTIENT—ANY ALIGNMENT**
-
-**Level** 3 **AC** 15 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** Weapon (+2) or fist (+2, 1d6) or flash (blinding)
-**Speed** 30 **Morale** 9 **XP** 90
-
-**Encounters** 1d6 (70% in lair)
-**Behaviour** Peaceful, curious, emotionless
-**Speech** Resonant keening. Dwelve
-**Possessions** None **Hoard** C4 + 4d4 gems + 1d3 magic crystals (1-in-4 chance)
-
-**Non-biological :** Immune to biological effects (e.g. disease, poison).
-**Weapons :** Crystaloids favour elaborate spears (1d6) and polearms (1d10). Their weapons are formed of metal and crystal, with no wooden elements.
-**Damage reduction :** Suffer half damage from cutting or piercing attacks (e.g. arrows, spears, swords).
-**Blinding flash (once a Turn) :** A group of 3 crystaloids can cooperate to produce a flash of blinding light. All within 20' must Save Versus Doom or be blinded for 1d6 Turns.
-**Glow :** Crystaloids naturally emit a lambent glow, enabling them to see underground. They can voluntarily change the colour and brightness, illuminating up to a 30' radius.
-**Mind link :** All crystaloids in a community are telepathically linked. Each individual's experience is shared with the community.
-**Crystaloid leaders :** Each community is led by a council of 3 elders, each able to cast the following arcane spells once a day : *Ioun Shard*, *Mind Crystal*, *Mirror Image*. (115 XP for defeating.)
-
 ## Conversion Nimble
 
 > **CRYSTALOÏDE** LVL 3, Armure Moyenne — ♥27
 > *Résistance cristalline (passif) : subit moitié moins de dégâts des attaques tranchantes ou perforantes (flèches, lances, épées).*
 > *Éclat aveuglant (une fois par Tour, nécessite 3 crystaloïdes coopérant) : toutes les créatures à moins de 20 pieds doivent réussir un Sauvegarde DD11 (Vs Fatalité) ou être aveuglées pendant 1d6 Tours.*
 > **Lance/Poing.** 2d8+3 (Contact/Allonge).
-
-**Note de conversion** : le crystaloïde ajoute deux capacités non triviales (Résistance cristalline + Éclat aveuglant), donc rétrogradation d'un cran dans la table de PV/dégâts/DD (utilisation de la ligne « Niveau 2 » pour les PV/dégâts/DD, tout en conservant l'étiquette de Niveau 3 issue de Dolmenwood). CA 15 place la créature en Armure Moyenne. Dé de dégâts d8 par défaut — c'est un jugement : bien que « Construct », le crystaloïde est de taille Moyenne et humanoïde dans sa forme de combat (arme à distance/allonge), non un « Construct massif », donc pas de d12.
 
 **Moral (note narrative)** : Les crystaloïdes ne recherchent jamais le conflit — ils ne combattent que pour défendre leur communauté ou leurs mines, et privilégient la fuite souterraine ou l'Éclat aveuglant collectif pour se dégager plutôt que le combat prolongé. Une fois engagés (Moral 9), ils tiennent bon avec une détermination silencieuse et sans émotion apparente.
 

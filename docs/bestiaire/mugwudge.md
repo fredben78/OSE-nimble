@@ -9,21 +9,6 @@ Sangliers hirsutes au cou long, dont la puanteur épouvantable et le souffle mor
 - **Possessions** : Aucune.
 - **Trésor** : 1d4 fruits magiques dans les arbres autour du repaire (voir ci-dessous).
 
-## Statistiques Dolmenwood (source, pour référence)
-**GRAND MONSTRUOSITÉ — INTELLIGENCE ANIMALE — NEUTRE**
-
-**Level** 3 **AC** 12 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** Défense (+2, 2d4) ou souffle (transforme en bois)
-**Speed** 40 **Morale** 8 **XP** 90
-
-**Encounters** 1d4 (33% dans le repaire)
-
-**Puanteur nauséabonde** : L'odeur naturelle de charogne rend malade les humanoïdes : Jet de Sauvegarde contre la Mort ou malus de -2 aux Jets d'Attaque tant qu'ils sont au corps à corps avec un mugwudge.
-**Souffle pétrifiant en bois (trois fois par jour)** : Miasme violet, 9 m de long, 3 m de large (30' x 10'). Tous ceux pris dans le nuage doivent réussir un Jet de Sauvegarde contre Immobilisation ou être transformés en bois vivant.
-**Restaurer les victimes** : Les victimes changées en bois peuvent être ramenées à la vie par une magie qui fait croître les plantes (p. ex. *Croissance des Plantes*) ou qui métamorphose une cible (p. ex. *Métamorphose*).
-**Croissance du bois** : Si elle n'est pas restaurée, une victime changée en bois fera pousser des brindilles, des branches et des feuilles, devenant finalement un arbre rabougri. Une fois mature, un tel arbre porte chaque année 1d4 fruits noirs semblables à des nèfles.
-**Fruits** : Un fruit issu de l'arbre d'un mugwudge a le pouvoir de dissiper une malédiction s'il est consommé.
-
 ## Conversion Nimble
 
 > **MUGWUDGE** LVL 3, Grand — ♥34

@@ -9,34 +9,12 @@ Des humanoïdes géants (3,60 m – 4,25 m de haut), à la peau pâle et translu
 - **Possessions** : Aucune.
 - **Trésor** : C5 + R2 + M8 + 4d4 gemmes.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE MORTAL—SENTIENT—ANY ALIGNMENT**
-
-**Level** 13 **AC** 16 **HP** 13d8 (58) **Saves** D4 R5 H6 B7 S8
-**Attacks** Club (+9, 5d6) or 2 fists (+9, 2d8) or gaze (blindness + read intent)
-**Speed** 30 **Morale** 8 **XP** 3,200
-
-**Encounters** 1d3 (35% in lair)
-**Behaviour** Enigmatic, ponderous
-**Speech** Profound, grinding boom. Dwelve
-**Possessions** None **Hoard** C5 + R2 + M8 + 4d4 gems
-
-**Dark sight :** Can see normally without light.
-
-**Gaze :** A fomorian may gaze upon a target within 60', who must Save Versus Hold or be blinded for 2d4 Rounds. The fomorian also knows the victim's aims and intents.
-
-**Mutations :** Due to exposure to the weird magic of the underworld, each fomorian possesses a mutation — roll on the Mutations table.
-
-**Herders :** Fomorians raise subterranean animals for food, typically cave salamanders, giant earthworms, or ooze salamanders.
-
 ## Conversion Nimble
 
 > **FOMORIAN** LVL 12, Grand — ♥119 (Armure Moyenne)
 > *Mutation : possède une mutation unique — tirer 1d6 sur la table Mutations.*
 > *Regard (1/round, portée 60 pieds) : la cible doit Save DC16 (Hold) ou être aveuglée pendant 2d4 rounds ; le fomorian connaît alors ses intentions.*
 > **Massue.** 5d12+2 (Allonge 10 pieds). Coup massif capable de briser les défenses les plus lourdes.
-
-**Note de conversion** : Niveau Dolmenwood (13) réduit d'un cran (→ 12) car la créature combine deux capacités spéciales non triviales (Regard invalidant + Mutation aléatoire supplémentaire), conformément à la règle de coût. Dé de dégâts d12 car créature de type géant massif.
 
 **Moral (note narrative)** : Le fomorian est pondéré et peu enclin à la panique — il ne fuit presque jamais, se contentant d'utiliser son regard pour neutraliser la plus grande menace avant de frapper méthodiquement. En cas d'infériorité numérique flagrante, il se retire lentement plutôt que de fuir, sa fierté ancienne l'empêchant toute déroute précipitée.
 

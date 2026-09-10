@@ -9,25 +9,6 @@ Fées miniatures et agaçantes (15 cm de haut) aux ailes de libellule, qui essai
 - **Possessions** : Aucune.
 - **Trésor** : R1 + R6.
 
-## Statistiques Dolmenwood (source, pour référence)
-**SMALL FAIRY—SENTIENT—ANY ALIGNMENT**
-**Level** 1 **AC** 16 **HP** 1d4 (2) **Saves** D12 R13 H14 B15 S16
-**Attacks** Dart (+0, 1d2 + poison, range 20'/40'/60') or magic (see below)
-**Speed** 20 **Fly** 40 **Morale** 6 **XP** 20
-
-**Encounters** 3d6 (15% in lair)
-**Behaviour** Sharp-witted, mischievous, flippant
-**Speech** High-pitched buzzing. Sylvan, Woldish (1-in-4 chance)
-**Possessions** None **Hoard** R1 + R6
-
-**Cold iron:** As fairies, sprites suffer 1 extra point of damage when hit with cold iron weapons.
-**Poisoned darts:** Irritation and swelling cause a –1 penalty to Attack Rolls for 24 hours (**Save Versus Doom** to negate).
-**Type and magical trait:** There are eight types of sprites, each a different colour and with its own magical trait. When sprites are encountered, roll 1d8 to determine their type — see opposite.
-**Thievery and pranks:** Sprites are inveterate thieves and delight in using their fairy magic to play pranks on mortals.
-**Cowardly:** Sprites try to avoid physical confrontations with bigger folk, fleeing if their pranks lead to violence.
-**Barter:** Sprites are sometimes open to barter, providing secrets and reconnaissance from the local area in exchange for salt, honey, or resin.
-**Potion ingredient:** Adding a dozen mashed, fermented sprites of a particular type reduces the cost of brewing a particular type of potion by 25%. The Nag-Lord's servants hunt sprites for this purpose. Each sprite body is worth 10gp.
-
 ## Conversion Nimble
 
 > **LUTIN (SPRITE)** LVL 1, Small, Vol — ♥20, Armure Moyenne

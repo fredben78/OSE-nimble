@@ -11,24 +11,7 @@ Masses de tentacules noires, munies de ventouses, se tordant en tous sens (10' d
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-- **Level** 4 · **AC** 15 · **HP** 4d8 (18) · **Saves** D10 R11 H12 B13 S14
-- **Attacks** 6 tentacules (+3, 1d4 + étranglement, portée 10')
-- **Speed** 20 · **Morale** 10 · **XP** 180
-- **Encounters** 1d4 (aucun repaire)
-
-**Capacités spéciales (source)**
-- **Surprise** : Lorsque les tentacules noires sont submergées dans un plan d'eau ou de boue, le camp adverse a 4 chances sur 6 d'être surpris.
-- **Sans yeux** : Peut agir normalement dans la lumière comme dans l'obscurité.
-- **Amphibie** : Peut respirer à l'air comme dans l'eau.
-- **Portée** : Les attaques du monstre peuvent viser plusieurs adversaires distincts dans un rayon de 10'.
-- **Étranglement** : Une fois qu'un tentacule touche, il s'accroche, resserre sa prise, et tente d'étrangler ou de noyer la victime. La victime subit automatiquement 1d4 dégâts chaque Round, jusqu'à ce que le tentacule soit sectionné (voir ci-dessous) ou le monstre tué.
-- **Sectionner les tentacules** : Un jet d'Attaque naturel de 19 ou 20 indique qu'un des tentacules du monstre a été sectionné. Le nombre d'attaques qu'il peut faire par Round est alors réduit de un. Sectionner ses 6 tentacules tue le monstre.
-- **Subsistance** : Les tentacules noires absorbent leur nourriture des corps en décomposition de leurs victimes.
-
 ## Conversion Nimble
-
-Niveau Dolmenwood 4. Trois capacités non-triviales combattives (Étranglement, Portée multi-cibles, Sectionnement des tentacules) → application de la règle de coût : PV pris à la ligne de niveau 3. CA 15 → Armure Moyenne. Monstruosité à intelligence animale → dé de dégâts d10.
 
 > **TENTACULES NOIRES** LVL 4, Grand — ♥33, Armure Moyenne
 > *Surprise. Émergeant de l'eau ou de la boue, la créature surprend son adversaire sur 4 chances sur 6.*

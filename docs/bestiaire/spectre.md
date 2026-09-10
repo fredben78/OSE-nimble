@@ -9,24 +9,6 @@ Esprits incorporels de mortels qui, dans des âges depuis longtemps révolus, v�
 - **Possessions** : Aucune.
 - **Trésor** : C5 + R2 + M8.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM UNDEAD—SENTIENT—CHAOTIC**
-**Level** 6 **AC** 17 **HP** 6d8 (27) **Saves** D9 R10 H11 B12 S13
-**Attacks** Touch (+5, 1d8 + energy drain)
-**Speed** 50 **Fly** 100 **Morale** 11 **XP** 1,120
-
-**Encounters** 1d4 (80% in lair)
-**Behaviour** Avaricious, arrogant, desire worship
-**Speech** Sinister whispering. Old Woldish
-**Possessions** None **Hoard** C5 + R2 + M8
-
-**Undead:** Silent before attacking. Immune to biological effects (e.g. disease, poison) and mind-affecting spells (e.g. *Vapours of Dream*, *Paralysation*, *Dominate*).
-**Immunities:** Only harmed by magic or magic weapons.
-**Incorporeal:** Can pass through walls, doors, and other solid objects.
-**Dark sight:** Can see normally without light.
-**Energy drain:** The touch of a spectre reduces the victim's maximum Hit Points by 1d6 and incurs a –1 penalty to Attack Rolls and Saving Throws. These effects are cumulative if a victim is touched multiple times. Gaining a Level removes all penalties and restores lost maximum HP.
-**Soul annihilation:** A victim slain by a spectre must **Save Versus Doom** or have their soul annihilated, snuffed out by the spectre's evil magic. Such a victim cannot be raised from the dead, except by a wish.
-
 ## Conversion Nimble
 
 > **SPECTRE** LVL 5, Medium, Vol — ♥46, Armure Moyenne

@@ -9,25 +9,6 @@ Hybrides homme-cheval jovials mais versatiles, natifs de Féerie. Réputés pour
 - **Possessions** : Portées par le groupe : 4d20 pp + M2.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-
-**FAE GRAND — SENTIENT — NEUTRE**
-
-**Niveau** 4 **CA** 13 **PV** 4d8 (18) **Sauvegardes** D10 R11 H12 B13 S14
-**Attaques** [2 sabots (+3, 1d4) et gourdin (+3, 1d6+2)] ou arc (+3, 1d8, portée 21/42/64 m)
-**Vitesse** 80 **Moral** 10 **XP** 80
-
-**Rencontres** 2d6 (pas de repaire)
-**Comportement** Sauvage, jovial, philosophe
-**Discours** Murmures doux et hennissements sauvages. Sylvain, woldish (1 chance sur 4)
-**Possessions** Portées par le groupe : 4d20 pp + M2 **Trésor** Aucun
-
-**Fer froid :** Étant fae, les centaures sylvains subissent 1 point de dégâts supplémentaire lorsqu'ils sont touchés par des armes en fer froid.
-
-**Jet de Réaction :** Les centaures sylvains ont un tempérament versatile. Lors d'une rencontre, effectuer un Jet de Réaction (2d6 modifié par le Charisme) et consulter la table *Réactions du Centaure Sylvain* pour déterminer leur comportement.
-
-**Nourriture, boisson, musique :** Tout signe de festin ou de réjouissance plonge les centaures sylvains dans une rage hédoniste (voir la table *Réactions du Centaure Sylvain*).
-
 ## Conversion Nimble
 
 > **CENTAURE SYLVAIN** LVL 4, Grand — ♥49, Sans armure

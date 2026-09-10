@@ -9,30 +9,7 @@ Bandits féeriques qui entrent dans Dolmenwood à la demande du Prince Mallowhea
 - **Possessions** : Portées par le groupe : 2d100 po + R4.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-MEDIUM FAIRY—SENTIENT—CHAOTIC
-
-**Level** 2 **AC** 14 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** 2 cudgels (+1, 1d4 + knock-out) or nursery rhyme (sleep)
-**Speed** 30 **Morale** 9 **XP** 35
-
-**Encounters** 2d6 (no lairs in the mortal world)
-**Behaviour** Sneaky, malicious, mischievous
-**Speech** Leering and tittering. Woldish, Sylvan, basic High Elfish
-**Possessions** Carried by group: 2d100gp + R4
-**Hoard** None
-
-**Cold iron :** As fairies, redcaps suffer 1 extra point of damage when hit with cold iron weapons.
-**Knock-out :** Redcaps never fight to kill, but only to knock their foes unconscious. A blow that would reduce the target to 0 HP instead renders it unconscious for 6 Turns, remaining at 1 HP.
-**Nursery rhymes (once a day) :** A group of 4 or more redcaps can chant a taunting nursery rhyme that causes 1d6 mortals within 50' to fall into an enchanted sleep for 6 Turns (Save Versus Spell to resist).
-**Robbery :** Unconscious victims are robbed of their possessions (save silver) and sometimes outerwear.
-**Red hats :** All redcaps wear a bright red hat of one kind or another. See Hat Type.
-**Entering mortal settlements :** If a redcap can be tricked into setting foot in a mortal town or village, they become merry, good-willed, and amorous, before vanishing into Fairy after some hours.
-**Serve Prince Mallowheart :** Redcaps are servants of the cruel fairy Prince Mallowheart (DCB), who delights in tormenting and humiliating mortals.
-
 ## Conversion Nimble
-
-*Deux capacités non-triviales (assommer au lieu de tuer, comptine d'enchantement collective) imposent de redescendre d'un cran → Niveau 1 retenu.*
 
 > **REDCAP** LVL 1 — ♥20, Armure Moyenne
 > *Fer froid : subit 1 dégât supplémentaire des armes en fer froid.*

@@ -11,24 +11,7 @@ Esprits sinistres se manifestant sous la forme d'humanoïdes imposants, drapés 
 - **Possessions** : Aucune.
 - **Trésor** : C4 + R4 + M1 (codes des tables de trésor Dolmenwood).
 
-## Statistiques Dolmenwood (source, pour référence)
-- **Level** 4 · **AC** 14 · **HP** 4d8 (18) · **Saves** D10 R11 H12 B13 S14
-- **Attacks** Griffe (+3, 1d10 + drain de vie)
-- **Speed** 40 · **Morale** 9 · **XP** 180
-- **Encounters** 2d4 (75 % en repaire)
-
-**Capacités spéciales (source)**
-- **Mort-vivant** : Silencieux avant d'attaquer. Immunisé aux effets biologiques (maladie, poison) et aux sorts affectant l'esprit (ex. *Vapeurs de Rêve*, *Paralysie*, *Domination*).
-- **Immunités** : Seules les armes en argent, magiques, ou en fer froid le blessent.
-- **Vision dans le noir** : voit normalement sans lumière.
-- **Drain de vie** : Le contact d'un fantôme-ramure draine 1d3 points de Constitution. Un personnage réduit à 0 Constitution meurt et ne peut être ramené à la vie. Les dégâts de Constitution ne peuvent être soignés que par magie sacrée : *Bénédiction* (Bless) rend 1 point.
-- **Silence sinistre** : Dans un rayon de 60' autour d'un fantôme-ramure, le son est étouffé et parler donne l'impression de déranger quelque chose qu'il vaudrait mieux laisser en paix. Les personnages lançant des sorts ont 2 chances sur 6 d'échouer (le sort est perdu comme s'il avait été lancé).
-- **Dormant le jour** : Pendant les heures de clarté, les fantômes-ramures sont dormants, ne se manifestant que sous la forme d'une brume froide autour des pierres qu'ils gardent. Si leurs pierres ou trésors sont dérangés, ils se manifestent pleinement, se matérialisant hors de la brume.
-- **Victimes sacrificielles** : Recherchent des sentients à sang chaud qu'ils traînent vers leurs cercles de pierres pour les sacrifier. Les victimes sacrifiées sont enterrées aux abords du cercle, avec leurs possessions et trésors.
-
 ## Conversion Nimble
-
-Niveau Dolmenwood 4. Deux capacités non-triviales ajoutées (Drain de vie, Silence sinistre) → application de la règle de coût GMG : PV/dégâts pris à la ligne de niveau 3 (au lieu de niveau 4). CA 14 → Armure Moyenne. Type Mort-Vivant → dé de dégâts d4 avec gros bonus fixe.
 
 > **FANTÔME-RAMURE** LVL 4 — ♥33, Armure Moyenne
 > *Silence sinistre. Dans 6 cases autour de lui, tout sort lancé a 2 chances sur 6 d'échouer et d'être perdu comme s'il avait été utilisé.*

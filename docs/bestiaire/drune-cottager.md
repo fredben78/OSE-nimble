@@ -9,26 +9,6 @@ Membres lunatiques et vêtus de noir de la confrérie occulte, qui errent dans l
 - **Possessions** : 2d4 po + un torque doré (150 po) + biens de commerce arcanes (DCB, 2 chances sur 6).
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MORTAL—SENTIENT—ANY ALIGNMENT**
-
-**Level** 4 **AC** 13 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** Staff (+3, 1d4 + flame) or spell (see below) or sigil (see below)
-**Speed** 40 **Morale** 9 **XP** 180
-
-**Encounters** 1d4 (20% in lair)
-**Behaviour** Penetrating, self-serving, manipulative
-**Speech** Abstruse, doom-laden. Woldish, Drunic
-**Possessions** 2d4gp + golden torc (150gp) + arcane trade goods (DCB, 2-in-6 chance)
-**Hoard** None
-
-**Dark sight :** Can see normally in darkness up to 30'.
-**Flame :** A victim hit by a cottager's staff must Save Versus Spell or be wreathed in snaking green flame, suffering 1 damage per Round for 1d4 Rounds. Greenflame is extinguished if the victim immerses themselves in water.
-**Spells :** The typical Cottager has the following arcane spells memorised : Rank 1 *Ingratiate*, *Vapours of Dream*, Rank 2 *Dweomerlight*, Rank 3 *Paralysation*.
-**Sigil (once a week) :** A Cottager may weave a mystic sigil of green flame in the air (see Drune Sigils). Weaving a sigil is treated as casting a spell and may be disrupted in combat.
-**Entourage :** 2-in-6 chance of being accompanied by 1d4 bramblings (p21) or 1d3 charmed villagers (p111).
-**Lair :** Typically live in a family with a Drunewife (p36) and 1d8–1 children (1d3 of whom are Braithmaids — p34).
-
 ## Conversion Nimble
 
 > **DRUNE COTTAGER** LVL 4 — ♥41 (Sans armure)
@@ -36,8 +16,6 @@ Membres lunatiques et vêtus de noir de la confrérie occulte, qui errent dans l
 > **Bâton enflammé.** 2d8+6 (Contact). Sur touche, la cible doit réussir un Sauvegarde DD11 (Vs Sort) ou être enveloppée de flammes vertes serpentines, subissant 1 dégât par Round pendant 1d4 Rounds (les flammes s'éteignent si la cible s'immerge dans l'eau).
 > **Sceau du Drune** *(une fois par semaine, traité comme un sort — peut être interrompu au combat)*. Le Cottager tisse un sceau mystique de flamme verte dans l'air (voir table Sceaux du Drune pour l'effet).
 > **Sorts.** Ingratiate, Vapeurs de rêve (Rang 1), Lumière onirique (Dweomerlight, Rang 2), Paralysie (Rang 3).
-
-**Note de conversion** : deux capacités non triviales au-delà du bâton de base (Flamme au contact + Sceau du Drune hebdomadaire), donc rétrogradation d'un cran dans la table de PV/dégâts/DD (ligne « Niveau 3 » utilisée : ♥41, dégâts/round 15, DD11 — étiquette de Niveau 4 conservée). Dé de dégâts d8 par défaut (mortel/humanoïde standard).
 
 **Moral (note narrative)** : Le Cottager est manipulateur et égocentrique (Moral 9) — il préfère négocier, fuir via un Sceau de fuite/invocation, ou envoyer son entourage (bramblings ou villageois charmés) au combat plutôt que de risquer sa propre peau. Une fois acculé, il se défend avec une froide détermination.
 

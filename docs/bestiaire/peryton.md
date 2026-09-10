@@ -9,25 +9,7 @@ Monstres étranges dotés du corps, des serres et des ailes d'un aigle géant, d
 - **Possessions** : Aucune.
 - **Trésor** : C6 + R7 + M4.
 
-## Statistiques Dolmenwood (source, pour référence)
-LARGE MONSTROSITY—ANIMAL INTELLIGENCE—NEUTRAL
-
-**Level** 4 **AC** 13 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** 2 talons (+3, 1d6) and bite (+3, 3d4)
-**Speed** 40 **Fly** 70 **Morale** 9 **XP** 180
-
-**Encounters** 2d4 (25% in lair)
-**Behaviour** Cunning, frenzied
-**Speech** Gurgling howls
-**Possessions** None **Hoard** C6 + R7 + M4
-
-**Immunities :** Only harmed by magic or magic weapons.
-**Gaze (once a day) :** A peryton may gaze at a sentient creature within 30' and let out a hideous, gurgling shriek. If the target fails a Save Versus Spell, they are assailed by their own shadow for 1d3 Rounds (treat as a shadow—p74). A character who slays their own shadow gains a +2 bonus to Attack Rolls against the peryton until next dawn, when the shadow also returns.
-**Killing a victim :** When a victim is killed, the peryton rips out their heart and immediately flies away. Perytons feed fresh hearts to their young.
-
 ## Conversion Nimble
-
-*Deux capacités non-triviales (immunité aux armes non-magiques, regard invoquant une ombre) imposent de redescendre d'un cran → Niveau 3 retenu.*
 
 > **PERYTON** LVL 3, Large (Vol) — ♥41, Sans armure
 > *Immunisé : seules les attaques magiques ou les armes magiques blessent le peryton.*

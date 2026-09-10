@@ -9,30 +9,6 @@ Licornes maléfiques corrompues par Atanuwë. De couleur gris cendré, bleu nuit
 - **Possessions** : Corne maudite (voir ci-dessous).
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE DEMI-FEY—SENTIENT—CHAOTIC**
-**Level** 4 **AC** 17 **HP** 4d8 (18) **Saves** D10 R11 H12 B13 S14
-**Attacks** [2 hooves (+3, 1d6) and horn (+3, 1d8)] or spell (see below)
-**Speed** 80 **Morale** 9 **XP** 180
-
-**Encounters** 1d6 (no lair)
-**Behaviour** Sinister, fanatic, sadistic
-**Speech** Creaky whinnies. Gaffe, Sylvan
-**Possessions** Cursed horn (see below) **Hoard** None
-
-**Cold iron:** As demi-fey, corrupt unicorns suffer 1 extra point of damage when hit with cold iron weapons.
-**Magic Resistance:** +2 bonus to Saving Throws against effects of magical origin.
-**Spells:** Corrupt unicorns can cast each of the following unholy spells once a day: *Blight*, *Cause Disease*, *Cause Fear*, *Darkness*. (See *Unholy Spells*, below.)
-**Teleport:** Once per day, up to 360' (including rider).
-**Riders:** A corrupt unicorn may occasionally allow a malignant Chaotic character to ride it as a mount.
-**Cursed horn:** A corrupt unicorn's horn, if severed, is an artefact of evil magic. The horn functions as an *Arcane Dagger* and grants the wielder the ability to cast *Cause Disease* and *Cause Fear* (see *Unholy Spells*, below) once a day (magic item value 2,250gp). Servants of Atanuwë hunt and attempt to kill one who wields such an item.
-
-### Sorts Maléfiques (Unholy Spells — texte source)
-**Blight (Fléau) :** Les ennemis dans une zone de 6 m × 6 m doivent réussir un Save Versus Spell ou subir un malus de -1 aux jets d'Attaque et de Dégâts pendant 6 Tours.
-**Cause Disease (Provoquer la Maladie) :** Inflige une maladie horrible et débilitante à une cible unique à 9 m, si elle échoue un Save Versus Doom. La maladie entraîne un malus de -2 aux Attaques, empêche la guérison magique, réduit de moitié le taux de guérison naturelle, et cause la mort en 2d12 jours.
-**Cause Fear (Provoquer la Peur) :** Une cible unique à 36 m doit réussir un Save Versus Spell ou fuir pendant 2 Tours.
-**Darkness (Obscurité) :** Conjure une zone de ténèbres magiques de 4,5 m de rayon durant 12 Tours.
-
 ## Conversion Nimble
 
 > **LICORNE CORROMPUE** LVL 4, Grand — ♥39, Armure Moyenne

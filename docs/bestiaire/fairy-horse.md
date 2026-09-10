@@ -9,28 +9,6 @@ De magnifiques juments et étalons pommelés d'argent, à la grâce fringante et
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE FAIRY—SENTIENT—ANY ALIGNMENT**
-
-**Level** 2 **AC** 13 **HP** 2d8 (9) **Saves** D12 R13 H14 B15 S16
-**Attacks** 2 hooves (+1, 1d6) or curse (see below)
-**Speed** 80 **Morale** 8 **XP** 50
-
-**Encounters** 1 (no lair)
-**Behaviour** Sharp-witted, curious, driven by wanderlust
-**Speech** Sarcastic. Woldish, Sylvan
-**Possessions** None **Hoard** None
-
-**Cold iron :** As fairies, fairy horses suffer 1 extra point of damage when hit with cold iron weapons.
-
-**Charming voice (once per target) :** When not in combat, a fairy horse may charm a mortal into its service for 1d6 days (Save Versus Spell to resist). Charmed individuals view the fairy horse as a trusted friend and companion, and are often mistaken for the horse's "owner" when allowed to ride.
-
-**Curse (once per target) :** A fairy horse may curse a mortal who has slighted it. The victim must Save Versus Spell or suffer a permanent –2 penalty to Saving Throws or Attack Rolls.
-
-**Blessing (once per target) :** A fairy horse may bless a mortal who has granted aid or service of their own free will. See Blessings. Blessings last for a year and a day.
-
-**Companions :** 3-in-6 chance of being encountered with a companion — either a charmed mortal or an elf wanderer. In the case of an elf companion, the two treat each other as equals.
-
 ## Conversion Nimble
 
 > **CHEVAL FÉE** LVL 1, Grand — ♥26 (Sans armure)
@@ -39,8 +17,6 @@ De magnifiques juments et étalons pommelés d'argent, à la grâce fringante et
 > *Malédiction (1/cible) : contre un mortel qui l'a offensé — Save DC10 (Vs Sort) ou -2 permanent aux jets de sauvegarde et d'attaque.*
 > *Bénédiction (1/cible) : envers un mortel ayant rendu service librement — effet au choix sur la table Bénédictions, valable un an et un jour.*
 > **Sabots.** 2d6+4 (Contact). Deux ruades combinées.
-
-**Note de conversion** : le Niveau Dolmenwood (2) a été réduit d'un cran (→ 1) car la créature porte trois capacités spéciales non triviales (voix charmante, malédiction, bénédiction), conformément à la règle de coût du convertisseur. Dé de dégâts d6 car créature féerique.
 
 **Moral (note narrative)** : Le cheval fée ne cherche jamais vraiment le combat — il fuit ou se téléporte hors de danger dès que possible (Vitesse 80), préférant la ruse, la fuite ou la négociation à l'affrontement. Il ne combattra à mort que pour protéger un compagnon charmé ou un allié elfe.
 

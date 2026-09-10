@@ -9,30 +9,6 @@ Des conglomérats humanoïdes de 2,10 m de haut, formés de longues lamproies gr
 - **Possessions** : Aucune.
 - **Trésor** : C7 + R4 + M4.
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM MONSTROSITY—SEMI-INTELLIGENT—CHAOTIC**
-
-**Level** 3 **AC** 12 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** 2 fists (+2, 1d4)
-**Speed** 20 **Morale** 7 **XP** 65
-
-**Encounters** 2d6 (75% in lair)
-**Behaviour** Lumbering, cunning, languid
-**Speech** Wordless gurgling
-**Possessions** None **Hoard** C7 + R4 + M4
-
-**Dark sight :** Can see normally without light.
-
-**Dissipate :** When in water or mud, a galosher can dissipate its humanoid form at will, vanishing into a swarm of lampreys with swimming Speed 40.
-
-**Phantasmal beauty :** When not in combat, a galosher can veil its true form with illusion. Sentient creatures perceive an alluring person of great beauty and must Save Versus Spell or be entranced and drawn to move towards the monster. The charm is broken if the galosher is slain.
-
-**Submerging victims :** Entranced victims drawn into the mud of the galosher's pool are submerged over 2d4 Rounds. Submerged victims do not drown, but enter a state of suspended animation, their minds lost in feverish dreams.
-
-**Dream feeding :** Galoshers feed on the dreams of submerged victims, attaching to their heads with their sucking, toothless maws.
-
-**Rescuing :** Submerged victims awaken and return to normal if dragged from the mud.
-
 ## Conversion Nimble
 
 > **GALOSHER** LVL 2 — ♥34 (Sans armure)
@@ -40,8 +16,6 @@ Des conglomérats humanoïdes de 2,10 m de haut, formés de longues lamproies gr
 > *Beauté fantasmagorique (hors combat) : masque sa véritable forme sous l'apparence d'une personne d'une grande beauté. Toute créature sentiente à portée doit Save DC11 (Vs Sort) ou être envoûtée et attirée vers le monstre ; le charme est rompu si le galosher est tué.*
 > *Submersion : une victime envoûtée est entraînée dans la vase et submergée en 2d4 rounds, plongée dans une animation suspendue peuplée de rêves fiévreux — elle ne se noie pas mais peut être ramenée à la normale en la tirant hors de la boue.*
 > **Poings.** 2d8+4 (Contact). Deux coups groggy assénés avec lenteur mais puissance.
-
-**Note de conversion** : Niveau Dolmenwood (3) réduit d'un cran (→ 2) en raison de deux capacités spéciales non triviales (Beauté fantasmagorique + Submersion), conformément à la règle de coût. Dé de dégâts d8 par défaut (monstruosité de stature humanoïde).
 
 **Moral (note narrative)** : Le galosher évite tout affrontement direct et loyal — il préfère envoûter ses proies à distance et attendre qu'elles viennent à lui. S'il est découvert ou attaqué en combat ouvert avant d'avoir pu charmer quiconque, il se replie dans l'eau/la vase et se disperse en essaim de lamproies pour fuir plutôt que de se battre.
 

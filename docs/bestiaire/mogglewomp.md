@@ -9,22 +9,6 @@ Monstres demi-fées léonins aux grandes griffes, crocs, et yeux en soucoupe. Er
 - **Possessions** : Aucune.
 - **Trésor** : Richesse de l'ancien propriétaire de la demeure : 2d20po (modeste) / C3 + R3 + M3 (aisée) / C7 + R11 + M9 (riche).
 
-## Statistiques Dolmenwood (source, pour référence)
-**GRAND DEMI-FÉE — SENTIENT — CHAOTIQUE**
-
-**Level** 3 **AC** 12 **HP** 3d8 (13) **Saves** D11 R12 H13 B14 S15
-**Attacks** 2 griffes (+2, 1d10) et morsure (+2, 2d6)
-**Speed** 40 **Morale** 7 à l'extérieur, 9 dans le repaire **XP** 65
-
-**Encounters** 1 (50% dans le repaire)
-
-**Fer froid** : En tant que demi-fée, le mogglewomp subit 1 point de dégâts supplémentaire lorsqu'il est frappé par une arme en fer froid.
-**Immunités** : Les mogglewomps ont une chair caoutchouteuse sous leur duvet. Ils subissent la moitié des dégâts tranchants ou coupants. Les membres sectionnés peuvent être réattachés.
-**Si rencontré à l'extérieur** : Un mogglewomp a la forme d'un rustre hirsute à la mâchoire pendante, vêtu d'habits de voyage.
-**Entrer dans une demeure** : Lorsqu'il est invité à l'intérieur et qu'on lui offre une boisson chaude, un mogglewomp reprend sa forme monstrueuse, grandissant rapidement pour remplir la demeure (voir *Croissance*). Pour s'imposer comme nouveau maître des lieux, il s'emploie rapidement à manger et expulser les anciens habitants de la demeure.
-**Croissance** : Initialement de la taille d'un lion, le corps, le cou et les membres d'un mogglewomp s'étendent en de grands monticules et enroulements de chair poilue, s'étalant sur une zone de 3 m × 3 m par Tour. Le monstre gagne 1 Niveau par pièce qu'il envahit (jusqu'à un maximum de Niveau 18). Pour chaque Niveau supplémentaire, le monstre gagne 1d8 PV et un bonus de +1 aux Jets d'Attaque et de Sauvegarde. La valeur en XP du monstre doit être calculée en fonction de son Niveau augmenté (voir *Création de Monstres*, p126).
-**Si rendu sans abri** : Un mogglewomp chassé de sa demeure reprend sa forme humaine errante en 1d6 heures.
-
 ## Conversion Nimble
 
 > **MOGGLEWOMP** LVL 3, Grand — ♥34

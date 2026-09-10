@@ -9,22 +9,6 @@ Mollusques visqueux à coquille (3 m de haut) qui glissent lentement à travers 
 - **Possessions** : Aucune.
 - **Trésor** : Aucun.
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE MONSTROSITY—ANIMAL INTELLIGENCE—NEUTRAL**
-**Level** 6 **AC** 17 **HP** 6d8 (27) **Saves** D9 R10 H11 B12 S13
-**Attacks** Bite (+5, 1d8 + engulf)
-**Speed** 30 **Morale** 9 **XP** 720
-
-**Encounters** 1d3 (no lair)
-**Behaviour** Ravenous, instinctual
-**Speech** Relentless slurping
-**Possessions** None **Hoard** None
-
-**Engulf:** On a natural 19 or 20 Attack Roll, the victim is dragged under the snail's slimy, undulating body and crushed. Each Round, an engulfed victim automatically suffers 2d6 damage and may make a **Save Versus Hold** to escape.
-**Cling:** Can slither up vertical surfaces (e.g. tree trunks, walls, ceilings, etc.).
-**Mutations:** Due to feeding on ley-infused flora, each snail possesses a weird mutation — roll on the *Mutations* table.
-**Riders:** Mutant giant snails may be captured and used as mounts, though the necessary training requires magic or great patience.
-
 ## Conversion Nimble
 
 > **ESCARGOT GÉANT MUTANT** LVL 5, Grand — ♥46, Armure Moyenne

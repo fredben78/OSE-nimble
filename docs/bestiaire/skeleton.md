@@ -11,23 +11,6 @@ Restes squelettiques de mortels, réanimés par une magie erratique. Dotés d'un
 
 *Note : il existe aussi des squelettes sans esprit (voir ci-dessous), créés comme serviteurs par la magie noire — ceux-ci n'ont pas de comportement propre et suivent aveuglément les ordres de leur créateur.*
 
-## Statistiques Dolmenwood (source, pour référence)
-**MEDIUM UNDEAD—SENTIENT—ANY ALIGNMENT**
-**Level** 1 **AC** 12 **HP** 1d8 (4) **Saves** D12 R13 H14 B15 S16
-**Attacks** Weapon (+0)
-**Speed** 20 **Morale** 7 **XP** 10
-
-**Encounters** 3d6 (no lair)
-**Behaviour** Merry, flippant, addled, awed
-**Speech** Rattling whisper. Woldish
-**Possessions** 2d6sp **Hoard** None
-
-**Undead:** Silent before attacking. Immune to biological effects (e.g. disease, poison) and mind-affecting spells (e.g. *Vapours of Dream*, *Paralysation*, *Dominate*).
-**Dark sight:** Can see normally without light.
-**Damage reduction:** Suffer half damage from cutting or piercing attacks (e.g. arrows, spears, swords).
-**Weapons:** Skeletons tend to wield clubs (d4), staves (d4), or shortswords (d6).
-**Mindless skeletons:** 3-in-6 groups of skeletons are undead servitors created by dark magic (e.g. the arcane spell *Animate Dead*). Such skeletons unquestioningly carry out their creator's instructions (sometimes centuries after their demise). They are Mindless and have Morale 12.
-
 ## Conversion Nimble
 
 > **SQUELETTE** LVL 1 — ♥26, Sans armure

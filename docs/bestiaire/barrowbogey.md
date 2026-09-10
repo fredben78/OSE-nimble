@@ -11,23 +11,7 @@ Fées chétives (3' de haut) à la peau flasque et fripée. Portent un pot ou un
 - **Possessions** : Aucune.
 - **Trésor** : C4 + R4 + M1 + 4d20 pots ou jarres.
 
-## Statistiques Dolmenwood (source, pour référence)
-- **Level** 3 · **AC** 13 · **HP** 3d8 (13) · **Saves** D11 R12 H13 B14 S15
-- **Attacks** 2 griffures (+2, 1d4) ou 2 fléchettes de ronces (+2, 1d4, portée 20'/40'/60')
-- **Speed** 40 · **Morale** 9 · **XP** 40
-- **Encounters** 2d6 (25 % en repaire)
-
-**Capacités spéciales (source)**
-- **Fer froid** : Comme toutes les fées, subit 1 point de dégâts supplémentaire lorsqu'il est frappé par une arme en fer froid.
-- **Vision dans le noir**.
-- **Malédiction du logis (une fois par jour)** : Un barrowbogey peut maudire une demeure, frappant tous ses occupants de tremblements, furoncles et verrues — perdant 1 point de Constitution, 1 de Charisme et 1 de Dextérité (JdS contre la Damnation pour résister). La malédiction peut être guérie par magie (ex. *Suppression de Malédiction*, *Tissage d'Hexe*) ou en mangeant un porridge cuit dans le pot volé sur les épaules de la fée qui a lancé la malédiction.
-- **Si tué** : Le pot du barrowbogey se brise instantanément en poussière.
-- **Pots et tartes** : Les barrowbogeys chérissent les tartes et les récipients en terre cuite (ils ne les produisent pas eux-mêmes). On peut les apaiser en leur offrant de tels présents ; ils s'infiltrent parfois dans les villages pour en voler aux mortels.
-- **Relation avec les morts-vivants** : Les barrowbogeys cohabitent, à l'occasion, avec des morts-vivants. Les deux partis ont tendance à simplement s'ignorer.
-
 ## Conversion Nimble
-
-Niveau Dolmenwood 3. Une seule capacité non-triviale ajoutée en combat (Malédiction du logis, à fréquence limitée hors-combat) → pas de palier de coût appliqué, ligne de niveau 3 utilisée telle quelle. CA 13 → Sans armure. Fae/petit chaotique → dé de dégâts d6.
 
 > **BARROWBOGEY** LVL 3, Petit — ♥41
 > *Fer froid. Les armes en fer froid infligent 1 dégât supplémentaire à cette créature.*

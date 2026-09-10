@@ -9,26 +9,6 @@ Fées monstrueuses (3 m de haut), mangeuses de mousse, à la chair glabre et sem
 - **Possessions** : Aucune.
 - **Trésor** : C5 + R2 + M8 + mousses magiques (chance de 3 sur 6, voir ci-dessous).
 
-## Statistiques Dolmenwood (source, pour référence)
-**LARGE FAIRY—SENTIENT—ANY ALIGNMENT**
-**Level** 8 **AC** 13 **HP** 8d8 (36) **Saves** D8 R9 H10 B11 S12
-**Attacks** 2 fists (+7, 1d10 + moss growth)
-**Speed** 40 **Morale** 10 (or 8, see *Fear of fire*) **XP** 1,440
-
-**Encounters** 1d3 (30% in lair)
-**Behaviour** Muddled, sly, hungry for moss
-**Speech** Lethargic rumbling. Woldish, Sylvan
-**Possessions** None **Hoard** C5 + R2 + M8 + magical mosses (3-in-6 chance, see below)
-
-**Cold iron:** As fairies, trolls suffer 1 extra point of damage when hit with cold iron weapons.
-**Regeneration:** A damaged troll gains 3 HP at the start of each Round, as long as it is alive. Severed limbs reattach.
-**Return from death:** If killed (0 HP), a troll regenerates and fights again in 2d6 Rounds.
-**Fire and acid:** The only way to permanently kill a troll — they cannot regenerate damage from these sources.
-**Fear of fire:** Morale 8 when attacked with fire or acid.
-**Moss growth:** A creature touched by a troll sprouts moss at the site of contact, which can only be removed by magic (e.g. *Cure Affliction*). If the moss is not removed, the victim loses 1 Constitution each week. If reduced to 0 Constitution, the character dies and becomes a mound of inanimate moss. *Raise Dead* is ineffectual upon characters who perish in this way.
-**Magical mosses:** Trolls sometimes have 2d4 portions of a magical moss species in their lair (e.g. *Frondhelm*, *Mind-Moss*, *Snogglebeard—DCB*).
-**Moss connoisseurs:** Trolls wander far and wide in search of new moss taste sensations. The great abundance of moss (including delicious ley-infused species) draws numerous trolls to Dolmenwood.
-
 ## Conversion Nimble
 
 > **TROLL** LVL 7, Grand — ♥79, Sans armure

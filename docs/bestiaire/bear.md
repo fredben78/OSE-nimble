@@ -3,9 +3,6 @@
 ## Description
 Ours bruns de 1,8 m de haut, au tempérament doux, qui déambulent en flairant baies et racines. Les adultes protègent leurs petits jusqu'à la mort, mais n'attaquent sinon que s'ils sont acculés. Pillent parfois les campements pour se nourrir (surtout de poisson et de sucreries).
 
-## Statistiques Dolmenwood (source)
-Medium Animal — Animal Intelligence — Neutral. Level 4, AC 13, HD 4d8 (18 PV), Att 2 griffes (+3, 1d3 + étreinte) et morsure (+3, 1d6), Speed 40, Morale 7, XP 130, Enc 1d4.
-
 ## Conversion Nimble
 
 > **OURS** LVL 4 — ♥49
