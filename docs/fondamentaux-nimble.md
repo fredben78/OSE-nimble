@@ -1,6 +1,6 @@
 # Fondamentaux Nimble
 
-Aide-mémoire des règles Nimble telles quelles (pas d'adaptation Dolmenwood ici — pour ça, voir [Création de personnage](creation-personnage.md) et [Sorts](sorts.md)).
+Aide-mémoire des règles Nimble telles quelles, vérifiées ligne par ligne contre les livres officiels (*Core Rules*, *Heroes*, *GM's Guide*).
 
 ## Résolution des attaques
 
@@ -46,7 +46,7 @@ Plafond d'une compétence : **+12**.
 ## DC des jets de sauvegarde imposés
 
 - **Par une capacité de héros** (sort, trait, capacité de classe) : **10 + stat clé du lanceur**.
-- **Par un monstre** : suit une table liée à son niveau (chaque créature convertie du Bestiaire précise déjà son propre DC) :
+- **Par un monstre** : suit une table liée à son niveau :
 
 | Niveau monstre | 1/4-1/3 | 1/2-1 | 2-3 | 4-5 | 6-7 | 8-9 | 10-11 | 12-13 | 14-15 | 16-17 | 18-20 |
 |---|---|---|---|---|---|---|---|---|---|---|---|

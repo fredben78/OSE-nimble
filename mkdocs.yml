@@ -1,8 +1,13 @@
-site_name: Dolmenwood sous Nimble
-site_description: Conversion communautaire non-officielle de Dolmenwood (Necrotic Gnome) vers le système Nimble (Nimble Co.)
+site_name: Aide-mémoire Nimble
+site_description: Résumé condensé et vérifié des règles du système de jeu de rôle Nimble
 site_author: Fred Ben
 repo_name: dolmenwood-nimble
 repo_url: https://github.com/fredben78/dolmenwood-nimble
+
+nav:
+  - Accueil: index.md
+  - Aide-mémoire: fondamentaux-nimble.md
+  - Mentions légales: NOTICE.md
 
 theme:
   name: material
@@ -23,7 +28,6 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.indexes
     - navigation.top
     - navigation.footer
     - search.suggest
@@ -43,4 +47,3 @@ markdown_extensions:
 plugins:
   - search:
       lang: fr
-  - awesome-pages
