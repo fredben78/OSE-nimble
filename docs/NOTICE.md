@@ -18,4 +18,4 @@ Pour toute question ou correction, ouvrez une *issue* sur le dépôt GitHub de c
 
 ---
 
-*Rédigé avec l'assistance d'une IA, vérifié par un contributeur humain contre les livres sources.*
+*Rédigé avec l'assistance d'une IA, vérifié par un contributeur humain à l'aide des livres sources.*
