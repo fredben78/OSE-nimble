@@ -12,10 +12,10 @@ Ce site utilise du texte Nimble dans le cadre de la [licence tierce de Nimble](h
 
 **Soutenez le jeu officiel** : procurez-vous les livres *Nimble* (Core Rules, Heroes, GM's Guide) sur [nimblerpg.com](https://nimblerpg.com).
 
-## Réalisation
-
-Ce contenu a été rédigé avec l'assistance de Claude (Anthropic), sous la direction et la vérification d'un contributeur humain — chaque règle a été confrontée aux livres sources.
-
 ## Contact
 
 Pour toute question ou correction, ouvrez une *issue* sur le dépôt GitHub de ce projet.
+
+---
+
+*Rédigé avec l'assistance d'une IA, vérifié par un contributeur humain contre les livres sources.*
