@@ -65,9 +65,9 @@ Trois catégories, pour ne pas réinventer ce qui existe déjà :
 
 ## 5. Pièges rencontrés en pratique
 
-- **Ne convertissez jamais de mémoire.** Chaque règle "reprise telle quelle depuis Nimble" doit être vérifiée mot pour mot contre le livre source — plusieurs erreurs réelles ont été trouvées cette façon (un effet de base confondu avec un effet d'amplification, une mécanique de jet de sauvegarde inversée) alors même que la conversion semblait raisonnable à l'instinct.
-- **Si plusieurs personnes ou processus travaillent en parallèle sur des lots de contenu**, une passe de relecture croisée est nécessaire après coup : la terminologie dérive facilement (unités de portée, notation de taille, noms de compétences) même quand chaque lot individuel est correct.
-- **Un audit arithmétique automatisé** (script qui recalcule chaque valeur depuis la table officielle plutôt que de la relire à l'œil) rattrape des erreurs qu'une relecture manuelle laisse passer, sur un gros volume de contenu.
+- **Gardez toujours le livre Nimble ouvert à côté, même pour un sort "repris tel quel".** C'est là que se cachent les erreurs les plus sournoises : un effet de base confondu avec son bonus d'amplification, une mécanique de jet de sauvegarde mal recopiée — des détails qui passent facilement inaperçus si on fait confiance à un premier jet familier plutôt que de relire le texte exact.
+- **Sur un gros morceau de contenu (tout un bestiaire, une liste de sorts complète), prévoyez une relecture de cohérence dédiée**, séparée du travail de conversion lui-même : la terminologie dérive facilement d'une fiche à l'autre (unités de portée, notation de taille, noms de compétences), même quand chaque entrée prise isolément est correcte.
+- **Pour les valeurs chiffrées** (PV, dégâts, DC), reconstruisez-les depuis la table officielle plutôt que de vous fier à une relecture visuelle — sur des dizaines d'entrées, l'œil laisse passer des écarts qu'un recalcul systématique attrape immédiatement.
 
 ---
 
