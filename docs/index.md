@@ -7,6 +7,6 @@ Un résumé condensé et vérifié des mécaniques du système de jeu de rôle *
 
 ## À propos
 
-Ce site ne contient que des règles génériques du système Nimble et une méthode de conversion — aucun contenu tiré d'un setting ou d'un supplément spécifique. Chaque règle a été vérifiée ligne par ligne à l'aide des livres officiels (*Core Rules*, *Heroes*, *GM's Guide*).
+Ce site ne contient que des règles génériques du système Nimble et une méthode de conversion — aucun contenu tiré d'un setting ou d'un supplément spécifique. Chaque règle a fait l'objet d'une vérification de cohérence à l'aide des livres officiels (*Core Rules*, *Heroes*, *GM's Guide*).
 
 Voir [Mentions légales](NOTICE.md) pour l'attribution.

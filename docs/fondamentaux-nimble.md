@@ -1,6 +1,6 @@
 # Fondamentaux Nimble
 
-Aide-mémoire des règles Nimble telles quelles, vérifiées ligne par ligne à l'aide des livres officiels (*Core Rules*, *Heroes*, *GM's Guide*).
+Aide-mémoire des règles Nimble telles quelles, dont la cohérence a été vérifiée à l'aide des livres officiels (*Core Rules*, *Heroes*, *GM's Guide*).
 
 ## Résolution des attaques
 
