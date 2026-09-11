@@ -7,6 +7,7 @@ repo_url: https://github.com/fredben78/dolmenwood-nimble
 nav:
   - Accueil: index.md
   - Aide-mémoire: fondamentaux-nimble.md
+  - Convertir un jeu OSE: methode-conversion-ose.md
   - Mentions légales: NOTICE.md
 
 theme:

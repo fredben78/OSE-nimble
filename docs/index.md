@@ -1,11 +1,12 @@
 # Aide-mémoire Nimble
 
-Un résumé condensé et vérifié des mécaniques du système de jeu de rôle **Nimble** (Nimble Co.) : résolution des attaques, armure, points de vie et Blessures, Mana et rangs de sorts, seuils de difficulté, avantage/désavantage, et quelques repères de calibrage pour toute création homebrew.
+Un résumé condensé et vérifié des mécaniques du système de jeu de rôle **Nimble** (Nimble Co.), et une méthode générique pour porter un jeu OSE/B-X vers ce système.
 
-👉 **[Voir l'aide-mémoire](fondamentaux-nimble.md)**
+- 👉 **[Aide-mémoire des règles Nimble](fondamentaux-nimble.md)** — résolution des attaques, armure, PV/Blessures, Mana, seuils de difficulté, avantage/désavantage, repères de calibrage.
+- 👉 **[Convertir un jeu OSE vers Nimble](methode-conversion-ose.md)** — méthode : monstres, sorts, classes, races, pièges à éviter.
 
 ## À propos
 
-Ce site ne contient que des règles génériques du système Nimble — aucun contenu tiré d'un setting ou d'un supplément spécifique. Chaque règle a été vérifiée ligne par ligne contre les livres officiels (*Core Rules*, *Heroes*, *GM's Guide*).
+Ce site ne contient que des règles génériques du système Nimble et une méthode de conversion — aucun contenu tiré d'un setting ou d'un supplément spécifique. Chaque règle a été vérifiée ligne par ligne contre les livres officiels (*Core Rules*, *Heroes*, *GM's Guide*).
 
 Voir [Mentions légales](NOTICE.md) pour l'attribution.
